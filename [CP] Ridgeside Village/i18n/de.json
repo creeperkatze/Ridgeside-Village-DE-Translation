@@ -9,7 +9,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 //Miscellaneous
 //-------------
 
-  "Find.Undreya": "Hä? Wer bist du!?#Du hast es geschafft, mich zu entdecken, hm. Vielleicht bist du die Person, die er meinte...# Ähm... Hey, komm morgen Abend wieder hierher, zur gleichen Zeit. Ich möchte dich ordentlich treffen.",
+  "Find.Undreya": "Hä? Wer bist du!?#Du hast es geschafft, mich zu entdecken, hm. Vielleicht bist du die Person, die er meinte...#Ähm... Hey, komm morgen Abend wieder hierher, zur gleichen Zeit. Ich möchte dich ordentlich treffen.",
   "Ember.of.Resolutions": "Glut der Vorsätze",
 
   "EoR.Bonfire": "Sollen wir das Lagerfeuer starten? Es wird jetzt fast Mitternacht.",
@@ -4466,30 +4466,30 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Festivals.SpiritEve.Olga": "Sie wird all diese Süßigkeiten essen und dann wird sie die ganze Nacht krank und quengelig sein...$s",
   "Festivals.SpiritEve.Pika": "Erzähl es Keahi nicht, aber jedes Jahr nehme ich mir heimlich etwas Süßes aus seinem Fundus.#$b#Tama's Steuer, wie mein Vater es zu nennen pflegte, ha ha!$h",
   "Festivals.SpiritEve.Richard": "Ich habe vor langer Zeit gelernt, aufzuhören zu fragen, wie Lenny diese Dinge geschehen lässt, und es einfach zu genießen.$h#$e#Du musst den Apfelwein probieren, wenn du es noch nicht getan hast.$4",
-  "Festivals.SpiritEve.Trinnie": "Keahi hat mein Kostüm nicht bemerkt...$s#$b#Dumme Keahi!$s#$e#Ich teile nicht mein Süßigkeiten!$a",
+  "Festivals.SpiritEve.Trinnie": "Keahi ging ohne mich ins Labyrinth...$s#$b#Dumme Keahi!$s#$e#Ich teile werde meine Süßigkeiten nicht teilen!$a",
   "Festivals.SpiritEve.Yuuma": "Shiro wollte mit mir in das Labyrinth gehen, aber ich wollte nicht gehen.#$e#Ich habe ihm gesagt, dass es nicht sicher für ihn ist, alleine zu gehen, und er wurde traurig.$s#$b#Ich denke, wir gehen bald.$4",
 
 	//Dateables
-  "Festivals.SpiritEve.Alissa": "Dieses Kleid ist etwas schwierig zu gehen.#$b#Ich hoffe, ich stolpere nicht und verursache eine Szene.$s",
-  "Festivals.SpiritEve.Alissa_spouse": "Ich fürchte, dass ich bald im Labyrinth verloren gehe.$s#$b#Wirst du versuchen, mich zu finden, wenn das passiert?$h",
+  "Festivals.SpiritEve.Alissa": "Ich bin es nicht gewohnt, so spät noch draußen zu sein. Normalerweise schlafe ich schon lange um diese Uhrzeit.$s$b#Aber es ist schön mal wieder die ganze Stadt hier versammelt zu sehen.$s",
+  "Festivals.SpiritEve.Alissa_spouse": "Ich befürchte, dass ich mich im Labyrinth verlaufen werde.$s#$b#Wirst du versuchen mich zu finden, wenn ich mich verirre?$h ",
   "Festivals.SpiritEve.Corine": "Boo!#$e#Haha, ich weiß, ich habe dich nicht erschreckt!$h#$b#Genießt du das Festival?",
   "Festivals.SpiritEve.Corine_spouse": "Es liegt etwas in der Luft heute Abend.#$e#Ich muss vielleicht kurz weg, aber ich verspreche, heute Abend zurückzukommen.",
   "Festivals.SpiritEve.Flor": "Ich verstehe technisch gesehen, dass Menschen gerne gruselige Dinge mögen, weil sie den Nervenkitzel der Angst spüren können, ohne sich wirklich in Gefahr zu befinden, aber ich empfinde nicht dasselbe. #$b#Ich werde dort sein, wo es gut beleuchtet ist. $h",
   "Festivals.SpiritEve.Flor_spouse": "Es ist in Ordnung, wenn du den Irrgarten laufen oder so etwas machen möchtest, wirklich!#$b#Mir geht es hier gut. Mach dir keine Sorgen um mich.$h",
   "Festivals.SpiritEve.Ian": "Ich bin dankbar für all die Festivals, die wir haben. #$e#Ein Tag, an dem ich kein Essen kaufen muss, bedeutet mehr Ersparnisse! $h#$b#Manchmal lassen Gus und Pika mich auch Reste mit nach Hause nehmen.",
   "Festivals.SpiritEve.Ian_spouse": "Möchtest du zusammen das Labyrinth erkunden?#$e#Ich bin noch nie bis zum Ende gekommen, also werde ich dir folgen!",
-  "Festivals.SpiritEve.Jeric": "Was denkst du? Ziemlich schick, oder?#$b#Wird alle Mädels anlocken lassen.$h",
+  "Festivals.SpiritEve.Jeric": "Ich brauche kein auffälliges Kostüm, um alle Mädels anzulocken. Sie lieben mich genau so, wie ich bin...$7#$e#Obwohl es trotzdem nicht schaden könnte...$6",
   "Festivals.SpiritEve.Jeric_spouse": "Dieser Zauberer sperrt einen großen Teil der Stadt den ganzen Tag lang ab, um das Geisterfest vorzubereiten.#$e#Ich frage mich, wie er es schafft, das alles alleine zu erledigen.",
   "Festivals.SpiritEve.Kenneth": "Lenny und Ian haben wirklich gute Arbeit geleistet, um den Ort aufzuhübschen!",
   "Festivals.SpiritEve.Kenneth_spouse": "Lenny hat herausgefunden, dass Maru und ich mit den Lichtern herumgespielt haben und hat uns gezwungen, sie zurückzusetzen. #$e#Sie fand es aber trotzdem lustig. Sie ist immer fair. #$b#...Sag es ihr nicht, aber Maru und ich haben immer noch ihre Veranda-Lampe gegen eine rote Glühbirne ausgetauscht!$h",
-  "Festivals.SpiritEve.Maddie": "Ich muss zugeben, einige dieser Kostüme sind gut zusammengestellt. #$b#Es lässt mich fast denken, dass ich mehr Mühe in meins hätte stecken sollen...$s#$e#Nein, es wäre immer noch Zeitverschwendung gewesen.",
-  "Festivals.SpiritEve.Maddie_spouse": "Ich musste gerade vorher im Labor etwas abholen.#$b#Herr Aguar hat mich damit aufgezogen, dass ich kein Kostüm habe. Grantiger alter Mann. Trägt er eins?$a",
-  "Festivals.SpiritEve.Philip": "Ich kann nicht aufhören, diese Skelette anzustarren.#$e#Das muss ein Trick sein.#$b#Wie bewegen sie sich ohne Muskulatur?$s",
-  "Festivals.SpiritEve.Philip_spouse": "Es ist erstaunlich, wie sie das alles an einem Tag schaffen. #$e#Ich wette, Lennys Rücken wird sie eine Weile stören...",
+  "Festivals.SpiritEve.Maddie": "Warum interessieren sich alle so für das Labyrinth? Was für eine Zeitverschwendung.$5#$b#Im Dunkeln herumirren, ohne zu wissen wohin man gehen soll, darauf zu warten, dass irgendwas einen aus der Ecke anspringt...$s#$b#Nein, ich habe keine Angst!!!$a",
+  "Festivals.SpiritEve.Maddie_spouse": "Ich musste gerade noch etwas im Labor abholen bevor ich herkam.#$b#Herr Aguar hat mich damit aufgezogen, dass ich kein Kostüm habe. Grantiger alter Mann. Er trägt ja auch keins...$a",
+  "Festivals.SpiritEve.Philip": "Ich kann nicht aufhören, diese Skelette anzustarren.$3#$e#Das muss ein Trick sein.... Wie bewegen sie sich ohne Muskulatur?$s",
+  "Festivals.SpiritEve.Philip_spouse": "Es ist erstaunlich, wie sie das alles an einem Tag geschafft haben.#$e#Ich wette, Lennys Rücken wird sie eine Weile stören...",
   "Festivals.SpiritEve.Shiro": "Sie haben den Ort wirklich gut dekoriert!$h#$b#Ich war an Spirit's Eve, als ich jünger war, ein Schrecken.#$e#Ich liebte es, Leute zu erschrecken. Einmal oder zweimal bin ich definitiv über das Ziel hinausgeschossen...",
-  "Festivals.SpiritEve.Shiro_spouse": "Ich bleibe hier drüben.$s#$b#Es ist alles nur Rauch und Spiegel, aber irgendein Teil meines Gehirns weiß das nicht immer.",
-  "Festivals.SpiritEve.Ysabelle": "Hast du das Labyrinth durchquert?#$b#Versuche nicht zu oft zu verirren, sonst könntest du dich verlieren.$u#$b#OOooOOO! Haha!$h",
-  "Festivals.SpiritEve.Ysabelle_spouse": "Also, was hältst du von meinem Outfit für heute Abend?#$b#Très chic, hmm?$h",
+  "Festivals.SpiritEve.Shiro_spouse": "Geh und hab Spaß, Liebling. Ich bleibe hier drüben.#$b#Es sind alles nur Spiegel und etwas Rauch, aber irgendein Teil meines Gehirns kapiert das nicht immer.$s",
+  "Festivals.SpiritEve.Ysabelle": "Hast du das Labyrinth geschafft?#$b#Versuche dich nicht zu sehr zu verirren, sonst verlierst du dich noch selbst.$u#$b#OOooOOO! Haha!$h",
+  "Festivals.SpiritEve.Ysabelle_spouse": "Vielleicht hätte ich doch lieber eines meiner alten Ballett-Outfits anziehen sollen?$h#$b#Ich mache nur Spaß! Ich bezweifle, dass sie mir noch passen würden.$h",
 
 //Ice Festival
 
@@ -7148,7 +7148,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Undreya.Dialogue.Mon": "Oh! Du hast mich gefunden! Wie versprochen. Hier ist ein Preis! [60 72 167 206 336] $h#$e#Ich verstecke mich gerne überall!$h#$b#Du bekommst interessante Geschichten zu hören!$h",
   "Undreya.Dialogue.Tue": "Oh! Du hast mich gefunden! Wie versprochen. Hier ist ein Preis! [60 72 167 206 336] $h#$e#Einmal habe ich mich in einen Stein verwandelt und ein vorbeigehendes Kind hat mich fast in den See geworfen!$a#$b#Ich werde diesen kleinen Rotshirt nie vergessen!$a",
   "Undreya.Dialogue.Wed": "Oh! Du hast mich gefunden! Wie versprochen. Hier ist ein Preis! [60 72 167 206 336] $h#$e#Ich liebe es, mich in einen Teddybären zu verwandeln. Es fühlt sich so gut an, umarmt zu werden!$h#$b#Hey! Nein! Ich mag es nicht, umarmt zu werden, wenn ich in meiner Elfenform bin!$a#$e#Nun ja... Es sei denn, es wäre er...$s",
-  "Undreya.Dialogue.Thu": "Hey. Danke für das Eis neulich!$h#$e#Hä? Welches Eis?#$b#Oh ja! Das habe ich vergessen. Ich habe dir neulich etwas Kleingeld gestohlen Teehee < $h#$b#Ich hoffe, es macht dir nichts aus! Es ist für wohltätige Zwecke!$h#$e#Donnerstage sind Ruhetage!$h#$b#Heute wird nicht gestohlen!$h",
+  "Undreya.Dialogue.Thu": "Hey. Danke für das Eis neulich!$h#$e#Hä? Welches Eis?#$b#Oh ja! Das hatte ich vergessen - Ich habe dir neulich etwas Kleingeld gestohlen Teehee < $h#$b#Ich hoffe, es macht dir nichts aus! Es ist für wohltätige Zwecke!$h#$e#Donnerstage sind Ruhetage!$h#$b#Heute wird nicht gestohlen!$h",
   "Undreya.Dialogue.Fri": "Oh! Du hast mich gefunden! Wie versprochen. Hier ist ein Preis! [60 72 167 206 336] $h#$e#Verschwinde. Du deckst mich auf.$a#$e#Ich warte gerade auf das nächste Versteck!$a",
   "Undreya.Dialogue.Sat": "Oh! Du hast mich gefunden! Wie versprochen. Hier ist ein Preis! [60 72 167 206 336] $h#$e#Ich sollte mich von diesem Zauberer im Wald und diesem Mann mit dem roten Schal fernhalten...$s#$b#Er hat mir auch schon von ihnen erzählt...$s",
   "Undreya.Dialogue.Sun": "Oh! Du hast mich gefunden! Wie versprochen. Hier ist ein Preis! [60 72 167 206 336] $h#$e#Ich liebe es, mich auf diesem Bauernhof im Süden des Bergdorfes zu verstecken.#$b#Die Dame dort singt so wunderschön.$h",
@@ -10791,7 +10791,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 
 //4 Hearts
   "Kiarra.Dialogue.Mon4": "Meine Brüder machen sich zu viele Sorgen um mich. Ich glaube, tief in ihrem Inneren werde ich immer das kleine Baby der Familie sein.",
-  "Kiarra.Dialogue.Custom_Ridgeside_PaulaClinic4": "Du siehst ein bisschen blau aus, Cousin. Hast du mit meinen Brüdern herumgespielt?$h#bh#Sag ihnen, dass sie zu alt sind, um herumzualbern.",
+  "Kiarra.Dialogue.Custom_Ridgeside_PaulaClinic4": "Du siehst ein bisschen blau aus, Cousin. Hast du mit meinen Brüdern herumgespielt?$h#$b#Sag ihnen, dass sie zu alt sind, um herumzualbern.",
   "Kiarra.Dialogue.Tue4": "Was ist in Tita Paulas Medikamenten?#$b#Möchtest du sie ausprobieren und herausfinden?$h",
   "Kiarra.Dialogue.Wed4": "Hast du die Uniformen für Corine und Faye bei Pika's gesehen?#$b#Faye hat sie gemacht. Sie sehen so niedlich aus!",
   "Kiarra.Dialogue.Thu4": "Ich sollte für dieses Wochenende eine Wanderung nach Pelican planen. Es ist eine gute Übung, es dauert nur eine Weile.",
@@ -11615,23 +11615,23 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 // Spirit's Eve
   "Festivals.SpiritEve.Ariah": "Die Herbstbrise und die Gesellschaft fühlen sich in dieser Jahreszeit wie zu Hause an...$4#$b#Ich bin froh, dass ich diesen Tag habe, um eine Pause von meinem Studium zu machen.$h#$b#Ich freue mich sehr darauf zu sehen, ob alle in diesem Labyrinth überleben.$h",
   "Festivals.SpiritEve.Maive": "Es ist gut, dass alles in Ordnung zu sein scheint.#$b#Hmm, was sollst du sein?",
-  "Festivals.SpiritEve.Louie": "Siehe die Exzellenz vor dir, @. Dies ist das beste Kostüm, das du heute Abend sehen wirst. $4",
-  "Festivals.SpiritEve.Irene": "Ich glaube, ich bin total begeistert!$4#$b#Herr Pika hat gerade meine Spirit's Eve Leckereien gelobt!$h#$e#Oh, ich habe keine dabei.$4#$h#Ich habe nur genug mitgebracht, damit er probieren kann.$h",
+  "Festivals.SpiritEve.Louie": "Siehe die Exzellenz vor dir, @. Heute verkleide ich mich als meinen Lieblingshelden - Louie Amethyne!$4",
+  "Festivals.SpiritEve.Irene": "Ich glaube, ich drehe durch!!$4#$b#Herr Pika hat gerade meine Spirit's Eve Leckereien gelobt!$h#$e#Oh, ich habe leider keine dabei.$4#$h#Ariah und Louie haben die restlichen Süßigkeiten schon gegessen.$h",
   "Festivals.SpiritEve.Sonny": "Planen Sie, sich in das Labyrinth zu wagen, Herr @? Viel Glück bei der Schatzsuche!$h^Planen Sie, sich in das Labyrinth zu wagen, Frau @? Viel Glück bei der Schatzsuche!$h",
   "Festivals.SpiritEve.Paula": "Diese Kekse sind einfach zu gut!$h#$b#Ich bin bereit, später in den daraus resultierenden Nahrungskoma zu verfallen. Ich habe sowieso heute Morgen meine Arbeit erledigt.$h",
-  "Festivals.SpiritEve.Carmen": "Ich habe diesen Fisch dort gekocht!$h#$b#Aber niemand rührt ihn an.#$b#Vielleicht sparen sie ihn für später?$h",
+  "Festivals.SpiritEve.Carmen": "Ich habe diesen Fisch dort gekocht!$h#$b#Aber niemand rührt ihn an.#$b#Vielleicht heben sie sich ihn für später auf?$h",
   "Festivals.SpiritEve.Blair": "Ay! Ich möchte in das Labyrinth gehen und alle versteckten Schätze finden!$h#$b#Nur um sicher zu gehen... Gibt es versteckte Schätze drinnen, richtig?#$b#Ich möchte nicht umsonst erschreckt werden!$u",
-  "Festivals.SpiritEve.Lorenzo": "Gehst du in dieses Labyrinth?#$b#Ich möchte, aber meine Frau hier ist ein bisschen ängstlich.$h",
-  "Festivals.SpiritEve.Shanice": "Lorenzo! Zum letzten Mal, ich möchte nicht in dieses Labyrinth gehen!$a#$b#Letztes Jahr hatte ich die schlimmste Erfahrung, als sie mich versehentlich in einer der Attraktionen eingeschlossen haben.$s",
-  "Festivals.SpiritEve.Anton": "Arme Shanice, mein Bruder ist ein bisschen zu viel.$h#$b#Nun, ich denke, ich werde lieber mit ihm mitgehen.#$b#Es ist lustig, meinen Bruder erschreckt zu sehen!$h",
+  "Festivals.SpiritEve.Lorenzo": "Gehst du in dieses Labyrinth?#$b#Ich würde ja gerne, aber meine Frau hier hat ein wenig Angst davor.$h",
+  "Festivals.SpiritEve.Shanice": "Lorenzo! Zum letzten Mal! Ich möchte nicht in dieses Labyrinth gehen!$a#$b#Letztes Jahr hatte ich die schlimmste Erfahrung, als sie mich versehentlich im Haus der Hexe eingeschlossen habe.$s",
+  "Festivals.SpiritEve.Anton": "Arme Shanice, mein Bruder kann manchmal etwas anstrengend sein.$h#$b#Nun, ich denke, ich werde ihn stattdessen lieber begleiten.#$b#Es ist lustig, zu sehen, wie mein Bruder sich erschreckt!$h",
   "Festivals.SpiritEve.Kiarra": "Cousin, die Spinne im Labyrinth ist GENIAL. Keine Ahnung, wovor Abigail sich aufregt, jedoch.",
   "Festivals.SpiritEve.Sean": "Woran habe ich mich verkleidet? Das Gruseligste, das ich kenne, natürlich - ein normaler Mensch.",
-  "Festivals.SpiritEve.Faye": "Das Labyrinth? Oh nein, ich habe jede Menge Spaß daran, mir die Kostüme aller anzusehen. Außerdem möchte ich Gus' selbstgemachte Schokolade nicht verpassen!",
+  "Festivals.SpiritEve.Faye": "Das Labyrinth? Oh nein, ich amüsiere mich hier, mich mit allen zu unterhalten. Außerdem möchte ich Gus' selbstgemachte Schokolade doch nicht verpassen!",
   "Festivals.SpiritEve.Malaya": "Ich frage mich, warum niemand ein Meerjungfrau-Kostüm für diese Veranstaltungen trägt.#$b#Oh ja, natürlich hätten sie Schwierigkeiten, herumzulaufen!$h#$b#Wie albern von mir, das sollte ich wissen.$h#$e#Oh! Nichts, Liebes.$u",
   "Festivals.SpiritEve.Kimpoi": "Dieser Fisch da drüben riecht komisch.$s#$b#Ich fasse das nicht an.",
-  "Festivals.SpiritEve.Naomi": "Es erstaunt mich, wie Pierre es jedes Jahr schafft, sich für Festivals vorzubereiten.#$b#Sein Durchhaltevermögen ist bewundernswert.",
+  "Festivals.SpiritEve.Naomi": "Es erstaunt mich, wie Lenny es jedes Jahr schafft, sich für Festivals vorzubereiten.#$b#Ihr Durchhaltevermögen ist bewundernswert, wenn sie sich etwas in ihren Kopf gesetzt hat.",
   "Festivals.SpiritEve.Daia": "Hallo, Süßer.$6#$b#Ich wusste nicht, dass du noch heißer aussehen könntest als jeden Tag.$h",
-  "Festivals.SpiritEve.Daia_spouse": "Warum hallo, Baby.$h#$b#Was hältst du von meiner Kleidung?$7#$b#Nach den Feierlichkeiten könnte ich für dich in etwas noch Bequemeres schlüpfen.$6",
+  "Festivals.SpiritEve.Daia_spouse": "Na hallo, Baby.$h#$b#Bist du enttäuscht, weil ich mich nicht hübsch gemacht habe?$7#$b#Nun... nach den Feierlichkeiten könnte ich in etwas Angenehmeres für dich schlüpfen.$6",
   "Festivals.SpiritEve.Torts": "*Sucht nach einem Sai*",
 
 // Ice Fishing
@@ -13739,7 +13739,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 
 //Sean
 		//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
-  "MovieData.Sean.SpringMovie0.Like.BeforeMovie": "Oh, das sieht schön aus.#$#b#Trinnie und Keahi haben gesagt, dass sie das sehen wollen.$h",
+  "MovieData.Sean.SpringMovie0.Like.BeforeMovie": "Oh, das sieht schön aus.#$b#Trinnie und Keahi haben gesagt, dass sie das sehen wollen.$h",
   "MovieData.Sean.SpringMovie0.Like.DuringMovie": "Los, kleines Bäumchen! Ich drücke dir die Daumen!$h",
   "MovieData.Sean.SpringMovie0.Like.AfterMovie": "Es macht Spaß, einfach zurückzulehnen und etwas Entspanntes zu genießen, findest du nicht auch, @?$h",
 
@@ -14713,7 +14713,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "event-75160313.21": "Du hast all diese anderen kleinen Kiddies gesehen, oder?#$b#Die haben Energie für Tage!$h#$b#Manchmal denke ich sogar, dass meine Tochter nicht realisiert, dass sie jetzt eine Frau ist.$h",
   "event-75160313.22": "Aber weißt du was?#$b#Ich glaube, ich bin es, der nicht bereit ist, das zu akzeptieren.#$b#Sie wachsen so schnell.$h#$b#Es fühlt sich an, als wäre es erst gestern gewesen, als meine Tochter noch ein kleines Baby war.#$b#Und ich habe dieses kleine Baby ganz alleine großgezogen, weil ihr nichtsnutziger Vater sie selten besucht!$a#$b#Aber ich bin glücklich, dass sie sich gut entwickelt.#$b#Nun... Ich hoffe es zumindest.",
   "event-75160313.23": "Es tut mir leid, @. Das kam wirklich aus dem Nichts, oder?$h",
-  "event-75160313.24": "Danke, dass du zuhörst, @.$h$h#$b#Ich werde eine kleine Pause machen, bevor ich wieder zur Arbeit gehe.$h#$b#Es war wirklich schön, mit dir zu sprechen!$h",
+  "event-75160313.24": "Danke, dass du zuhörst, @.$h#$b#Ich werde eine kleine Pause machen, bevor ich wieder zur Arbeit gehe.$h#$b#Es war wirklich schön, mit dir zu reden!$h",
 
   //Kimpoi getting used to taking care of the Orchard again (Kimpoi 2 hearts)
   "event-75160329.01": "Ich denke, dieser hier macht sich gut.",
@@ -15591,7 +15591,8 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Raeriyala.FoxbloomHint.1": "Ich hoffe, dass ich dir damit helfen kann!$1",
 
   //Odd Jobs Summit Farm upgrades
-  "Mail.OddJobsNotice": "Liebe @,^^Wir von Odd Jobs haben erfahren, dass du neues Land erworben hast. Wenn du deine neue Immobilie renovieren möchtest, komm bitte während unserer Geschäftszeiten vorbei und wir besprechen gerne, wie wir dir helfen können!^^ - Odd Jobs[#]Benachrichtigung über neues Eigentum",
+  "Mail.OddJobsNotice": "Lieber^Liebe @,^^Wir von Odd Jobs haben erfahren, dass du neues Land erworben hast. Wenn du deine neue Immobilie renovieren möchtest, komm bitte während unserer Geschäftszeiten vorbei und wir besprechen gerne, wie wir dir helfen können!^^ - Odd Jobs[#]Benachrichtigung über neues Eigentum",
+  "Mail.OddJobsNotice2": "Lieber^Liebe @,^^Danke, dass du Odd Jobs beauftragt hast! Jetzt, da dein Grundstück den Vorschriften entspricht, können wir nun noch mehr Funktionalität anbieten. Komm doch während unserer Geschäftszeiten vorbei, damit wir dir die neuen Möglichkeiten vorstellen können^^ - Odd Jobs[#]Benachrichtigung über neue Möglichkeiten",
   "Ian.construction": "Bitte sei vorsichtig, @. Dies ist eine aktive Baustelle.",
   "Sean.construction.1": "Ugh, diese Art von Arbeit ist am schlimmsten. Ich hasse es, den ganzen Tag hier zu sitzen und Nägel zu hämmern...$2#$b#Aber natürlich würde ich das niemals meine Leistung beeinflussen lassen! Ich bin nur müde von der harten Arbeit, haha!$1",
   "Sean.construction.2": "Wie läuft die Arbeit? Nun, man könnte sagen, dass wir es auf den Punkt bringen!$1#$e#Oh Mist, halte ich dieses Ding verkehrt herum?$3",
@@ -16204,12 +16205,12 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Anton.summit.2": "Haha! Ich mache nur Spaß!$h#$b#Aber für dich würde ich es im Handumdrehen tun.$l#$b#Du motivierst mich, besser zu sein und standhaft zu bleiben, wenn ich aufgeben möchte.$l#$b#Du bist unglaublich und ich möchte genauso unglaublich für dich sein, @.$l#$b#Danke, dass du geduldig mit mir bist... Ich liebe dich!$l",
 
 //Festival Spouse Dialogues for Kiarra, Sean, Blair, Paula, and Anton
-  "Festivals.EggFest.Kiarra_spouse": "Die Dekorationen sehen entzückend aus, nicht wahr? #b#Kenneth, Ian und der Rest der Bande haben sich dieses Jahr wirklich übertroffen. $h",
+  "Festivals.EggFest.Kiarra_spouse": "Die Dekorationen sehen entzückend aus, nicht wahr? #$b#Kenneth, Ian und der Rest der Bande haben sich dieses Jahr wirklich übertroffen. $h",
   "Festivals.FlowerDance.Kiarra_spouse": "Ich weiß, ich habe gesagt, dass ich nicht eifersüchtig sein werde, wenn du mit jemand anderem tanzt...#$b#Aber könntest du mir den ersten Tanz aufheben?$4",
   "Festivals.Luau.Kiarra_spouse": "Schön, unsere Zutaten ergänzen sich gegenseitig!$h#$b#Sind wir nicht niedlich, Schatz?$h",
   "Festivals.Jellies.Kiarra_spouse": "Ich kann es kaum erwarten, bis die Gelees ankommen. #$b#Sie sind eine der Inspirationen, die ich für ein Projekt habe, an dem ich gerade arbeite. $h",
   "Festivals.StardewFair.Kiarra_spouse": "Es ist immer noch Zeit für mich, den Richter zu bestechen, Schatz.$h#$b#Haha, nur ein Scherz! Ich weiß, du wirst großartig sein, ohne Bestechung!$h",
-  "Festivals.SpiritEve.Kiarra_spouse": "Verdammt, sehen wir nicht gut aus!$h#$b#Ich wette, wir sind das beste und am coolsten gekleidete Paar hier!$4",
+  "Festivals.SpiritEve.Kiarra_spouse": "Verdammt, sehen wir nicht gut aus!?$h#$b#Ich wette, sogar ohne Kostüme, sind wir das beste und am coolsten gekleidete Paar hier!$4",
   "Festivals.IceFest.Kiarra_spouse": "Es ist gut, dass der Bürgermeister beschlossen hat, die Fische nach dem Urteil freizulassen.#$b#Es wäre unmenschlich gewesen, sie alle zu behalten. Wie ein Massaker.$a",
   "Festivals.WinterStar.Kiarra_spouse": "Bist du bereit für dein Geschenk später?$4#$b#Iss auf jeden Fall viel, ich habe Pläne gemacht!$h",
   "Festivals.Gathering.Kiarra_spouse": "Etwas an dieser Art von \"Jungen/Mädchen\"-Aufteilung gefällt mir einfach nicht.#$b#Aber beachte mich nicht, Schatz.#$b#Mach einfach dein Ding.$h",
@@ -16231,7 +16232,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Festivals.Luau.Blair_spouse": "Hast du jemals ein hübsches Mädchen ihr Essen verschlingen sehen?#$b#Mach dich bereit, Schatz, denn ich habe Hunger.$6",
   "Festivals.Jellies.Blair_spouse": "Ich freue mich darauf, die Gelees zu sehen, Babe. #$b#Flor hat so lange von ihren leuchtenden Eigenschaften gesprochen, dass es sich anfühlt, als wären sie eine ganz neue Vision in meinem Gehirn. $u#$b#Ich muss sie so schnell wie möglich wiedersehen. $u#$b#Bevor sie ihre Magie in meinen Augen verlieren. $9",
   "Festivals.StardewFair.Blair_spouse": "Also... Werden wir uns aufteilen und erobern?#$b#Ich denke, das wäre die beste Wahl, denn dann würden wir mehr Fläche abdecken.$h#$b#Aber ich möchte auch Zeit mit dir verbringen, Schatz.$4#$b#Also, du entscheidest!$h",
-  "Festivals.SpiritEve.Blair_spouse": "Wir werden das Gespräch der Stadt sein, Babe!$h#$b#Wir sehen so ikonisch aus!$6",
+  "Festivals.SpiritEve.Blair_spouse": "Komm mit mir ins Labyrinth, Babe! Ich kann aber nicht versprechen, dass ich nicht versuchen werde, dich zu erschrecken.$1",
   "Festivals.IceFest.Blair_spouse": "Wir haben den besten Köder in der Stadt! Wenn wir nicht gewinnen... will ich es nicht.$7",
   "Festivals.WinterStar.Blair_spouse": "Frohe Winterstern-Feier, Schatz!$h#$b#Lasst uns für den besten Wunsch jubeln!$4#$e#Ich liebe dich, Baby.$6",
   "Festivals.Gathering.Blair_spouse": "Trinnie und Keahi haben Yuuma früher gesucht. #$b#Sie wollten, dass er irgendeine Art von Wettbewerb bewertet, den sie sich ausgedacht haben. $h#$b#Möchtest du dich ihnen anschließen oder sie vielleicht sogar bewerten? $h",
@@ -17774,16 +17775,6 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 //Blueprints translatable stuff
   "Blueprint.Name.RSVObelisk": "RSV Obelisk",
   "Blueprint.Description.RSVObelisk": "Bringt dich nach Ridgeside.",
-  "Blueprint.Name.SummitHouseUpgrade": "Gipfelhaus-Upgrade",
-  "Blueprint.Description.SummitHouseUpgrade": "Machen Sie das Summit House innen und außen wie neu.",
-  "Blueprint.Name.ClimateControl": "Klimakontrolle",
-  "Blueprint.Description.ClimateControl": "Das ganze Jahr über jede Art von Pflanzen anbauen.",
-  "Blueprint.Name.SprinklerSystem": "Bewässerungssystem",
-  "Blueprint.Description.SprinklerSystem": "Installieren Sie ein unterirdisches Bewässerungssystem, das die Feldfrüchte automatisch jeden Tag bewässert.",
-  "Blueprint.Name.OreArea": "Erzgebiet",
-  "Blueprint.Description.OreArea": "Konvertiere den östlichen Hügel in ein Gebiet zum Erzabbau.",
-  "Blueprint.Name.Shed": "Schuppen",
-  "Blueprint.Description.Shed": "Ein leeres Gebäude auf dem Hügel oberhalb des Hauses. Das Innere kann dekoriert werden.",
 
   "MapString.rsv.purplemansion65": "Die Balkontüren sind verschlossen.",
   "irene8_1": "%Du hast zuerst Zayne angerufen.%Gabel",
@@ -18221,10 +18212,10 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Festivals.EggFest.Irene_spouse": "Ich denke, Eierkuchen und Frittatas wären eine großartige Ergänzung zum Festival-Menü. $h",
   "Festivals.FlowerDance.Irene_spouse": "Kannst du mich später herumwirbeln?#$b#Ich wollte schon immer in einem Tanz herumgewirbelt werden, seit ich klein war.$8",
   "Festivals.Luau.Irene_spouse": "Ich hoffe, du hast darauf geachtet, dass du das Beste unserer Produkte mitgebracht hast, langga. #$b#Der Gouverneur wäre traurig, wenn die Suppe komisch schmecken würde.$",
-  "Festivals.Jellies.Irene_spouse": "Die Sterne sehen heute Abend hübsch aus, nicht wahr?$4#$b#Sie sehen noch besser durch deine Augen aus, langga.$8",
+  "Festivals.Jellies.Irene_spouse": "Die Sterne sehen heute Abend hübsch aus, nicht wahr?$4#$b#Sie sehen noch besser, wenn sie in deinen Augen reflektieren, langga.$8",
   "Festivals.StardewFair.Irene_spouse": "Ich habe immer davon geträumt, auf der Messe herumzutollen.#$b#Lass uns später herumstreifen, langga.$h",
-  "Festivals.SpiritEve.Irene_spouse": "Ysa und Faye bestehen darauf, niedliche oder sexy Kostüme für den Geisterevent zu tragen. #$b#Ich hoffe, ich bin weder zu overdressed noch underdressed. $4",
-  "Festivals.IceFest.Irene_spouse": "Während des Festivals habe ich immer Lust auf frittiertes Tempura, und ich weiß nicht warum.$u#$b#Verrückter Magen.$h",
+  "Festivals.SpiritEve.Irene_spouse": "Ich hoffe, dass gleich ein paar Plätze frei werden, damit wir uns setzen und zusammen essen können.#$b#Ich liebe das Essen hier, aber ich möchte es wenigstens ein Mal vernünftig mit dir genießen können.$4",
+  "Festivals.IceFest.Irene_spouse": "Auf diesem Festival habe ich immer Lust auf frittiertes Tempura, und ich weiß nicht warum.$u#$b#Verrückter Magen.$h",
   "Festivals.WinterStar.Irene_spouse": "Ich habe bereits mein Geschenk und es bist du, langga!$h#$b#Du bist das beste Geschenk, das ich habe, und ich würde dich für nichts eintauschen.$8",
   "Festivals.Gathering.Irene_spouse": "Oh, der diesjährige Wettbewerb sieht aufregend aus!$h",
   "Festivals.EoR.Irene_spouse": "Ich hoffe, dass wir nächstes Jahr mehr Abenteuer miteinander erleben können.#$b#Und du, langga?#$b#Was ist dein Vorsatz für das Jahr?",
@@ -19561,7 +19552,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Festivals.IceFest.Bryle": "Huh? Angeln?#$b#Nee! Ich bin hoffnungslos mit einer Angelrute!$h#$b#Also werde ich stattdessen nur den Wettbewerb beobachten. Viel Glück da draußen.",
   "Festivals.Luau.Bryle": "Der Gouverneur sagte mir, das Festival zu genießen und ihn eine Weile in Ruhe zu lassen.#$b#Ich werde mich daran halten, aber ich werde ihn trotzdem eng bewachen, so gut ich kann.#$b#Oh! Das erinnert mich!$a#$b#Ich sollte besser die Suppe überprüfen, bevor er einen Schluck nimmt!$a#$b#Besser auf Nummer sicher gehen!$h",
   "Festivals.Jellies.Bryle": "Seufz*$h#$b#Es fühlt sich an, als ob es eine gute Idee war, heute zu besuchen.#$b#Es fühlt sich hier irgendwie 'genau richtig' an.$h#$b#Weißt du, was ich meine?",
-  "Festivals.SpiritEve.Bryle": "Ich glaube, mir gefällt, wie dieses Tal den Geist-Abend feiert, besser als sie es in der Stadt tun. #$b#Dort hinten werden die Leute manchmal zu wild und verrückt mit den Partys.$a#$b#Ja, sie können Spaß machen, aber die meiste Zeit kommt es zu vielen Zwischenfällen aufgrund von Alkoholmissbrauch.$s#$b#*Seufz* Es ist ein Durcheinander, sag ich dir.$s",
+  "Festivals.SpiritEve.Bryle": "Ich glaube, mir gefällt, wie dieses Tal den Spirit's Eve feiert, besser als sie es in der Stadt tun. #$b#Dort werden die Leute manchmal zu wild und verrückt mit den Partys.$a#$b#Ja, es kann dort auch Spaß machen, aber die meiste Zeit kommt es zu vielen Zwischenfällen, weil die Leute zu viel saufen.$s#$b#*Seufz* Es ist ein Durcheinander, sag ich dir.$s",
   "Festivals.WinterStar.Bryle": "Die Feier des Gebens, huh?#$b#Nun, ich bin schon zufrieden, wenn ich sehe, dass die Leute sicher und wohlbehalten sind, besonders meine Kunden!$h#$b#Was könnte ein Bodyguard sich noch wünschen?$h#$e#Haha! Nein, im Ernst. Ich bin einfach froh, dass ich die Feiertage in einem sicheren und ruhigen Tal genießen kann.$h",
   "Festivals.StardewFair.Bryle": "Mann, ich denke, das Schießspiel ist manipuliert!$s#$b#Ich habe eine Menge Schüsse verpasst! Nein! Ich kann es einfach nicht glauben!$h#$e#Nun gut, zumindest waren die anderen Spiele lustig genug, um meine Leiden für eine Weile zu vergessen.$h",
 
@@ -20506,7 +20497,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Festivals.Luau.Bryle_spouse": "Ich habe Leute um den Gouverneur herum.#$b#Und jemand ist immer bei ihm, besonders sein Geschmackstester.#$b#Also bleib bei mir, denn wir müssen den Tester zuerst seinen Test machen lassen, um sicherzustellen, dass es nicht mit Gift versetzt ist, okay?$7",
   "Festivals.Jellies.Bryle_spouse": "Hmm, vielleicht könnten wir nächstes Jahr mehr Feenlichter am Eingang anbringen, um sicherzustellen, dass wir jeden Eintretenden sehen können.#$b#Du weißt schon, für die Sicherheit aller.",
   "Festivals.StardewFair.Bryle_spouse": "Ich hoffe wirklich, dass du vorsichtig sein wirst, Schatz.$6#$b#Aber achte auch darauf, dass du Spaß hast, okay? Ich liebe dich!",
-  "Festivals.SpiritEve.Bryle_spouse": "Gruselige Nächte wie diese machen mich wollen, dich nach Hause zu bringen und dich vor dem Feuer zu kuscheln.$l#$b#Ich kann es kaum erwarten, dich nach Hause zu tragen, Schatz.$l",
+  "Festivals.SpiritEve.Bryle_spouse": "In gruseligen Nächten wie diesen, will ich dich einfach mit zu mir nach Hause nehmen und mit dir vor dem Kamin kuscheln.$l#$b#Ich kann es kaum erwarten, dich nach Hause zu tragen, Schatz.$l",
   "Festivals.IceFest.Bryle_spouse": "Vorsicht!$7#$b#Du könntest in die Löcher fallen...$6#$b#Ich liebe dich, aber wenn du zu Eis wirst...$u#$b#Nun, ich werde dich vor dem Feuer aufwärmen und sagen \"Ich hab's dir gesagt\", haha!$h",
   "Festivals.WinterStar.Bryle_spouse": "Ich habe wirklich nicht viel zu wünschen, jetzt wo du hier bist, Schatz. $l",
   "Festivals.Gathering.Bryle_spouse": "Mann, Corine und Ysa sind da drüben aufgeregt.$h#$b#Es ist lustig, wie Leute so wettbewerbsorientiert werden.",
