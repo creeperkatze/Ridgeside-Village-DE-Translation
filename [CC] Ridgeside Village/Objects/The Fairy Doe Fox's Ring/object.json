@@ -1,6 +1,6 @@
 ﻿{
     "Name": "The Fairy Doe Fox's Ring",
-    "Description": "Beschwört einen Fuchsgeist an deine Seite.",
+    "TranslationKey": "objects.fairy-doe-foxs-ring",
     "Category": "Ring",
     "Edibility": -300,
     "Price": 15000,

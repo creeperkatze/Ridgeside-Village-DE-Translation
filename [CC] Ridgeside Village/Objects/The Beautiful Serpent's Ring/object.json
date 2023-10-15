@@ -1,6 +1,6 @@
 ﻿{
     "Name": "The Beautiful Serpent's Ring",
-    "Description": "Beschwört eine Seele aus dem Geisterreich an deine Seite.",
+    "TranslationKey": "objects.beautiful-serpents-ring",
     "Category": "Ring",
     "Edibility": -300,
     "Price": 15000,
