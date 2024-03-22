@@ -36,7 +36,7 @@
   "EventHallCounter.Anv.AfterBooking": "Danke! Bis morgen!",
 
   "RSV.Minecart.Question": "Wohin möchtest du gehen?",
-  "MinecartLocation.1": "Pelican Stadt",
+  "MinecartLocation.1": "Pelikan Stadt",
   "MinecartLocation.2": "Norden - Ridgeside Dorf",
   "MinecartLocation.3": "Süden - Ridgeside Dorf",
   "MinecartLocation.4": "Ost - Ridgeside Dorf",
@@ -222,7 +222,7 @@
 
   "RSV.MapIconName": "Ridgeside Dorf",
 
-  "LogCabinHotel.HistoryScroll": "Die Geschichte des Ridgeside Dorfes^^Viele Jahrtausende zuvor...^Das Tal entstand, entweder geschaffen von Yoba oder durch natürliche Ursachen.^Eine Art große Schlacht fand lange vor jeglicher aufgezeichneter Geschichte der menschlichen Zivilisation statt. Es gibt jedoch keine Beweise für die Ursprünge des Konflikts.^[Viel Geschichte fehlt von hier bis zu den neueren Aufzeichnungen...einiges davon ist ausgekratzt oder verblasst. Alles unleserlich.]^^Vor etwa 2500 Jahren...^Eine frühe Stammeskolonie kam zum Grat und gründete ein Dorf. Häuser wurden typischerweise aus Stein anstatt aus dem üblicheren Holz gebaut.^Die Menschen im Stamm glaubten an eine Art Teichgeist, den sie üblicherweise als eine Otter/Robben-Hybride darstellten.^Schließlich wurde das Dorf zerstört - höchstwahrscheinlich eine Gruppe alter Räuber.^^Vor etwa 700 Jahren...^Frühe Siedler kamen ins Tal und gründeten eine Stadt entlang der Küste. Diese Stadt ist die Pelican Town, die wir heute kennen.^Pelican Town wurde ursprünglich als Bergbaustadt gegründet und wurde mit der Zeit zu einem Handelshafen.^Ursprünglich strömten die Menschen nach Pelican Town, da es ein großartiger Ort zum Leben vom Land war, mit dem extrem fruchtbaren Boden und den reichlichen Fischkolonien in den benachbarten Gewässern.^^Vor etwa 300 Jahren bis zur Gegenwart...^Mit einem internationalen Krieg am Horizont beschloss der Staat, ein neues Dorf in den Bergen als Zuflucht für Zivilisten zu bauen.^Einige der Siedler in Pelican Town beschlossen, dauerhaft in diesem neuen Dorf zu leben - und so wurde das Ridgeside Dorf geboren.",
+  "LogCabinHotel.HistoryScroll": "Die Geschichte des Ridgeside Dorfes^^Viele Jahrtausende zuvor...^Das Tal entstand, entweder geschaffen von Yoba oder durch natürliche Ursachen.^Eine Art große Schlacht fand lange vor jeglicher aufgezeichneter Geschichte der menschlichen Zivilisation statt. Es gibt jedoch keine Beweise für die Ursprünge des Konflikts.^[Viel Geschichte fehlt von hier bis zu den neueren Aufzeichnungen...einiges davon ist ausgekratzt oder verblasst. Alles unleserlich.]^^Vor etwa 2500 Jahren...^Eine frühe Stammeskolonie kam zum Grat und gründete ein Dorf. Häuser wurden typischerweise aus Stein anstatt aus dem üblicheren Holz gebaut.^Die Menschen im Stamm glaubten an eine Art Teichgeist, den sie üblicherweise als eine Otter/Robben-Hybride darstellten.^Schließlich wurde das Dorf zerstört - höchstwahrscheinlich eine Gruppe alter Räuber.^^Vor etwa 700 Jahren...^Frühe Siedler kamen ins Tal und gründeten eine Stadt entlang der Küste. Diese Stadt ist die Pelikan Stadt, die wir heute kennen.^Pelikan Stadt wurde ursprünglich als Bergbaustadt gegründet und wurde mit der Zeit zu einem Handelshafen.^Ursprünglich strömten die Menschen nach Pelikan Stadt, da es ein großartiger Ort zum Leben vom Land war, mit dem extrem fruchtbaren Boden und den reichlichen Fischkolonien in den benachbarten Gewässern.^^Vor etwa 300 Jahren bis zur Gegenwart...^Mit einem internationalen Krieg am Horizont beschloss der Staat, ein neues Dorf in den Bergen als Zuflucht für Zivilisten zu bauen.^Einige der Siedler in Pelikan Stadt beschlossen, dauerhaft in diesem neuen Dorf zu leben - und so wurde das Ridgeside Dorf geboren.",
 
   "ShowImage.zRSVOldKids": "Es ist ein altes Foto von einer Gruppe Kinder an einem vertrauten Baum.",
 
@@ -242,7 +242,7 @@
   "EnableRidgesideMusic": "AktiviereRidgesideMusik",
   "EnableRidgesideMusic.Description": "Aktiviert Musik für Ridgeside Village.",
   "RSVNPCSAttendFestivals": "RSVNPCSAttendFestivals",
-  "RSVNPCSAttendFestivals.Description": "Ermöglicht RSV NPCs, an den Festivals von Pelican Town teilzunehmen.",
+  "RSVNPCSAttendFestivals.Description": "Ermöglicht RSV NPCs, an den Festivals von Pelikan Stadt teilzunehmen.",
   "ExpandedFestivalMaps": "ErweiterteFestivalKarten",
   "ExpandedFestivalMaps.Description": "Aktiviert die erweiterten Festival-Karten. Wenn falsch, werden die alten Platzierungen verwendet, die möglicherweise mit anderen Mods in Konflikt geraten.",
   "EasyIntroduction": "EinfacheEinführung",
