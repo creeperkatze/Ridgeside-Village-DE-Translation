@@ -23,7 +23,7 @@
   "EventHallCounter.Booking.Bday.Yes": "Ja, ich möchte eine Party für 1500$ veranstalten.",
   "EventHallCounter.Booking.Bday.AfterBooking": "Danke! Besuchen Sie jederzeit am Geburtstag des Ehrengastes den Veranstaltungssaal. Wir hoffen, Sie bald zu sehen!",
   "EventHallCounter.Booking.Bday.List": "Bevorstehende Geburtstage",
-  "EventHall.TodayBirthday": "Du hast heute eine Geburtstagsparty für {{name}} reserviert!#Vergiss nicht, innerhalb dieses Tages den Veranstaltungssaal des Blockhaus Hotels zu besuchen.",
+  "EventHall.TodayBirthday": "Du hast heute eine Geburtstagsparty für {{name}} reserviert!#Vergiss nicht, innerhalb dieses Tages den Veranstaltungssaal des Log Cabin Hotels zu besuchen.",
 
   "EventHallCounter.Booking.WeddingReception": "Hochzeitsempfang - 2000$",
   "EventHallCounter.Booking.WR.Question": "Möchten Sie einen Empfang nach der Hochzeit reservieren?",
@@ -81,6 +81,17 @@
   "IanShop.Instant": "In Ordnung! Das {{project}} kommt tatsächlich vormontiert, also liefern wir es so schnell wie möglich zu deiner Farm!",
   "IanShop.AlreadyBuilding": "Eigentlich, @, wir arbeiten bereits an einem Projekt für dich, daher können wir keine neuen Aufgaben übernehmen, solange das aktiv ist.$s#$b#Aber sobald das erledigt ist, lass uns wieder reden!",
   "IanShop.AllRenovated": "Eigentlich, @, wir haben bereits alle Renovierungen für dich durchgeführt! Also haben wir nichts Neues anzubieten - Tut uns leid!$1",
+
+  "SummitHouseUpgrade.Name": "Upgrade für das Gipfelhaus",
+  "SummitHouseUpgrade.Description": "Mache das Gipfelhaus wie neu, innen und außen.",
+  "ClimateControl.Name": "Klimakontrolle",
+  "ClimateControl.Description": "Ziehe das ganze Jahr über beliebige Pflanzen an.",
+  "SprinklerSystem.Name": "Bewässerungssystem",
+  "SprinklerSystem.Description": "Installiere ein unterirdisches Bewässerungssystem, das die Feldfrüchte jeden Tag automatisch bewässert.",
+  "OreArea.Name": "Erzgebiet",
+  "OreArea.Description": "Verwandle den östlichen Hügel in ein Gebiet, um Erz abzubauen.",
+  "Shed.Name": "Schuppen",
+  "Shed.Description": "Ein leeres Gebäude auf dem Hügel oberhalb des Hauses. Das Innere kann dekoriert werden.",
 
   "ShowImage.Arknir": "Dieses Bild wurde während einer Ridgeside-Karaoke-Veranstaltung vom Grampleton-Fotografen Ark Nir aufgenommen.#(Gewinner des 2021 RSV Discord Kunstwettbewerbs)",
   "ShowImage.Aniv1st": "'Mia besucht ihre Freunde während des Ridgeside Treffens!'#Bildkopie zur Verfügung gestellt von Hime, dem Touristen, der dieses Foto aufgenommen hat.#(1. Platz des Fan-Art-Wettbewerbs vom RSV's 1. Jahrestag Discord Event)",

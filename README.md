@@ -2,7 +2,7 @@
 
 # Requirements
 
-[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286) v2.5.3
+[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286) v2.5.4
 
 # Usage
 
@@ -16,9 +16,7 @@ Stardew Valley
     └── Ridgeside Village
         ├── [CC] Ridgeside Village
         ├── [CP] Ridgeside Village
-        ├── [JA] Ridgeside Village
-        ├── [MFM] Ridgeside Village
-        ├── [STF] Ridgeside Village
+        ├── [FTM] Ridgeside Village
         └── Ridgeside Village
 ```
 
