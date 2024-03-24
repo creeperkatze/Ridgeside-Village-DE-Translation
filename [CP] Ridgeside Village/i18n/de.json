@@ -140,6 +140,8 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "hija": "hija",
   "cousin_trinnie": "Cousine Trinnie",
   "niece_alissa": "Nichte Alissa",
+  "uncle": "Onkel",
+  "grandmother": "Großmutter",
 
 
 
@@ -21628,7 +21630,17 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "GreenRain.Shanice": "Sag Lorenzo nicht, aber ich habe vorhin meine Hand ein wenig in den Regen gehalten. Es hat ziemlich gekribbelt!$1",
   "GreenRain.Sonny": "Ah, Herr @. Könnte ich Sie bitten, einige Nachrichten für mich nach Pelican Town zu bringen? Es scheint, als wären alle Telefone ausgefallen.^Ah, Frau @. Könnte ich Sie bitten, einige Nachrichten für mich nach Pelican Town zu bringen? Es scheint, als wären alle Telefone ausgefallen.^Ah, Mx. @. Könnte ich Sie bitten, einige Nachrichten für mich nach Pelican Town zu bringen? Es scheint, als wären alle Telefone ausgefallen.",
   "GreenRain.Torts": "*Leckt den grünen Regen glücklich*$h",
-  "GreenRain.Zayne": "Draußen riecht es nach geschnittenem Gras. Wenn das alles ist, was dieser Regen bewirkt, nicht zu schlecht.$1"
+  "GreenRain.Zayne": "Draußen riecht es nach geschnittenem Gras. Wenn das alles ist, was dieser Regen bewirkt, nicht zu schlecht.$1",
 
+  "Alissa.Dialogue.GiftReaction_Bouquet": "Fragst du mich schon wieder nach einem Date!? Was, hast du vergessen, dass wir zusammen sind? Ha! Tante wird davon hören wollen!",
+  "Corine.Dialogue.GiftReaction_Bouquet": "Wow! Du hast dir all die Mühe gemacht, mir einen neuen zu besorgen!? Er wurde in der Aufregung schon etwas zerknittert, nicht wahr? Tut mir leid deswegen, aber du warst so süß... Ich musste dich einfach umarmen!",
+  "Flor.Dialogue.GiftReaction_Bouquet": "Ah, das ist eine wunderschöne Anordnung von Blumen.$h#$b#Warte, ähm... Ist das?$u#$b#Natürlich! Ich würde gerne deine Freundin sein- Warte... haben wir das nicht schon gemacht? Brichst du absichtlich mit den üblichen Dating-Konventionen als eine Art soziales Experiment?",
+  "Ian.Dialogue.GiftReaction_Bouquet": "Ähm... danke, aber wir brauchen nicht mehr davon...$l#$b#Unsere Liebe ist genug, um diese Beziehung am Leben zu erhalten!",
+  "Jeric.Dialogue.GiftReaction_Bouquet": "Schau dir diese an! Was für eine hübsche Anordnung!$h^Schau dir diese an! Absolut wunderschön!$h#$b#Obwohl natürlich nicht so hübsch wie du!$7^Obwohl natürlich nicht so wunderschön wie du!$7#$b#Was ist der Anlass, erinnerst du mich einfach daran, wie umwerfend du am Tag warst, als du mich das erste Mal ausgefragt hast?$l^Was ist der Anlass, erinnerst du mich einfach daran, wie schön du am Tag warst, als du mich das erste Mal ausgefragt hast?$l#$b#Ich werde jeden Tag daran erinnert!$h",
+  "Kenneth.Dialogue.GiftReaction_Bouquet": "Oho, was ist das? Versuchst du, etwas in meiner Erinnerung zu entfachen und die Romantik anzukurbeln? Nun, es funktioniert definitiv! Ich liebe dich @!",
+  "Maddie.Dialogue.GiftReaction_Bouquet": "Oh!? Noch ein Strauß? Ich habe den Sinn dahinter nie wirklich verstanden. Kommt mir verschwenderisch vor, weißt du? Wir hätten einfach unsere romantischen Absichten dem Dorf mitteilen können...$e#Aber ich nehme an, du hast recht... sie sind wirklich hübsch!",
+  "Philip.Dialogue.GiftReaction_Bouquet": "Oh, wow! Das ist wirklich aufmerksam von dir, @! Jetzt habe ich eine Erinnerung an dich, wenn ich allein in meinem Zimmer bin, und im Fitnessstudio, wenn ich mit meinen Kunden arbeite!",
+  "Shiro.Dialogue.GiftReaction_Bouquet": "Schau dir diese an! Ist das so etwas wie 'seine Gelübde erneuern'? Nun, die Antwort ist ja! Immer und für immer.",
+  "Ysabelle.Dialogue.GiftReaction_Bouquet": "Hmm... ja, was ist, Liebling?$7#$b#W-warte... ist das nicht!?$l#$b#Warum gibst du mir noch einen Strauß, Dummkopf?$b#%*Küsst deine Wange*#$b#Du weißt doch, ich gehöre schon dir!$h"
 
 }
