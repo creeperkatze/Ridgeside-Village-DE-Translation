@@ -254,5 +254,7 @@
   "SeasonalRSVMap": "SeasonalRSVMap",
   "SeasonalRSVMap.Description": "Aktivieren/Deaktivieren Sie die saisonale RSV-Weltkarte.",
   "EnableTouristNPCs": "AktiviereTouristNPCs",
-  "EnableTouristNPCs.Description": "Aktivieren/Deaktivieren Sie die Dekoration Touristen NPCs im Hotel."
+  "EnableTouristNPCs.Description": "Aktivieren/Deaktivieren Sie die Dekoration Touristen NPCs im Hotel.",
+
+  "ErrorMessage": "Ridgeside Village scheint nicht korrekt installiert zu sein. Überprüfe die Logs für weitere Details."
 }
