@@ -12,6 +12,8 @@ git checkout $TAG
 
 find . -name ".DS_Store" -exec rm {} \;
 rm -rf tmp/*.zip
-zip -r "tmp/Ridgeside Village.zip" "[CC] Ridgeside Village" "[CP] Ridgeside Village" "RidgesideVillage"
+cp "nsis/Ridgeside Village - German Translation.exe" .
+zip -r "tmp/Ridgeside Village.zip" "Ridgeside Village" "Ridgeside Village - German Translation" "Ridgeside Village - German Translation.exe" -x "*default.json"
+rm -rf "./Stardew Valley Expanded - German Translation.exe"
 
 git checkout main
