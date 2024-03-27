@@ -5,6 +5,7 @@ Name "Ridgeside Village - German Translation"
 OutFile "Ridgeside Village - German Translation.exe"
 
 RequestExecutionLevel admin
+SetCompressor lzma
 
 # Define the installer sections
 !define MUI_PAGE_CUSTOMFUNCTION_PRE prePageFunction
@@ -21,10 +22,12 @@ Function prePageFunction
 FunctionEnd
 
 Section "Ridgeside Village - German Translation files"
-	SetOutPath "$INSTDIR\Ridgeside Village"
-	File /r "..\[CC] Ridgeside Village\*.*"
-	File /r "..\[CP] Ridgeside Village\*.*"
-	File /r "..\RidgesideVillage\*.*"
+	SetOutPath "$INSTDIR\Ridgeside Village\[CC] Ridgeside Village\i18n"
+	File /r "..\[CC] Ridgeside Village\i18n\de.json"
+	SetOutPath "$INSTDIR\Ridgeside Village\[CP] Ridgeside Village\i18n"
+	File /r "..\[CP] Ridgeside Village\i18n\de.json"
+	SetOutPath "$INSTDIR\Ridgeside Village\RidgesideVillage\i18n"
+	File /r "..\RidgesideVillage\i18n\de.json"
 	SetOutPath "$INSTDIR"
 	File /r "..\Ridgeside Village - German Translation\*.*"
 SectionEnd

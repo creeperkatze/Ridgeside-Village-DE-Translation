@@ -2,7 +2,7 @@
 
 # Requirements
 
-[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286) v2.5.4
+[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286) v2.5.7
 
 # Usage
 
@@ -13,15 +13,17 @@ Extract the contents to the Ridgeside Village [mod folder](https://ridgeside.fan
 ```
 Stardew Valley
 └── Mods
+    ├── Ridgeside Village - German Translation
     └── Ridgeside Village
         ├── [CC] Ridgeside Village
         ├── [CP] Ridgeside Village
-        ├── [FTM] Ridgeside Village
         └── Ridgeside Village
 ```
 
 # Create new version
 
+- Update manifest.json to next release version
+- Make sure to include the latest compiled installer exe file *after* updating the manifest.json file
 - Draft a new release in Github
   - Create a new tag with incremented version
   - Target: main
