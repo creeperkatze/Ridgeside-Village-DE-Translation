@@ -2,7 +2,7 @@
 #!include "LangFile.nsh"
 
 Name "Ridgeside Village - German Translation"
-OutFile "Ridgeside Village - German Translation.exe"
+OutFile "ridgeside-village-german-translation-installer.exe"
 
 RequestExecutionLevel admin
 SetCompressor /SOLID lzma
