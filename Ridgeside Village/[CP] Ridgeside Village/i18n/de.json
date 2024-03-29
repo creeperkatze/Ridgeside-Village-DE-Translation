@@ -6660,7 +6660,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Olga.Dialogue.Resort": "Oh, @! Was für ein schöner Ort das ist.$h",
 
 
-  "Philip.Dialogue.Introduction": "Oh, hallo junger Mann. Ich habe dich noch nie zuvor gesehen...^Oh, hallo junge Dame. Ich habe dich noch nie zuvor gesehen...#$b#Freut mich, dich kennenzulernen! Ich bin Philip. Ich arbeite als Physiotherapeut für einige Personen in der Gegend. Ich werde dich sehen!$h",
+  "Philip.Dialogue.Introduction": "Oh, hallo junger Mann. Ich habe dich noch nie zuvor gesehen...^Oh, hallo junge Dame. Ich habe dich noch nie zuvor gesehen...#$b#Freut mich, dich kennenzulernen! Ich bin Philip. Ich arbeite als Physiotherapeut für einige Personen in der Gegend. Wir sehen uns!$h",
 
 //Spring
   "Philip.Dialogue.spring_1": "Ich liebe es, im Frühling zu laufen.#$b#Nicht zu heiß, nicht zu kalt, und man kann jeden Tag dabei zusehen, wie die Blumen sprießen.$h",
@@ -6689,13 +6689,13 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 //Days of the Week
 
 //0 Hearts
-  "Philip.Dialogue.Mon": "Hallo Herr.^Hallo Frau.#$e#Ich hoffe, Sie haben heute einen guten Tag.$h",
-  "Philip.Dialogue.Tue": "Hallo Herr.^Hallo Frau.#$e#Brauchen Sie etwas?",
-  "Philip.Dialogue.Wed": "Hallo Herr. Wie war bisher deine Woche?^Hallo Frau. Wie war bisher deine Woche?",
-  "Philip.Dialogue.Thu": "Hallo Herr.^Hallo Frau.#$b#Geht es Ihnen gut?#$e# Denken Sie daran, regelmäßig zu dehnen. Das verringert die Wahrscheinlichkeit, sich etwas zu verrenken.",
+  "Philip.Dialogue.Mon": "Hallo.^Hallo.#$e#Ich hoffe, Sie haben heute einen guten Tag.$h",
+  "Philip.Dialogue.Tue": "Guten Tag werter Herr.^Guten Tag werte Dame.#$e#Brauchen Sie etwas?",
+  "Philip.Dialogue.Wed": "Hallo. Wie war deine Woche bisher?^Hallo. Wie war deine Woche bisher?",
+  "Philip.Dialogue.Thu": "Hallo Sir.^Hallo Ma'am.#$b#Geht es Ihnen gut?#$e# Denken Sie daran, regelmäßig zu dehnen. Das verringert die Wahrscheinlichkeit, sich etwas zu verrenken.",
   "Philip.Dialogue.Fri": "Der Vastus Medialis Muskel entspringt vom proximalen medialen Teil des Oberschenkelknochens...#$e#%Philip spricht leise mit sich selbst. Besser ihn in Ruhe lassen.",
-  "Philip.Dialogue.Sat": "Hallo Herr.^Hallo Frau.#$b#Wir haben es ins Wochenende geschafft!$h",
-  "Philip.Dialogue.Sun": "Hallo Herr.^Hallo Frau.#$b# Ich hoffe, es geht Ihnen gut. Brauchen Sie etwas?",
+  "Philip.Dialogue.Sat": "Hallo.^Hallo.#$b#Wir haben endlich Wochenende!$h",
+  "Philip.Dialogue.Sun": "Guten Tag mein Herr.^Guten Tag werte Dame.#$b# Ich hoffe, es geht Ihnen gut. Brauchen Sie etwas?",
 
 //2 Hearts
   "Philip.Dialogue.Mon2": "Ich versuche wirklich sehr, nicht zu viel über Physiotherapie und Anatomie zu sprechen.$l#$b#Ich liebe wirklich, was ich tue, also lasse ich mich manchmal mitreißen.$h",
@@ -6716,7 +6716,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Philip.Dialogue.Sun4": "Ich sage normalerweise etwas über genug Bewegung, sogar zu meinen Freunden...#$b#Aber du bekommst wahrscheinlich genug Bewegung auf diesem Bauernhof!$h",
 
 //6 Hearts
-  "Philip.Dialogue.Mon6": "Hallo @, Herr! Wie läuft die Arbeit auf der Farm?^Hallo @, Frau. Wie läuft die Arbeit auf der Farm?#$e#Ich habe neulich etwas von deiner Ernte bei Pierre gekauft, um einen Salat zu machen, und es war unglaublich. Wie machst du das?$h",
+  "Philip.Dialogue.Mon6": "Hallo @! Wie läuft die Arbeit auf der Farm?^Hallo @. Wie läuft die Arbeit auf der Farm?#$e#Ich habe neulich etwas von deiner Ernte bei Pierre gekauft, um einen Salat zu machen, und es war unglaublich. Wie machst du das?$h",
   "Philip.Dialogue.Tue6": "Ich wohne vorübergehend im Log Cabin Hotel, da ich nur in der Gegend bin, bis Shiro seine Physiotherapie abschließt.#$b#Das wird jedoch eine Weile dauern und mir gefällt es hier, also habe ich es nicht gerade eilig!",
   "Philip.Dialogue.Wed6": "Harvey und ich haben uns tatsächlich an der Universität kennengelernt. Er ist älter als ich, aber wir haben einige Kurse in Sportphysiologie geteilt.#$b#Natürlich ist er dann auf die medizinische Fakultät gegangen und ich habe mich für Physiotherapie entschieden, aber es ist schön, sich mit alten Klassenkameraden wieder zu verbinden!$h",
   "Philip.Dialogue.Thu6": "Guten Tag -- Moment mal.#$b#Steh gerade für mich?$a#$b#%Philip betrachtet dich aufmerksam.#$b#Deine Schultern machen dir zu schaffen, nicht wahr? Denk daran, dich zu dehnen! Du kannst versuchen, es mit einem Tennisball zu lösen, aber sei sanft!",
@@ -7115,7 +7115,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Trinnie.Dialogue.Sun2": "OH, NEIN!$u#$e#Ich habe vergessen, meine Feldfrüchte heute zu gießen!$s",
 
 //4 Hearts
-  "Trinnie.Dialogue.Mon4": "Hallo Herr! Wie geht es Ihnen?^Hallo Frau! Wie geht es Ihnen?#$b#Meine Mutter sagt mir immer, dass ich ein Nickerchen machen muss, damit ich groß und groß werde!$h#$e#Aber ich möchte klein bleiben.$s",
+  "Trinnie.Dialogue.Mon4": "Hallo Mister! Wie geht es Ihnen?^Hallo Madame! Wie geht es Ihnen?#$b#Meine Mutter sagt mir immer, dass ich ein Nickerchen machen muss, damit ich groß und groß werde!$h#$e#Aber ich möchte klein bleiben.$s",
   "Trinnie.Dialogue.Tue4": "Keahi hat mich gestern Abend tatsächlich an der Hand gehalten!$u#$e#Während wir auf dem Heimweg waren, hat er meine Hand gehalten!$h#$e#Eeeeee!$4",
   "Trinnie.Dialogue.Wed4": "Ich habe gerade etwas so Gruseliges gesehen!$u#$b#Diese Statue sah aus, als ob sie uns anstarrte.#$e#Vincent hatte tatsächlich so viel Angst davor, dass er weinend nach Hause gegangen ist!#$b#Er ist ein Angsthase, ha ha.$h",
   "Trinnie.Dialogue.Thu4": "Können wir mit dir auf deiner Farm spielen?#$e#Können wir?$u#$b#Können wir?$h#$b#Ich verspreche, wir werden brav sein!$s#$e#Wir werden dir sogar helfen, deine Ernte einzufahren!",
