@@ -6911,11 +6911,11 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Richard.Dialogue.Sun2": "Lewis und ich gehen weit zurück. #$e#Ich erinnere mich, als er zum ersten Mal davon träumte, Bürgermeister zu werden... #$b#Er zeigte so viel Potenzial. Ich hatte keinen Zweifel daran, dass er die Herzen und Köpfe der Menschen gewinnen würde. $h",
 
 //4 Hearts
-  "Richard.Dialogue.Mon4": "Oh hallo, @!$h#$b#Wie geht es dir? Ich hoffe, der Tag behandelt dich gut.$h",
+  "Richard.Dialogue.Mon4": "Oh, hallo!$h#$b#Wie geht es dir? Ich hoffe, der Tag hat dir gut getan?$h",
   "Richard.Dialogue.Tue4": "Oh nein! Entschuldige mein Lieber.^Oh nein! Entschuldige meine Liebe.#$b#Ich muss zurück zum Hotel eilen. Ich habe vergessen, einige Unterlagen zu erledigen.",
   "Richard.Dialogue.Wed4": "Ich denke darüber nach, hier im Hotel eine Veranstaltung zu organisieren, vielleicht einen Abend mit feinem Essen oder vielleicht einen Tanzwettbewerb?#$e#Hmmm... Was denkst du?#$b#Ich könnte sogar teilnehmen und mein Bestes geben.$h#$b#Diese alten Knochen haben immer noch ein paar Moves drauf!$4",
   "Richard.Dialogue.Thu4": "Ich überlege, wie ich die Attraktivität des Hotels verbessern könnte.#$e#Wenn Sie Ideen haben, lassen Sie es mich bitte wissen.#$b#Ich schätze das Feedback von all meinen Gästen.",
-  "Richard.Dialogue.Fri4": "Hallo junger Herr!^Hallo junge Dame!#$b#Meine Enkelin übt jeden Samstag ihr Ballett.#$e#Ballett ist sehr gut für Gleichgewicht und Stärke, weißt du.#$b#Wenn du interessiert bist, kann ich fragen, ob du mitmachen könntest.$h",
+  "Richard.Dialogue.Fri4": "Hallo!#$b#Meine Enkelin übt jeden Samstag Ballett.#$e#Ballett ist sehr gut für Gleichgewicht und Kraft, weißt du.#$b#Wenn du Interesse hast, kann ich fragen, ob du mitmachen könntest.$h",
   "Richard.Dialogue.Sat4": "Ich bin auf dem Weg in den Wald, um nach Holz zu suchen, das ich im Hotel verwenden kann.#$b#Man muss immer daran denken, sich für seine Kunden einzusetzen, wenn man ihre Loyalität gewinnen möchte!$4",
   "Richard.Dialogue.Sun4": "%Richard seufzt tief.#$b#An Tagen wie diesen vermisse ich meine Frau noch mehr.$s#$e#Früher sind wir sonntags an den Strand gegangen und haben geangelt oder sind schwimmen gegangen.#$b#Sie hat immer einen Picknickkorb mitgebracht und nach dem Mittagessen habe ich meinen Kopf in ihrem Schoß ausgeruht.$h#$b#Ich wünschte, sie wäre jetzt hier...$s",
 
@@ -21628,7 +21628,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "GreenRain.Paula": "Gut, dass mich die Armee in die Denkweise versetzt hat, immer Papierkopien zu behalten. Ich stehe bereit und bin auch ohne Technik bereit zu helfen!$1",
   "GreenRain.Sean": "Ugh, alles im Haus scheint kaputt gegangen zu sein. Mir ist so langweilig!$2#$b#Hey, @, komm und spiel ein paar Kartenspiele mit mir?$1",
   "GreenRain.Shanice": "Sag Lorenzo nicht, aber ich habe vorhin meine Hand ein wenig in den Regen gehalten. Es hat ziemlich gekribbelt!$1",
-  "GreenRain.Sonny": "Ah, Herr @. Könnte ich Sie bitten, einige Nachrichten für mich nach Pelican Town zu bringen? Es scheint, als wären alle Telefone ausgefallen.^Ah, Frau @. Könnte ich Sie bitten, einige Nachrichten für mich nach Pelican Town zu bringen? Es scheint, als wären alle Telefone ausgefallen.^Ah, Mx. @. Könnte ich Sie bitten, einige Nachrichten für mich nach Pelican Town zu bringen? Es scheint, als wären alle Telefone ausgefallen.",
+  "GreenRain.Sonny": "Ah, ${Mr.^Ms.^Mx.}$ @. Könntest du bitte ein paar Nachrichten für mich nach Pelikanstadt bringen? Es scheint, als wären alle Telefone ausgefallen.",
   "GreenRain.Torts": "*Leckt den grünen Regen glücklich*$h",
   "GreenRain.Zayne": "Draußen riecht es nach geschnittenem Gras. Wenn das alles ist, was dieser Regen bewirkt, nicht zu schlecht.$1",
 
@@ -21641,6 +21641,29 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Maddie.Dialogue.GiftReaction_Bouquet": "Oh!? Noch ein Strauß? Ich habe den Sinn dahinter nie wirklich verstanden. Kommt mir verschwenderisch vor, weißt du? Wir hätten einfach unsere romantischen Absichten dem Dorf mitteilen können...$e#Aber ich nehme an, du hast recht... sie sind wirklich hübsch!",
   "Philip.Dialogue.GiftReaction_Bouquet": "Oh, wow! Das ist wirklich aufmerksam von dir, @! Jetzt habe ich eine Erinnerung an dich, wenn ich allein in meinem Zimmer bin, und im Fitnessstudio, wenn ich mit meinen Kunden arbeite!",
   "Shiro.Dialogue.GiftReaction_Bouquet": "Schau dir diese an! Ist das so etwas wie 'seine Gelübde erneuern'? Nun, die Antwort ist ja! Immer und für immer.",
-  "Ysabelle.Dialogue.GiftReaction_Bouquet": "Hmm... ja, was ist, Liebling?$7#$b#W-warte... ist das nicht!?$l#$b#Warum gibst du mir noch einen Strauß, Dummkopf?$b#%*Küsst deine Wange*#$b#Du weißt doch, ich gehöre schon dir!$h"
+  "Ysabelle.Dialogue.GiftReaction_Bouquet": "Hmm... ja, was ist, Liebling?$7#$b#W-warte... ist das nicht!?$l#$b#Warum gibst du mir noch einen Strauß, Dummkopf?$b#%*Küsst deine Wange*#$b#Du weißt doch, ich gehöre schon dir!$h",
 
+//Portrait Frames
+  "furniture.alissaportrait.name": "Alissa Porträt",
+  "furniture.antonportrait.name": "Anton Porträt",
+  "furniture.blairportrait.name": "Blair Porträt",
+  "furniture.bryleportrait.name": "Bryle Porträt",
+  "furniture.corineportrait.name": "Corine Porträt",
+  "furniture.daiaportrait.name": "Daia Porträt",
+  "furniture.fayeportrait.name": "Faye Porträt",
+  "furniture.florportrait.name": "Flor Porträt",
+  "furniture.ianportrait.name": "Ian Porträt",
+  "furniture.ireneportrait.name": "Irene Porträt",
+  "furniture.jericportrait.name": "Jeric Porträt",
+  "furniture.jioportrait.name": "Jio Porträt",
+  "furniture.juneportrait.name": "June Porträt",
+  "furniture.kennethportrait.name": "Kenneth Porträt",
+  "furniture.kiarraportrait.name": "Kiarra Portrait",
+  "furniture.maddieportrait.name": "Maddie Porträt",
+  "furniture.paulaportrait.name": "Paula Porträt",
+  "furniture.philipportrait.name": "Philip Porträt",
+  "furniture.seanportrait.name": "Sean Portrait",
+  "furniture.shiroportrait.name": "Shiro Porträt",
+  "furniture.ysabelleportrait.name": "Ysabelle Porträt",
+  "furniture.zayneportrait.name": "Zayne Porträt"
 }
