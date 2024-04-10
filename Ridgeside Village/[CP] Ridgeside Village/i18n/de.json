@@ -628,6 +628,12 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "checkup.lenny.Paula": "Lenny, ich habe wirklich keine Ahnung, wovon du redest.$4",
   "checkup.louie.Paula": "Es ist nichts falsch mit ihm... außer seiner Einstellung.$6",
 
+//Fishing Festivals
+  "trout.derby.Blair": "Ich glaube nicht, dass meine Mutter überhaupt realisiert, dass es bei diesem Wettbewerb Preise gibt, sie mag den Wettbewerb wohl einfach, schätze ich.$3",
+  "squid.fest.Blair": "Glaubst du, sie haben hier irgendwelche lustigen Preise?$h",
+  "trout.derby.Carmen": "Ay, das macht Spaß! Ein bisschen freundlicher Wettbewerb bringt wirklich das Blut in Wallung!$h",
+  "squid.fest.Carmen": "Ich muss heute wirklich wie verrückt angeln, wir haben gestern wegen unseres Termins so viel Fortschritt verpasst!$3",
+
 //--------------
 //Event Dialogue
 //--------------
@@ -19017,7 +19023,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "June.seven_heart.11": "Was ist passiert?",
   "June.seven_heart.12": "Also, Gus hat mir von diesem seltenen Schnaps erzählt, den er vom Reisenden Wagen bekommen hat...$2#$b#Es stellte sich heraus, dass es mein Lieblingsreiswein aus dem Gotoro-Imperium war, und... Ich habe mich vielleicht etwas zu sehr gehen lassen...$3",
   "June.seven_heart.13": "Es ist nur so, ich hatte dieses Zeug seit ich in Zuzu City gelebt habe nicht mehr gehabt, und als ich es wieder probiert habe, hat es mich daran erinnert, wie spaßig dieser Lebensstil früher war...$2",
-  "June.seven_heart.14": "\"Dieser Lebensstil\"?",
+  "June.seven_heart.14": "\\\"Dieser Lebensstil\\\"?",
   "June.seven_heart.15": "Du hast früher in Zuzu City gewohnt?",
   "June.seven_heart.16": "Du weißt, du siehst ziemlich sexy aus mit einer Zigarette im Mund.",
   "June.seven_heart.17": "Hä? Oh, es ist nichts, worüber es sich lohnt zu reden... Wie auch immer, es ist spät, ich muss gehen...$2",
@@ -21588,7 +21594,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "GreenRain.Alissa": "Ich nehme an, heute ist einfach ein Tag, um drinnen zu bleiben, hm?#$b#Naja, ich wollte sowieso ein bisschen üben.",
   "GreenRain.Bert": "Bindet mich an einen Baum und nennt mich eine Kiwi! Sogar unser Regen ist ein bisschen grün um die Nase geworden, was?$3",
   "GreenRain.Corine": "Ich habe das Gefühl, als würde mein Kopf den ganzen Tag summen. Es macht es wirklich schwer, sich auf irgendetwas zu konzentrieren.$2",
-  "GreenRain.Ezekiel": "Du bist bei diesem Wetter rausgegangen?!$5#$b#Entweder bist du dümmer als ich dachte oder mutiger als ich dachte.$1",
+  "GreenRain.Ezekiel": "Corine und ich sind ins Hotel gekommen um Unterschlupf zu suchen.#$e#Was? Du bist bei diesem Wetter rausgegangen?!$5#$b#Entweder bist du dümmer als ich dachte oder mutiger als ich dachte.$1",
   "GreenRain.Flor": "D-du siehst auch den grünen Regen, @? Dann ist es vielleicht doch keine Massenhalluzination....$2",
   "GreenRain.Freddie": "Ich kann nicht sagen, dass ich jemals so etwas in meinen vielen Jahren gesehen habe.#$b#Nun, es wird mich wahrscheinlich nicht umbringen, also können wir den Rest klären, nicht wahr?$1",
   "GreenRain.Ian": "Die Arbeit hört auch bei normalem Regen nicht auf, sich anzuhäufen, also sehe ich nicht, warum das hier anders sein sollte. Es gibt immer noch Dinge, die erledigt werden müssen.",
@@ -21665,5 +21671,10 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "furniture.seanportrait.name": "Sean Portrait",
   "furniture.shiroportrait.name": "Shiro Porträt",
   "furniture.ysabelleportrait.name": "Ysabelle Porträt",
-  "furniture.zayneportrait.name": "Zayne Porträt"
+  "furniture.zayneportrait.name": "Zayne Porträt",
+
+//Powers
+  "RSV.RiveraSecret.name": "Geheimnis der Familie Rivera",
+  "RSV.RiveraSecret.description": "Verdoppelt den Wert aller Fische, die in Ridgeside heimisch sind."
+
 }

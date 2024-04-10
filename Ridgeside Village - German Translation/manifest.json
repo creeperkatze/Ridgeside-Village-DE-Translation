@@ -1,13 +1,13 @@
 ﻿{
   "Name": "Ridgeside Village - German Translation",
   "Author": "Cyb3rfr3ak",
-  "Version": "0.0.9",
+  "Version": "0.0.10",
   "Description": "German translation for Ridgeside Village.",
   "UniqueID": "Cyb3rfr3ak.Ridgeside-Village-DE-Translation",
   "MinimumApiVersion": "4.0.0",
   "ContentPackFor": {
     "UniqueID": "Rafseazz.RSVCP",
-    "MinimumVersion": "2.5.9"
+    "MinimumVersion": "2.5.10"
   },
   "UpdateKeys": [
     "Nexus:20792",
