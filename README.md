@@ -2,7 +2,7 @@
 
 # Requirements
 
-[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286) v2.5.7
+[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)
 
 # Usage
 
