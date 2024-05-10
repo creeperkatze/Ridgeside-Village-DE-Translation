@@ -2616,7 +2616,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 
 //Farmer compliments Trinnie
   "event-75160106.06": "Du machst einen guten Job, dich um sie zu kümmern!",
-  "event-75160106.Fork1": "Wirklich, @? Das bedeutet viel, coming von einem Bauern!$h",
+  "event-75160106.Fork1": "Wirklich, @? Das von dir zu hören bedeutet mir wirklich viel!$h",
   "event-75160106.08": "Und hier drüben ist Lilly! $h#$b#Willst du ihr eine Prise geben, @? Komm schon! Es macht Spaß!",
   "event-75160106.09": "Hier hast du es, @!$h",
   "event-75160106.10": "Juhu!! Sie ist jetzt ein bisschen glücklicher!$h",
@@ -10900,7 +10900,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 //Days of the Week
 
 //0 Hearts
-  "Lorenzo.Dialogue.Mon": "Guten Tag, @.#$b#Ich hoffe, es geht Ihnen gut.",
+  "Lorenzo.Dialogue.Mon": "Guten Tag, @.#$b#Ich hoffe, es geht dir gut.",
   "Lorenzo.Dialogue.Tue": "Brauchst du etwas? Komm vorbei bei Heaps!$h",
   "Lorenzo.Dialogue.Wed": "Ich frage mich, ob ich Samen verkaufen sollte.#$b#Ich glaube aber nicht, dass ich viel darüber weiß.$s",
   "Lorenzo.Dialogue.Thu": "Anton sollte aufhören zu schmollen und wieder an seine Arbeit gehen!$a",
@@ -16308,7 +16308,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "GuestDialogue.17": "Gast: Was ist los mit diesem mysteriösen Kerl am Ridge?#Er ist einfach aus dem Nichts aufgetaucht und hat uns gesagt, wir sollen uns vom Wald im Norden fernhalten!#Unhöflich!",
   "GuestDialogue.18": "Gast: Dieses Dorf ist in Ordnung, denke ich.#Aber weißt du, was besser sein könnte?#Riesige Partys in der Nacht.#Dieser Ort ist zu zahm!",
   "GuestDialogue.19": "Gast: Warum redest du mit mir?#Bist du so eine Art Grusel oder so etwas?#Komischer Kauz.",
-  "GuestDialogue.20": "Gast: Ich habe vorhin ein Huhn in der Stadt herumlaufen sehen.#Ich denke, man könnte sagen, dass dieses Huhn frei von der Joch der Gesellschaft war.#Ziemlich verrückt.#Ich habe auch diese Schildkröte am Teich gesehen.#Sie hat mich gebissen, also war das auch ziemlich verrückt.#Ka-ka-ka-verrückt, sag ich dir.",
+  "GuestDialogue.20": "Gast: Ich habe vorhin ein Huhn in der Stadt herumlaufen sehen.#Ich denke, man könnte sagen, dass dieses Huhn frei von der Joch der Gesellschaft war.#Ziemlich verrückt.#Ich habe auch diese Schildkröte am Teich gesehen.#Sie hat mich gebissen, also war das auch ziemlich verrückt.#ve-ve-ve-verrückt, sag ich dir.",
 
   "MapString.rsv.eggfest.1": "Dieses Huhn ist nicht frei von der Joch der Gesellschaft.",
 
