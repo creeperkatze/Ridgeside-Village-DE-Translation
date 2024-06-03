@@ -148,6 +148,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 
 
 
+
 //Rae has this in her disposition entry but the only relationship I could think
 //of is Belinda, who isn't giftable, so I'll comment it out for now
 //"NPC_Data.Raeriyala": "Belinda ''",
@@ -3012,7 +3013,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "MapString.rsv.23.fall": "Diese Pflanzen sehen unglaublich gesund aus.",
   "MapString.rsv.23.winter": "Es ist Winter, daher sind alle Pflanzen unter einer dicken Schneedecke versteckt!",
   "MapString.rsv.24": "Diese Versandkiste ist randvoll.",
-  "MapString.rsv.25": "Es sieht so aus, als hätte hier jemand mit einer Klinge „L + F“ eingeritzt.",
+  "MapString.rsv.25": "Es sieht so aus, als hätte jemand 'L < F' hier mit einer Klinge eingeritzt.",
   "MapString.rsv.26": "Es ist für Kinder zum Spielen da.#Es ist alt und rostig. Niemand hat seit langer Zeit darauf gespielt.",
   "MapString.rsv.27": "Es scheint sich um eine der Strukturen auf deiner Farm zu handeln. Wahrhaftig ein Rätsel, was es einst gewesen sein könnte.",
   "MapString.rsv.28": "Ridgeside Wald#SÜDEN: Wasserforschungseinrichtung und Labor#WESTEN: Gemeinschaftsgewächshaus",
@@ -4793,7 +4794,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Romance.FemaleWeddingFix.FemaleFarmer1.Corine": "Als @ zum ersten Mal nach Pelikan Stadt kam, wusste niemand, ob sie sich in unsere Gemeinschaft einfügen würde...#$b#Aber von diesem Tag an wird @ genauso ein Teil dieser Stadt sein wie jeder von uns!$h#$b#Es ist mir eine große Ehre an diesem Tag {0} des {1}, @ und Corine in den Bund der Ehe zu vereinen.",
   "Romance.FemaleWeddingFix.FemaleFarmer2.Corine": "@... Corine... #$b# Als Bürgermeisterin von Pelikan Stadt und regionale Trägerin des Ehe-Siegels erkläre ich euch hiermit zu Ehefrau und..., nun ja, Ehefrau!$h",
   "Romance.give.flowersA.Corine": "Oh wow!$u#$b#Bist du dir sicher?$l#$b#Willst du mich wirklich als deine Freundin?$l#$b#Natürlich würde ich gerne deine Freundin sein!#$e#Jetzt sind wir wirklich zusammen!?$h#$b#Ich bin glücklich, so glücklich!$l#$e#Ich liebe dich, @!$h",
-  "Romance.give.flowersB.Corine": "Oh wow!$u#$b#Bist du dir sicher?$l#$b#Möchtest du wirklich, dass ich deine Freundin bin?$l#$b#Natürlich möchte ich deine Freundin sein!#$e#Jetzt sind wir wirklich zusammen!?$h#$b#Ich bin glücklich, so glücklich!$l#$e#Ich liebe dich, @[spielername]!$h",
+  "Romance.give.flowersB.Corine": "Oh wow!$u#$b#Bist Du Dir sicher damit?$l#$b#Willst Du wirklich, dass ich Deine Freundin bin?$l#$b#Natürlich würde ich gerne Deine Freundin sein!#$e#Wir sind jetzt wirklich zusammen!?$h#$b#Ich bin glücklich, so glücklich!$l#$e#Ich liebe Dich, @!$h",
   "Romance.stardrop.gift.Corine": "Wir haben viel durchgemacht und du warst die ganze Zeit bei mir.$l#$b#Ich wollte dir nur etwas geben, das dir zeigen könnte, wie viel du mir bedeutest.$h#$b#Etwas, das dir zeigen könnte, wie sehr ich dich liebe.$l#$b#Ich werde dich für immer lieben und beschützen.$h",
   "Romance.rejectNPCA.Corine": "Oh, ähm... $u#$b#Ich möchte nicht, dass du das falsch verstehst... aber ich mag dich nicht auf diese Weise.$s#$b#Wir könnten doch einfach nur Freunde sein, oder?#$b#Es tut mir wirklich leid, @.$s",
   "Romance.rejectNPCB.Corine": "Oh, ähm... $u#$b#Ich möchte nicht, dass du das falsch verstehst... aber ich mag dich nicht auf diese Weise.$s#$b#Wir könnten doch einfach nur Freunde sein, oder?#$b#Es tut mir wirklich leid, @.$s",
@@ -5928,43 +5929,43 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Jio.Dialogue.Tue": "%Jio ignoriert dich.",
   "Jio.Dialogue.Wed": "Folge mir nicht.#$e#Du wirst es bereuen, wenn du es versuchst.$h",
   "Jio.Dialogue.Thu": "%Jio ignoriert dich.",
-  "Jio.Dialogue.Fri": "Du siehst mich nicht.#$e#Ich bin nur eine Illusion.$h",
+  "Jio.Dialogue.Fri": "Du siehst mich nicht.#$b#Was Du wahrnimmst, ist nur eine Illusion...$h#$b#Hmph. Ich dachte, das würde funktionieren...$4",
   "Jio.Dialogue.Sat": "%Jio ignoriert dich.",
   "Jio.Dialogue.Sun": "Verschwinde.#$e#Du bist bemerkenswert neugierig.$a",
 
 //2 Hearts
-  "Jio.Dialogue.Mon2": "Hm?#$e#Du bist wieder hier?$a#$e#Folge mir nicht.",
+  "Jio.Dialogue.Mon2": "Hm? Du schon wieder?#$e#Folge mir nicht.$a",
   "Jio.Dialogue.Tue2": "%Jio ignoriert dich.",
-  "Jio.Dialogue.Wed2": "Bist du nicht beschäftigt?$u#$e#Du scheinst viel Zeit übrig zu haben.$a",
-  "Jio.Dialogue.Thu2": "%Jio ignoriert dich.",
-  "Jio.Dialogue.Fri2": "Berühre nicht meine Sachen.#$e#Es ist für deine eigene Sicherheit.$h",
+  "Jio.Dialogue.Wed2": "Bist Du nicht beschäftigt?$u#$b#Du scheinst viel Zeit zu haben.$a",
+  "Jio.Dialogue.Thu2": "Wie oft muss ich es Dir noch sagen? Folge mir nicht.$a",
+  "Jio.Dialogue.Fri2": "Fass meine Sachen nicht an. Zu Deiner eigenen Sicherheit.",
   "Jio.Dialogue.Sat2": "%Jio ignoriert dich.",
-  "Jio.Dialogue.Sun2": "Komm nicht näher.#$e#Was habe ich gerade gesagt?$a#$e#Verschwinde.",
+  "Jio.Dialogue.Sun2": "Komm mir nicht näher.#$e#Hast Du schon vergessen, was ich Dir gesagt habe? Verschwinde.$a",
 
 //4 Hearts
   "Jio.Dialogue.Mon4": "Du gibst nicht auf, oder?#$e#Interessant...",
-  "Jio.Dialogue.Tue4": "Ugh.$s#$e#Mir geht's gut, es hört bald auf zu bluten.$h",
-  "Jio.Dialogue.Wed4": "Berühre das nicht. #$e#Es ist nicht für Kinder!$a",
+  "Jio.Dialogue.Tue4": "Ugh...$s#$b#Hm? Mir geht's bestens. Die Blutung wird bald aufhören.$h",
+  "Jio.Dialogue.Wed4": "Wenn Du unbedingt in meiner Nähe bleiben musst, sei zumindest vorsichtig.#$b#Das sind keine bloßen Spielzeuge...$a",
   "Jio.Dialogue.Thu4": "%Jio ignoriert dich.",
-  "Jio.Dialogue.Fri4": "Wie oft muss ich es dir sagen? Folge mir nicht.$a",
-  "Jio.Dialogue.Sat4": "%Jio ignoriert dich.",
-  "Jio.Dialogue.Sun4": "Du bist äußerst hartnäckig.",
+  "Jio.Dialogue.Fri4": "Ich habe es eilig. Ich habe gerade keine Zeit zum Plaudern.#$e#Warum? Ehrlich gesagt, geht es Dich nichts an.",
+  "Jio.Dialogue.Sat4": "Es ist gefährlich, in meiner Nähe herumzulungern, wie Du es tust, @.",
+  "Jio.Dialogue.Sun4": "Du bist äußerst hartnäckig, @. Was wünschst Du von mir?",
 
 //6 Hearts
-  "Jio.Dialogue.Mon6": "Ich habe Arbeit zu erledigen.#$e#Hör auf, mich zu belästigen.$a",
-  "Jio.Dialogue.Tue6": "Warum bist du schon wieder hier?#$e#Mach, was du tun musst, und geh weiter.",
-  "Jio.Dialogue.Wed6": "%Jio ignoriert dich.",
-  "Jio.Dialogue.Thu6": "Fass das nicht an. Du wirst dich verletzen.#$e#Sieht das für dich wie künstliches Blut aus?$h",
-  "Jio.Dialogue.Fri6": "Kennen Sie Marlon?#$b#Wenn ja, gehen Sie zu ihm.#$e#Warum?#$b#Damit Sie mich nicht stören.",
-  "Jio.Dialogue.Sat6": "Es ist gefährlich, wie du es tust, in meiner Nähe herumzulungern.",
-  "Jio.Dialogue.Sun6": "Hast du einen Todeswunsch?#$e#Verschwinde von hier.",
+  "Jio.Dialogue.Mon6": "Ich habe Arbeit zu erledigen. Hör auf, mich zu stören--$a#$b#Eigentlich... Vielleicht habe ich Dir nicht die Anerkennung gegeben, die Du verdienst.#$b#Ich denke, es könnte einen gewissen Wert haben, Dich mich begleiten zu lassen.$1",
+  "Jio.Dialogue.Tue6": "Warum bist Du schon wieder hier?#$b#...Nicht, dass mich Deine Anwesenheit stört. Äh, kam das falsch rüber?$4",
+  "Jio.Dialogue.Wed6": "Fass das nicht an. Du könntest Dich verletzen.#$e#Sieht das für Dich wie Kunstblut aus?",
+  "Jio.Dialogue.Thu6": "%Jio ignoriert Dich.",
+  "Jio.Dialogue.Fri6": "Geh weg, @. Ich habe heute keine Lust auf Deinen Unsinn.$a#$b#...Äh, Entschuldigung, dass ich Dich angefahren habe. Daia war in letzter Zeit in Hochform, und es scheint, dass das mehr an meinen Nerven gezehrt hat, als ich erwartet hatte...$s",
+  "Jio.Dialogue.Sat6": "@... Du hast früher in der Stadt gelebt, oder? Interessant...#$e#Nichts. Ich habe nur darüber nachgedacht, wie schnell Du Dich an Dein neues Leben hier angepasst hast. Das ist wirklich bemerkenswert, weißt Du.$h",
+  "Jio.Dialogue.Sun6": "Die Stadtbewohner verzichten heute auf die Arbeit, @. Es wäre klug, ihrem Beispiel zu folgen und Dich auch etwas auszuruhen.",
 
 
 //Special Dialogue
   "Jio.Dialogue.MovieInvitation": "Ein Film?#$b#Ich habe wirklich Lust, mir eines dieser bewegten Bilder mit meinen eigenen Augen anzusehen.#$b#Ich werde da sein.$h",
 
 //Resort
-  "Jio.Dialogue.Resort_Entering": "Ich spüre Aktivität in diesem Vulkan. $4#$e#Nicht die Erde.#$b#Diejenigen darin.#$b#...$u#$b#Zwerge.$4#$b#Es müssen Zwerge sein.$h",
+  "Jio.Dialogue.Resort_Entering": "Ich spüre Aktivität in diesem Vulkan.$4#$b#Nicht von der Erde, sondern etwas in ihm.#$b#...$u#$e#Zwerge. Es müssen Zwerge sein.$h",
   "Jio.Dialogue.Resort_Leaving": "Um ehrlich zu sein, freue ich mich sehr darauf, wieder im Tal zu sein.",
   "Jio.Dialogue.Resort_Shore": "Genießt ihr diese Art von Hitze eigentlich?$s",
   "Jio.Dialogue.Resort_Chair": "Zu hell.$a#$b#Zu heiß...$s",
@@ -12673,6 +12674,8 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "RSV.Map.Text.CableCar": "Seilbahn nach Pelikan Stadt",
   "RSV.Map.Text.Electrician": "Haus des Elektrikers",
   "RSV.Map.Text.Hike": "Wanderweg",
+  "RSV.Map.Text.AbandonedHouse": "Verlassenes Haus",
+  "RSV.Map.Text.NinjaHouse": "Ninja-Haus",
   "RSV.Map.Text.RafIsHungryAndSleepDeprived": "Rafseazz's Versteck!",
 
   "RSV.SpecialOrder.FixMinecart_Name": "Bergseitige Minenwagen!",
@@ -13950,7 +13953,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Sean.MarriageDialogue.Indoor_Day_Sean": "Es ist etwas wirklich Schönes, neben der Person aufzuwachen, die man liebt. $4#$b#Es fällt mir jetzt viel leichter aufzustehen, nachdem du das Bett verlassen hast, weil ich bei dir sein möchte. $h",
 
 //Indoor Night
-  "Sean.MarriageDialogue.Indoor_Night_0": "Puh, das war ein langer Tag, ich bin völlig erschöpft!$s#$b#Aber ich glaube, ich habe noch gaaaanz genug Energie für ein bisschen aktives Kuscheln übrig...$4",
+  "Sean.MarriageDialogue.Indoor_Night_0": "Puh, das war ein langer Tag, ich bin völlig erledigt!$s#$b#Obwohl, ich glaube, ich habe gerade noch genug Energie für ein bisschen \"aktives Kuscheln\"...$4",
   "Sean.MarriageDialogue.Indoor_Night_1": "Ich finde es erstaunlich, was du jeden Tag auf unserer Farm machst.#$b#Deine Fähigkeit zu konzentrieren ist unglaublich.$4",
   "Sean.MarriageDialogue.Indoor_Night_2": "%Seans Kopf scheint in den Wolken zu sein.#$e#Oh! Es tut mir leid, Schatz.$h#$b#Ich habe gerade über meine Familie nachgedacht und wie es ihnen geht.#$b#Ich vermisse sie irgendwie? Aber ich bin zu faul, weit zu reisen.$h",
   "Sean.MarriageDialogue.Indoor_Night_3": "Möchtest du, dass ich dir eine Massage gebe? Ich liebe das Gefühl deiner Haut unter meinen Händen.",
@@ -20741,14 +20744,22 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Romance.rejectNPCB.Jio": "@, Ich bin viel zu beschäftigt, um romantischen Wünschen nachzugehen. Hast du nicht auch Dinge, die du erreichen möchtest?",
   "Romance.MovieInvite.Spouse.Jio": "Ich würde mich freuen, dich auf dieser Mission zu begleiten, Geliebte, auch wenn ich ihren Zweck nicht verstehe.#$b#Wo auch immer mein Stern mich hinführt, werde ich gerne folgen.$1",
 
- 	//8 Hearts
-  "Jio.Dialogue.Mon8": "Das ist... äußerst unähnlich zu anderen Missionen, die ich unternommen habe, also bitte ertragen Sie meine Unerfahrenheit.$s",
-  "Jio.Dialogue.Tue8": "Ich habe die Seherin über unsere Umstände informiert.#$b#Sie hat es erlaubt, aber mich davor gewarnt, dass eine Beziehung mich nicht von meiner Mission ablenken soll...#$b#Als ob sie eine dazu wäre, darüber zu sprechen.$7",
-  "Jio.Dialogue.Wed8": "Beachte Daia nicht. Ich bin mir unsicher, ob sie übermäßig neugierig ist oder einfach nur eifersüchtig, aber egal wie, ich habe keinen Grund zu glauben, dass sie dir schaden wird.#$b#...Kiwi hingegen...$s#$b#Nun, gib ihr vorerst etwas Raum, um das alles zu verarbeiten.",
-  "Jio.Dialogue.Thu8": "Ich möchte mehr über dich erfahren, @... Aber leider sind wir so unterschiedlich, dass ich nicht einmal weiß, wo ich anfangen soll...$2",
-  "Jio.Dialogue.Fri8": "Alles, was ich über Liebe weiß, habe ich aus den Gedichtbüchern in der Sammlung der Seherin gelernt...$s#$b#Immer wenn sie mich dabei erwischt hat, wie ich sie gelesen habe, hat sie mich gescholten und gesagt, dass sie meine Zeit nicht wert sind...Aber ist Liebe so wenig wert?$s#$b#Oder kann sie so etwas nur sagen, weil sie ihre eigene Liebe gefunden hat?$s",
-  "Jio.Dialogue.Sat8": "Solange ich mich erinnern kann, war ich allein. Und ich habe es so vorgezogen. Kiwi war natürlich ein geschätzter Begleiter, aber...#$b#Aber jetzt fühlt sich die Einsamkeit an wie eine Kette um meinen Hals. Die ruhige Luft, die früher meine Nerven beruhigte, klingt jetzt tot und hohl, ohne dein Lachen, das die Stille durchdringt. Selbst wenn ich ein Messer halte, fühlt sich meine Hand leer an, ohne deine Hand darin, fest an mich gedrückt.$s#$b#Ist das... Könnte das... etwas Wahres sein?$l",
-  "Jio.Dialogue.Sun8": "@, würdest du vielleicht mit mir zusammen den Sonnenaufgang anschauen?#$b#Um den Beginn dieser Welt in deinen Augen widergespiegelt zu sehen, die ersten Sonnenstrahlen des Morgens, die deine Haut streicheln, von deinem Lächeln glitzern...$9#$b#Ich weiß nicht warum, aber ich sehne mich danach.$l",
+  //8 Hearts
+  "Jio.Dialogue.Mon8": "Ah, hallo, @.$h#$b#Es ist, äh... schön, Dich zu sehen, denke ich...$4",
+  "Jio.Dialogue.Tue8": "Daia's Eskapaden sind manchmal einfach zu viel zu ertragen.$4#$b#Ich erinnere mich, als sie noch eine Auszubildende war... Damals war sie so ruhig.",
+  "Jio.Dialogue.Wed8": "Hallo, @. Wie läuft es auf %farm Farm?#$b#Ich habe einmal einen Roman über eine Familie gelesen, die gezwungen war, nach Westen zu reisen, als ihr Ackerland zu Staub wurde...#$b#So etwas passiert nicht oft, oder?$s",
+  "Jio.Dialogue.Thu8": "Hallo, @. Was führt Dich heute hierher?",
+  "Jio.Dialogue.Fri8": "Kiwi hat die ganze Mission letzte Nacht schmollend verbracht...$s#$b#Wahrscheinlich ist sie eifersüchtig auf die neu gewonnene Zeit, die ich mit Dir verbringe.#$b#Sie ist es nicht gewohnt, dass ich einen echten Freund habe, verstehst Du.",
+  "Jio.Dialogue.Sat8": "Regelmäßige Gespräche mit Dir erweisen sich als sehr konstruktiv für mich.#$b#Ich bin mir nicht sicher, ob Dir das aufgefallen ist, aber meine Art zu sprechen ist ein bisschen... veraltet.$s#$b#Ich habe vor langer Zeit sprechen gelernt, und meine Sprachmuster spiegeln das immer noch wider. Ich hoffe, das stört Dich nicht.$s",
+  "Jio.Dialogue.Sun8": "Ich muss gestehen, @. Ich war noch nie so eng mit jemandem außerhalb des Kults befreundet.#$b#Ich finde Dich... erfrischend gewöhnlich.$h",
+
+  "Jio.Dialogue.Mon8_dating": "Das ist... ganz anders als andere Missionen, die ich unternommen habe, also bitte habe Nachsicht mit meiner Unerfahrenheit.$s",
+  "Jio.Dialogue.Tue8_dating": "Ich habe die Seherin über unsere Umstände informiert.#$b#Sie hat es erlaubt, aber mich gewarnt, dass ich mich von einer Beziehung nicht von meiner Mission ablenken lassen soll...#$b#Als ob sie da mitreden könnte.$7",
+  "Jio.Dialogue.Wed8_dating": "Beachte Daia nicht. Ich bin mir nicht sicher, ob sie übermäßig neugierig oder einfach nur eifersüchtig ist, aber so oder so habe ich keinen Grund zu glauben, dass sie Dir schaden wird.#$b#...Kiwi hingegen...$s#$b#Nun, gib ihr einfach etwas Raum, um das alles zu verarbeiten, vorerst.",
+  "Jio.Dialogue.Thu8_dating": "Ich möchte mehr über Dich erfahren, @... Aber ach, wir sind so unterschiedlich, ich weiß nicht einmal, wo ich anfangen soll...$2",
+  "Jio.Dialogue.Fri8_dating": "Alles, was ich über die Liebe weiß, habe ich aus den Gedichtbänden in der Sammlung der Seherin gelernt...$s#$b#Immer wenn sie mich dabei erwischte, wie ich sie las, schimpfte sie mit mir und sagte, sie seien nicht meiner Zeit wert... Aber ist die Liebe so wenig wert?$s#$b#Oder kann sie so etwas nur sagen, weil sie selbst die Liebe gefunden hat?$s",
+  "Jio.Dialogue.Sat8_dating": "Solange ich mich erinnern kann, war ich allein. Und ich habe es so vorgezogen. Kiwi war natürlich ein geschätzter Begleiter, aber...#$b#Aber jetzt fühlt sich die Einsamkeit wie eine Kette um meinen Hals an. Die stille Luft, die früher meine Nerven beruhigte, klingt jetzt tot und hohl ohne Dein Lachen, das die Stille durchdringt. Selbst wenn ich ein Messer halte, fühlt sich meine Hand leer an ohne Deine darin, fest an mich gedrückt.$s#$b#Ist das... Könnte das... etwas Wahres sein?$l",
+  "Jio.Dialogue.Sun8_dating": "@, würdest Du vielleicht irgendwann mit mir den Sonnenaufgang anschauen?#$b#Den Anbruch dieser Welt in Deinen Augen reflektiert zu sehen, die ersten Strahlen des Morgens, die Deine Haut streicheln, die von Deinem Lächeln glitzern...$9#$b#Ich weiß nicht warum, aber ich sehne mich danach.$l",
 
  	//10 Hearts
   "Jio.Dialogue.Mon10": "In Gedichten bezeichnen Menschen ihre Geliebte auf alle möglichen Arten... \"meine Geliebte\", \"meine schöne Liebe\", \"mein Mond und Sterne\"...#$b#Aber wie soll ich mich für nur einen Ausdruck entscheiden, wenn du all das für mich bist und noch so viel mehr?$7#$b#Ich habe nicht erwartet, dass Liebe so verwirrend sein kann.$s",
