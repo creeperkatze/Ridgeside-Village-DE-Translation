@@ -6,7 +6,7 @@
 
 # Usage
 
-Download archive from releases or at [Nexusmods](https://www.nexusmods.com/stardewvalley/mods/TODO).
+Download archive from releases or at [Nexusmods](https://www.nexusmods.com/stardewvalley/mods/20792).
 
 Extract the contents to the Ridgeside Village [mod folder](https://ridgeside.fandom.com/wiki/Install_Guide#First-time_install) and leave out the folders that you don't need.
 
