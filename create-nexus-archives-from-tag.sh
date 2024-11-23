@@ -15,5 +15,5 @@ git checkout $TAGAG
 find . -name ".DS_Store" -exec rm {} \;
 rm -rf tmp
 mkdir tmp
-zip -r "tmp/Ridgeside Village - German.zip" "Ridgeside Village" -x "*default.json"
+zip -r "tmp/Ridgeside Village - German.zip" "Ridgeside Village" -x "*default.json" -x "*.ignore"
 git checkout main
