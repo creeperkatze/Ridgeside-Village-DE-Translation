@@ -5,16 +5,15 @@ TAG=$1
 if [ -z "$TAG" ]
 then
       echo "No tag provided"
+      echo "Usage example for version '0.0.12': ./create-nexus-archives-from-tag.sh 0.0.12"
       exit -1
 fi
 
-git checkout $TAG
+git fetch --all
+git checkout $TAGAG
 
 find . -name ".DS_Store" -exec rm {} \;
 rm -rf tmp
 mkdir tmp
-rm -rf tmp/*.zip
-cp "nsis/ridgeside-village-german-translation-installer.zip" "./tmp/ridgeside-village-german-translation-installer.zip"
-zip -r "tmp/Ridgeside Village.zip" "Ridgeside Village" "Ridgeside Village - German Translation" -x "*default.json"
-
+zip -r "tmp/Ridgeside Village - German.zip" "Ridgeside Village" -x "*default.json"
 git checkout main
