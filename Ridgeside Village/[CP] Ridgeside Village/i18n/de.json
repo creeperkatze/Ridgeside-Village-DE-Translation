@@ -248,6 +248,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Gift.Like.Kimpoi": "Schön.",
   "Gift.Like.Naomi": "Es ist nett von dir, mir das zu geben. Danke.",
   "Gift.Like.Daia": "Du bist ein absoluter Gott, @! Danke!^Du bist eine absolute Göttin, @! Danke!",
+  "Gift.Like.Daia.GN": "Du bist eine absolute Gottheit, @! Danke!",
   "Gift.Like.Bliss": "Das gefällt mir. Danke.",
   "Gift.Like.Undreya": "Schön, das könnte ich gebrauchen.",
   "Gift.Like.Torts": "*lächelt*",
@@ -609,6 +610,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "checkup.Blair": "Mama, kannst du bitte im Wartezimmer bleiben? Ich bin jetzt ein Erwachsener und das soll privat sein.$5",
   "checkup.waiting.Blair": "Der Arzt sagt, ich bin ziemlich gut aufgewachsen. Was denkst du, @? Bin ich in deinen Augen eine Frau oder nur ein kleines Mädchen?$1",
   "checkup.Carmen": "Wenn du Paula sehen willst, musst du zuerst zur Theke gehen. Du weißt das, eh, hijo?$1^Wenn du Paula sehen willst, musst du zuerst zur Theke gehen. Du weißt das, eh, hija?$1",
+  "checkup.Carmen.GN": "Wenn du Paula sehen willst, musst du zuerst zum Schalter gehen. Du weißt das, oder, cielo?$1",
   "checkup.waiting.Carmen": "Sei nicht albern, Blair. Du bist mi hija! Alles ist privat zwischen Familie, eh?$1",
   "checkup.Faye": "Oh, hallo, @. Ist es auf dem Land üblich, dass ein Freund bei diesen dabei ist? Ich bin immer für neue Erfahrungen zu haben, aber das ist definitiv anders.",
   "checkup.2.Faye": "Dr. Paula sagt, ich sollte eine Trainingsroutine haben. Vielleicht könnte ich meine Stoffballen den Berg hinaufschleppen, anstatt Ian zu fragen?#$b#Das scheint allerdings so viel Arbeit zu sein...$s",
@@ -623,7 +625,9 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "checkup.Shanice": "@, warst du so besorgt um mich, dass du nach mir sehen kamst? Nicht einmal mein Ehemann ist so ein Angsthase.$h",
   "checkup.waiting.Shanice": "Lorenzo würde es nie zugeben, aber er muss immer meine Hand halten, wenn er seine Grippeimpfung bekommt.#$b#Sag ihm nicht, dass ich es dir erzählt habe.$1",
   "checkup.Sonny": "Hallo, Herr @.$1^Hallo, Frau @.$1#$b#Warum die gute Laune? Nun, ich habe gerade erfahren, dass Yoba mich dieses Jahr wieder mit guter Gesundheit gesegnet hat. Ich muss dem Bergschrein einen Besuch abstatten, um den Geistern für ihre Freundlichkeit zu danken.$1",
-  "checkup.waiting.Sonny": "Hallo, Herr @. Ich hoffe, der Tag behandelt Sie gut.^Hallo, Frau @. Ich hoffe, der Tag behandelt Sie gut.#$b#Ich selbst? Nun, heute ist der jährliche Familienbesuch beim Arzt. Möge Yoba sie alle mit guter Gesundheit und einem langen Leben segnen.",
+  "checkup.Sonny.GN": "Hallo, {{Title}} @.$1#$b#Warum die gute Laune? Nun, ich habe gerade erfahren, dass Yoba mich auch dieses Jahr wieder mit guter Gesundheit gesegnet hat. Ich werde einen Besuch beim Bergschrein machen müssen, um den Geistern für ihre Freundlichkeit zu danken.$1",
+  "checkup.waiting.Sonny": "Hallo, @. Ich hoffe, Sie haben einen schönen Tag.^Hallo, Frau @. Ich hoffe, Sie haben einen schönen Tag.#$b#Bei mir? Nun, heute ist der jährliche Familienbesuch beim Arzt. Möge Yoba sie alle mit guter Gesundheit und einem langen Leben segnen.",
+  "checkup.waiting.Sonny.GN": "Hallo, {{Title}} @. Ich hoffe, Sie haben einen schönen Tag.#$b#Bei mir? Nun, heute ist der jährliche Besuch der Familie beim Arzt. Möge Yoba sie alle mit guter Gesundheit und langem Leben segnen.",
   "checkup.Paula": "Es tut mir leid, @, aber ich bin gerade bei einem Patienten. Könntest du bitte später wiederkommen?",
   "checkup.jeric.Paula": "Es tut mir leid, Jeric, es gibt kein Heilmittel dafür, ein unverbesserlicher Flirt zu sein.$h",
   "checkup.lenny.Paula": "Lenny, ich habe wirklich keine Ahnung, wovon du redest.$4",
@@ -852,6 +856,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "event-75160120.29.1": "Ich bin so stolz auf sie...$6",
   "event-75160120.29.2": "Unser kleines Mädchen ist erwachsen geworden, Schatz.$4",
   "event-75160120.30": "D... Danke! Danke, an alle!$10#$b#Und, ähm... ein großes Dankeschön auch an @!$9#$b#Ohne ihn hätte ich nicht den Mut gehabt, hier für euch alle zu singen!$9^Ohne sie hätte ich nicht den Mut gehabt, hier für euch alle zu singen!$9",
+  "event-75160120.30.GN": "Da... Danke! Danke, alle zusammen!$10#$b#Und, ähm... ein großes Dankeschön auch an @!$9#$b#Ohne {{ObjectivePronoun}} hätte ich nicht den Mut gehabt, hier vor euch allen zu singen!$9",
   "event-75160120.31": "Alissa und die Band spielten weiterhin mehr Lieder für die Menge.#Sie sieht jetzt so glücklich und selbstbewusst aus!#Alle hatten Spaß!",
   "event-75160120.32": "Hey, @... Danke für alles!$l#$b#Ich fühle mich jetzt ein bisschen selbstsicherer.$h#$b#Ich hoffe, alle hatten Spaß!$h",
 
@@ -1220,6 +1225,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "event-75160128.05": "Oh mein Yoba, oh mein Yoba, oh mein Yoba!$s#$b#Das war... das war peinlich!$s#$b#Oh, Yoba, was ist, wenn mich letzte Nacht jemand gesehen hat?$s#$b#Es ist ein Hotel, wie hoch sind die Chancen, dass niemand es gesehen hat?!$s#$b# W-Wie soll ich jemals wieder jemandem ins Gesicht schauen können?$s",
   "event-75160128.06": "Weiß Flor, wie laut sie mit sich selbst spricht?",
   "event-75160128.07": "Atme, Flor. Atme.$s#$b#Schau auf die helle Seite! Zumindest hat er es mir gesagt, bevor mehr Leute mich gesehen haben!$s^Schau auf die helle Seite! Zumindest hat sie es mir gesagt, bevor mehr Leute mich gesehen haben!$s",
+  "event-75160128.07.GN": "Atme, Flor. Atme.$s#$b#Sieh es von der positiven Seite! W-wenigstens hat {{SubjectivePronoun}} es mir gesagt, bevor es noch mehr Leute gesehen haben!$s",
   "event-75160128.08": "Umm... @?$s#$b#Ich... äh... $s#$b#Du kannst reinkommen. Ich muss dir etwas sagen...$s",
   "event-75160128.09": "H-Hey, @... Ich... äh. D-Danke, dass du mir von meinem... Äh... von dem Handtuch erzählt hast.$s#$b#Es tut mir wirklich leid, dass du das sehen musstest!$s#$b#Ich weiß, es ist schwer zu glauben, aber ich habe es wirklich nicht bemerkt!$s#$b#Ich war einfach so auf mein Buch konzentriert und ich schlafe immer wie ein Stein und bin kurz nach dem Aufwachen etwas desorientiert und--$s#$b#Es tut mir leid!$s",
   "event-75160128.10": "Flor ist wirklich peinlich berührt.",
@@ -1399,6 +1405,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "event-75160076.04": "Du hast gute Fortschritte gemacht, @.#$b#Wenn du eine Pause machen möchtest, ist das in Ordnung.$4#$b#Ich hoffe nur, du hast deine Farmarbeit erledigt, bevor du hierher gekommen bist.$h",
   "event-75160076.05": "Ich bin froh, dass du ein gutes Kind bist, @.#$b#Zeit mit dir zu verbringen lässt mich wieder jung fühlen!$h#$b#Danke, dass du diesen alten Mann begleitest.",
   "event-75160076.06": "Du bist wie ein Sohn für mich geworden.^Du bist wie eine Tochter für mich geworden.#$b#Ich hoffe, das stört dich nicht. Aber ich habe angefangen, dich so zu behandeln.",
+  "event-75160076.06.GN": "Du bist wie ein {{ElderFamilialNoun}} für mich geworden.#$b#Ich hoffe, das stört dich nicht. Aber ich habe angefangen, dich als solchen zu behandeln.",
   "event-75160076.07": "Heh... Ich frage mich, ob er so geworden wäre wie du...",
   "event-75160076.08": "Oh! Hast du das gehört?$4#$b#Nein, es ist in Ordnung. Kümmere dich nicht zu sehr darum.$h",
   "event-75160076.09": "Okay, faule Knochen! Genug Pause! Lass uns mit dem Training weitermachen!$h",
@@ -1408,6 +1415,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 //Freddie remembering their son (Freddie 8 hearts)
   "event-75160077.01": "Ich sollte das hier wohl aufräumen, oder...$4",
   "event-75160077.02": "Ah, @, Es ist eine Freude, dich zu sehen, Junge.^Ah, @, Es ist eine Freude, dich zu sehen, Mädchen.#$b#Ich war gerade dabei, dieses alte Spielzeug aufzuräumen.",
+  "event-75160077.02.GN": "Ah, @, es ist eine Freude, dich zu sehen, Jungspund.#$b#Ich war gerade dabei, dieses alte Spielzeug aufzuräumen.",
   "event-75160077.03": "Hmmm? Warum haben wir das?#$b#Nun...$s",
   "event-75160077.04": "Wo soll ich anfangen...#$b#Ich denke, ich sollte es erklären.#$b#Du bist mein guter Freund. Und ich weiß, Lola möchte nicht darüber reden.",
   "event-75160077.05": "Freddie fixiert nur seine Augen auf das Spielzeug...",
@@ -1549,9 +1557,11 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "event-75160151.01": "Hallo, @! Wie läuft es?$h#$b#Ich wollte nur vorbeischauen und die Konkurrenz sehen, weißt du?$6",
   "event-75160151.02": "Ich mache nur Spaß! Haha!$h#$b#Aber im Ernst, dein Großvater besaß eine großartige Farm.#$b#Ich hoffte, sie eines Tages zu kaufen.$h#$b#Aber ich weiß, dass das niemals passieren wird. Ich weiß, du wirst diese Farm nicht aufgeben, und ich gebe dir keine Schuld!$h",
   "event-75160151.03": "Aber das ist viel für einen Stadtkerl zu bewältigen.^Aber das ist viel für ein Stadtmädchen zu bewältigen.$6#$b#Hehe...$6",
+  "event-75160151.03.GN": "Aber das ist viel zu bewältigen für jemanden aus der Stadt.$6#$b#Hehe...$6",
   "event-75160151.04": "Hey, lass uns einen kleinen Wettbewerb haben.$h",
   "event-75160151.05": "Nein, warte, keine Sorge! Es ist nichts Verrücktes!$h#$b#Wir werden nur darum konkurrieren, wer den besten Bauernhof hat!$h#$b#Hahaha, es gibt keine wirklichen Maßstäbe dafür. Wir werden nur sehen, ob wir den anderen dazu bringen können zuzugeben, dass sein Bauernhof besser ist!#$b#Kein Herumalbern, nur ehrliche harte Arbeit. Verstehst du mich?$6",
   "event-75160151.06": "Süß! Es ist an.$h#$b#In Ordnung, viel Glück, Kumpel!$7^In Ordnung, viel Glück, Süße!$7#$b#Arbeite jetzt fleißig!$h",
+  "event-75160151.06.GN": "Süß! Es geht los.$h#$b#Alles klar, viel Glück, mein Rivale!$7#$b#Arbeite jetzt hart!$h",
   "event-75160151.07": "Ich nehme an, ich konkurriere jetzt mit Jeric?#Ich bin mir nicht sicher, was gerade passiert ist...",
   "event-75160151.08": "Sicher, die Regeln sind zu vage.#$b#Aber das ist der Spaß daran!!$6",
 
@@ -1583,6 +1593,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "event-75160153.10": "Turbo hier wurde mir von der Familie des Gouverneurs gegeben, als ich die Stadt verließ.#$b#Er und seine Familie nahmen mich auf und gaben mir einen Job, nachdem ich seine Katze vor einem Autounfall gerettet hatte.#$b#So eine seltsame Geschichte, wirklich. Hätte nie gedacht, dass das Retten einer Katze dazu führen würde, dass ich mein eigenes Leben habe!$h#$b#Aber ja, er nahm mich auf, gab mir einen Job und schließlich fragte ich ihn, ob ich die Stadt verlassen könnte.#$b#Er war einverstanden und gab mir eines seiner alten Pferde.#$b#Und nun bin ich in dieses Tal gezogen und habe eine Farm begonnen.#$b#Ich hatte Glück, dass es dieses freie Land gab, das der Gouverneur zur Lagerung nutzte, also bekam ich die Erlaubnis, es in eine Farm umzuwandeln.#$b#Es gab Höhen und Tiefen, jedoch. Viele Male wäre ich fast pleite gegangen, weil ich nicht wusste, was ich nicht wusste.$s#$b#Aber ich habe weitergemacht. Das ist meine Chance, endlich ein gutes Leben zu führen.$h",
   "event-75160153.11": "Ich muss sagen, @, ich bewundere wirklich deine Hände.#$b#Sie zeigen, wie hart du gearbeitet hast, und das finde ich erstaunlich.#$b#Du machst großartige Arbeit als Bauer, @, mach weiter so!#$b#Ich meine... ich könnte sagen...$l",
   "event-75160153.12": "Oh! Nein! Ich werde noch nicht aufgeben!$h#$b#Ich werde auch hart arbeiten!$h#$b#Aber ja, ich bewundere dich, @.#$b#Du bist ein erstaunlicher Kerl. Auch gutaussehend.^Du bist ein erstaunliches Mädchen. Hübsch auch.#$b#Würde es dir etwas ausmachen, wenn ich dich eines Tages umwerbe?$h",
+  "event-75160153.12.GN": "Oh! Nein! Ich gebe noch nicht auf!$h#$b#Ich werde auch hart arbeiten!$h#$b#Aber ja, ich bewundere dich, @.#$b#Du bist ein erstaunlicher {{GenericNoun}}. Gut aussehend auch noch.#$b#Würde es dir etwas ausmachen, wenn ich dich eines Tages umwerbe?$h",
   "event-75160153.13": "Wahaha! Ich mache nur Spaß mit dir, @.$h",
   "event-75160153.14": "Das Leben eines Bauerns ist ziemlich einfach, nicht wahr?#$b#Aber ich liebe diese Art von Lebensstil.#$b#Ich würde es nicht anders haben wollen, das sage ich Ihnen.$h",
   "event-75160153.15": "Nun, ich werde mich jetzt auf die nächste Ernte vorbereiten.#$b#Möchtest du eine Weile bleiben und mir bei der Arbeit zuschauen?#$b#Vielleicht verliebst du dich ja in mich und gibst auf diese Weise auf?$6",
@@ -1688,6 +1699,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "event-75160082.01": "Heya, @!$h#$b#Schön dich zu sehen!$h#$b#Was machst du heute? Nur zu Besuch?",
   "event-75160082.02": "Oh! Das ist cool.#$b#Cool cool cool cool...$h",
   "event-75160082.03": "Also, ähm... Übrigens...#$b#Mein Vater hat neulich etwas von deinen Erzeugnissen gekauft.#$b#Es war köstlich! Gute Arbeit, Herr Bauer!$h^Es war köstlich! Gute Arbeit, Frau Bauerin!$h#$b#Papa sagte, es wäre kein großartiges Gericht ohne deine Erzeugnisse!",
+  "event-75160082.03.GN": "Also, ähm... Übrigens...#$b#Mein Vater hat neulich etwas von deinem Erzeugnis gekauft.#$b#Es war köstlich! Tolle Arbeit, {{Title}} Bauer!$h#$b#Papa sagte, es wäre kein tolles Gericht ohne dein Erzeugnis gewesen!",
   "event-75160082.03.5": "Keahi klopft dir auf den Rücken.",
   "event-75160082.04": "Du verdienst diesen Klaps auf den Rücken. Du hast großartige Arbeit geleistet!$h#$b#Ich bin sicher, du bist wirklich beschäftigt... also werde ich dich jetzt nicht weiter stören, @.",
   "event-75160082.05": "Tschüss!$h",
@@ -1847,6 +1859,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 //Kiwi hiding (Kiwi 2 hearts)
   "event-75160177.01": "Hup! Ein Mensch? Was macht ein Mensch hier? #$b#Kiwi bewegt sich nicht... Vielleicht sieht Kiwi Kiwi nicht?",
   "event-75160177.02": "Mensch?$u#$b#Was will der Mensch?$u#$b#Er sieht Kiwi?!$u^Sie sieht Kiwi!?$u",
+  "event-75160177.02.GN": "Mensch?$u#$b#Was Mensch wollen?$u#$b#Mensch Kiwi sehen?!$u",
   "event-75160177.03": "Ja! Mensch sieht!$u#$b#Wie!? Mensch hat Magie? Sprichst du Junimo-Sprache?$a#$b#Warum Mensch hier?$a#$b#Mensch nimmt Kiwi nicht lebendig! Verschwinde!$a",
   "event-75160177.04": "Huh? Besuch nur für Menschen? Willst du ein Freund sein?#$b#Kiwi hat Jio. Genug Freund.#$b#Hmm... Kiwi will vielleicht zwei Freunde haben?",
   "event-75160177.05": "Nein! Kiwi nicht dumm. $a#$b#Kiwi beobachtet Menschen, entscheidet ob Mensch gut oder Mensch schlecht. $a",
@@ -2095,6 +2108,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "event-75160136.Fork1": "Wha-- Was?$8#$b#Wha-- Was sagst du?$a#$b#Hahaha. Sehr lustig jetzt.$7",
   "event-75160136.06": "Nun... ähm...$7#$b#Die Dinge sind weniger langweilig, wenn ich jemanden bei mir habe, den ich verspotten kann.$6#$b#Komm, setz dich.$7",
   "event-75160136.07": "Also, ähm...$7#$b#Wie läuft das Landleben bisher, Stadtkerl?^Wie läuft das Landleben bisher, Stadtmädchen?$6#$b#Wetten, du bereust jetzt alles, huh?$7",
+  "event-75160136.07.GN": "Also, ähm...$7#$b#Wie gefällt dir das Landleben bisher, für jemanden aus der Stadt?$6#$b#Wettest, du bereust es jetzt schon, was?$7",
   "event-75160136.08": "Oh? Gefällt es dir? Pshh. Wirklich, jetzt?$h#$b#Neulich habe ich dich gesehen, wie du halb tot aussahst vor all der harten Arbeit.$6",
   "event-75160136.09": "Haha. Dein Körper, der in der Stadt aufgewachsen ist, ist wohl nicht so robust, huh?$h#$b#Wahaha.$h",
   "event-75160136.10": "Ich necke dich nur.$8#$b#Ich bewundere tatsächlich deine Arbeit. Du hast einen ziemlich guten Job gemacht. Das muss ich dir lassen.$a#$b#Du baust gesunde Pflanzen an und verwaltest eine riesige Farm ganz alleine.#$b#Das ist beeindruckend, selbst für dich, @.$6",
@@ -2404,6 +2418,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "event-75160100.11": "Es tut mir wirklich leid, nochmal, Papa!$h#$b#Okay! Lass uns an die Arbeit gehen!$h",
   "event-75160100.12": "Ja! Was soll ich tun, Chef?",
   "event-75160100.13": "@ hat das meiste davon bereits erledigt. #$b#Ihr solltet ihm danken!^Ihr solltet ihr danken!",
+  "event-75160100.13.GN": "@ hat tatsächlich schon den größten Teil erledigt.#$b#Ihr zwei solltet {{ObjectivePronoun}} danken!",
   "event-75160100.14": "Oh! Wirklich? $h",
   "event-75160100.15": "Juhu, weniger Arbeit!$h",
   "event-75160100.16": "Worüber redest du?$a#$b#Du bleibst spät, mein Herr!$a",
@@ -2427,6 +2442,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "event-75160101.10": "Papa... kann ich dich etwas fragen?$s",
   "event-75160101.11": "Oh! Natürlich, mein Sohn! Was ist los?",
   "event-75160101.12": "Umm... geht es dir gut?$s#$b#@ und ich habe gehört, wie du mit Mamas Halskette gesprochen hast...$s#$b#Und ich habe gehört, dass du das schon eine ganze Weile lang oft machst...$s#$b#Dad... Ich bin hier, wenn du jemanden zum Reden brauchst...$s#$b#@ ist auch hier, er ist dein guter Freund, oder?$s^@ ist auch hier, sie ist deine gute Freundin, oder?$s",
+  "event-75160101.12.GN": "Ähm... geht es dir gut?$s#$b#@ und ich haben gehört, wie du mit Mamas Halskette gesprochen hast...$s#$b#Und ich habe gehört, dass du das schon eine ganze Weile ziemlich oft machst...$s#$b#Papa... ich bin hier, wenn du jemanden zum Reden brauchst...$s#$b#@ ist auch hier, ihr seid gute Freunde, oder?$s^",
   "event-75160101.13": "Oh! Ich wusste nicht, dass es dich stört, mein Sohn...$s#$b#Es tut mir auch leid, dass ich dich unwohl fühlen lassen habe, @.$s#$b#Ich vermisse einfach meine Wahine jeden Tag, wenn ich aufwache...$s#$b#Aber hey! Es gibt keine Zeit zum Trübsal blasen, Leute!$h#$b#Los geht's! Wir haben Arbeit zu erledigen!$h",
   "event-75160101.14": "Keahi? Hey... Weine jetzt nicht..$s#$b#Wenn deine Mutter hier wäre, wäre sie sehr traurig, wenn sie dich weinen sehen würde, weißt du?$h",
   "event-75160101.15": "Keahi sagt nichts und hält seine Tränen zurück.",
@@ -2455,6 +2471,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "event-75160103.04": "Uh, @, jetzt ist keine gute Zeit.$a#$b#Es tut mir leid, Madame.$s",
   "event-75160103.05": "Du fängst an, eine kleine Lüge darüber zu erzählen, dass du schon lange Kunde bist. # Du sprichst darüber, wie viel besser der zweite Stock im Vergleich zum dritten Stock ist.",
   "event-75160103.06": "Oh! Das ist richtig, Madame!$h#$b#Mr. @ ist ein alter Stammgast des Hotels!$4^Ms. @ ist eine alte Stammgastin des Hotels!$4#$b#Wäre ich ein Gast, würde ich das Wort von jemandem annehmen, der unser Hotel bereits erlebt hat!$4#$b#Darüber hinaus haben wir ein begrenztes Angebot eines kostenlosen Frühstücks im Bett, wenn Sie dieses Zimmer heute buchen!$4",
+  "event-75160103.06.GN": "Oh! Das ist korrekt, gnädige Frau!$h#$b#{{Title}} @ hier ist ein alter Stammgast des Hotels!$4#$b#Wenn ich Gast wäre, würde ich auf das Wort von jemandem hören, der unser Hotel bereits erlebt hat!$4#$b#Zusätzlich haben wir ein begrenztes Angebot eines kostenlosen Frühstücks im Bett, wenn Sie das Zimmer heute buchen!$4",
   "event-75160103.07": "Oh! Ist das so?#Nun gut, dann werde ich den Vorschlag dieses Bengels annehmen.#Ich freue mich auf dieses Frühstück!",
   "event-75160103.08": "*flüstert* Ist sie schon weg?",
   "event-75160103.09": "Puh! Meine Güte!$s#$b#Diese Art von Kunden sind wirklich so lästig!$h#$b#Ich fand es ziemlich amüsant, als sie davon sprach, mit dem Manager zu sprechen, denn ich besitze den Laden!$h#$b#Wenn meine Frau hier wäre, hätte sie sich schnell etwas ausgedacht, wie du es getan hast, @!$h#$b#Vielen Dank für die Hilfe! Ich war kurz davor, die Beherrschung zu verlieren, muss ich sagen!$a#$b#Diese Frau war so anspruchsvoll, sag ich dir!$a",
@@ -2513,6 +2530,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "event-75160168.13": "Ich glaube, du hast vergessen, früher zu frühstücken, Yuuma, also hier ist ein Spiegelei!$h#$b#Ich weiß, es ist dein Lieblingsessen. Und es tut mir leid, dass ich dich früh am Morgen beunruhigt habe.#$b#Jetzt los, greif zu!$h",
   "event-75160168.14": "Onii-san!$a#$b#Hast du selber gekocht?$a#$b#Du weißt doch, dass du dich leicht erschöpfst, richtig?$s#$b#Du hättest dich doch wieder verletzen können, weißt du das?!?$s",
   "event-75160168.15": "Keine Sorge, Yuuma, ich hatte @ hier, um mir zu helfen.$h#$b#Ich wusste, du würdest wirklich besorgt sein.#$b#Ich bin froh, dass er rechtzeitig gekommen ist.^Ich bin froh, dass sie rechtzeitig gekommen ist.$h",
+  "event-75160168.15.GN": "Mach dir keine Sorgen, Yuuma, ich hatte @ hier, um mir zu helfen.$h#$b#Ich wusste, dass du dir wirklich Sorgen machen würdest.#$b#Ich bin froh, dass {{SubjectivePronoun}} gerade rechtzeitig vorbeikam.",
   "event-75160168.16": "Hmmm... okay...$s#$b#Aber was ist, wenn sie es nicht getan haben? Du musst vorsichtig sein! Ich--$a",
   "event-75160168.17": "Yuuma's Magen knurrt.",
   "event-75160168.18": "Uhh...$u",
@@ -2600,9 +2618,11 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 //Shiro surprise date (Shiro 10 hearts)
   "event-75160172.01": "Keine Zeit für Erklärungen.#$b#Folge mir.",
   "event-75160172.02": "Er ist hier, Shiro.$h^Sie ist hier, Shiro.$h#$b#Ich gehe jetzt nach Hause, okay?#$b#Ich vertraue darauf, dass @ dich nach Hause bringt.$h",
+  "event-75160172.02.GN": "@ ist hier, Shiro.$h#$b#Ich werde jetzt nach Hause gehen, okay?#$b#Ich vertraue darauf, dass @ dich nach Hause bringen wird.$h",
   "event-75160172.03": "Danke, Yuuma.$h#$b#Pass auf dem Heimweg auf, okay?$h",
   "event-75160172.04": "Viel Spaß! $h#$b#Shiro hat sich sehr bemüht für diese Überraschung, weißt du.#$b#Bitte kümmere dich um ihn.$h",
   "event-75160172.05": "Hey, hübscher.$l^Hey schöne.$l#$b#Komm schon! Nimm meine Hand.$h",
+  "event-75160172.05.GN": "Hey, {{Adjective}}.$l#$b#Komm schon! Nimm meine Hand.$h",
   "event-75160172.06": "Hey, ähm, @...$l#$b#Ich hoffe, dir gefällt diese kleine Überraschung.$h#$b#Keine Sorge, ich habe mich nicht zu sehr angestrengt. Yuuma hat geholfen.$h#$b#Aber ja, ich wollte dich einfach überraschen.#$b#Eine Möglichkeit, auszudrücken, wie sehr ich dich schätze und wie besonders du mich fühlen lässt, @.$l#$b#Du hast einen so großen Einfluss auf... nun ja, meine Perspektive und auch mich als Person.$l#$b#Ich möchte weitermachen, weiterleben, nicht nur für dich oder meine Familie und Freunde, sondern auch für mich selbst.$l#$b#Danke, dass du immer für mich und Yuuma da bist.$l#$b#@, du hast keine Ahnung, wie glücklich du mich machst. Wirklich.$h#$b#Und ja... $l#$b#Ich liebe dich, @.$l",
   "event-75160172.07": "Shiro plante ein fantastisches Abendessen am Strand.#Es war wunderbar. <",
   "event-75160172.08": "Hey, bevor du mich zurück zu meinem Haus bringst, lass uns zuerst bei dir vorbeischauen. $l#$b#Los geht's.$l",
@@ -2669,6 +2689,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "event-75160109.03": "Nun ja... Ich habe in letzter Zeit viel über Keahi nachgedacht...$s#$b#Er ist so cool und lustig! Er ist auch so süß!$4#$b#Ich glaube, ich habe mich in ihn verknallt.$4#$b#Aber das Problem ist... Ich glaube, er sieht mich als kleine Schwester!$a#$b#Und ich glaube, er mag jemand anderen.$s",
   "event-75160109.04": "Ja! Ich glaube, er mag Fräulein Ysabelle aus dem Hotel!$a#$b#Und außerdem hat er letztes Mal auch erwähnt, dass Fräulein Haley aus der Stadt auch hübsch ist!$a#$b#Und ich so, warum findest du mich nicht hübsch, huh? Dumme Jungs!$a",
   "event-75160109.05": "Oh, nicht alle Jungen, @. Du bist ein schlauer!$h^Warum sind Jungen so dumm, @?$s#$b#Aber wirklich, allerdings. Ich dachte nicht, dass ich Gefühle für den Kerl bekommen würde!$s#$b#Er ist mein bester Freund!$a",
+  "event-75160109.05.GN": "Warum sind Jungs so dumm, @? Wächst man da raus, wenn man erwachsen ist?$s#$b#Aber mal im Ernst. Ich hätte nicht gedacht, dass ich Gefühle für den Kerl entwickeln würde!$s#$b#Er ist mein bester Freund!$a",
   "event-75160109.06": "Viel kann sich im Laufe der Zeit noch ändern?#$b#Oh! Ja, @! Du hast recht!$h#$b#Wir sind noch ein bisschen jung, oder? Also... vielleicht werde ich in der Zukunft sogar hübscher als Fräulein Ysabelle oder Fräulein Haley!$h#$b#Vielleicht wird meine Stimme genauso schön wie die meiner großen Schwester Alissa!$h#$b#Vielleicht werde ich auch so klug wie Fräulein Penny oder Fräulein Flor!$h",
   "event-75160109.07": "Nein, ich werde BESSER SEIN ALS ALLE VON IHNEN!$h#$b#MWAHAHAHA!$h",
   "event-75160109.08": "Hey, @! Danke, dass du mich aufgemuntert hast!$h#$b#Hehe, ich werde nicht so leicht aufgeben!$h",
@@ -2795,13 +2816,16 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 //Yuuma buying stuff (Yuuma 2 hearts)
   "event-75160110.01": "Oh hallo, @!$h#$b#Und womit kann ich Ihnen heute helfen?",
   "event-75160110.02": "Entschuldigen Sie, Herr.^Entschuldigen Sie, Fräulein.#$b#Wäre es in Ordnung, wenn ich mich in der Schlange vordränge? Ich habe es eilig.#$b#Es ist in Ordnung, wenn Sie nicht möchten.$h",
+  "event-75160110.02.GN": "Entschuldigung, mein Herr.#$b#Wäre es in Ordnung, wenn ich mich vor Ihnen anstelle? Ich habe es eilig.#$b#Es ist in Ordnung, wenn Sie nicht möchten.$h",
   "event-75160110.03": "Danke, freundlicher Herr.^Danke, freundliche Dame.",
+  "event-75160110.03.GN": "Danke, gütiger Herr.",
   "event-75160110.04": "Hier bitte, Herr Pierre.#$b#Ich möchte diese gerne kaufen, bitte.",
   "event-75160110.05": "Du musst jetzt nicht so förmlich sein, Yuuma.$h#$b#Und wow, das ist eine Menge Zeug! Schaffst du es, das alles alleine zu tragen?",
   "event-75160110.06": "Es ist keine Mühe, mein Herr. #$b#Ich kann damit umgehen.",
   "event-75160110.07": "Hmmm. Okay, dann...",
   "event-75160110.08": "Danke!",
   "event-75160110.09": "Und danke, dass Sie mich vorgelassen haben, Herr @.^Und danke, dass Sie mich vorgelassen haben, Frau @.#$b#Ich schätze es wirklich.",
+  "event-75160110.09.GN": "Und danke, dass du mich in der Schlange vorgelassen hast, {{Title}} @.#$b#Ich weiß das wirklich zu schätzen.",
   "event-75160110.10": "Dieser Junge ist immer so beschäftigt.$s#$b#Ich habe ihn auch noch nie mit den anderen Kindern spielen sehen.#$b#Er kommt jede Woche hierher, um Lebensmittel zu kaufen.#$b#Ich frage mich, was mit ihm los ist.",
 
 //Yuuma looks at kids playing (Yuuma 4 hearts)
@@ -2908,6 +2932,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "InterModEvent.EastScarpe.Trinnie6Hearts.02": "@! Hallo!!$h",
   "InterModEvent.EastScarpe.Trinnie6Hearts.03": "Whoa! Deine Farm ist groß!$h",
   "InterModEvent.EastScarpe.Trinnie6Hearts.04": "Wie läuft es, mein Herr!$h^Wie läuft es, meine Dame!$h",
+  "InterModEvent.EastScarpe.Trinnie6Hearts.04.GN": "Wie läuft's, Bauer!$h",
   "InterModEvent.EastScarpe.Trinnie6Hearts.05": "Komm schon, Leute... Nicht zu laut!",
   "InterModEvent.EastScarpe.Trinnie6Hearts.06": "Wir haben vorhin am Bushaltestelle gespielt und wir haben darüber nachgedacht, deinen Bauernhof zu besuchen, @.#$b#Wir dachten, er sei verflucht, bevor du eingezogen bist.$u",
   "InterModEvent.EastScarpe.Trinnie6Hearts.07": "Wir haben früher auf der Farm gespielt, bevor du gekommen bist. Niemand hat uns dort gestört.",
@@ -2919,10 +2944,12 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "InterModEvent.EastScarpe.Trinnie6Hearts.13": "Tante Marnie hat gesagt, du bist wahrscheinlich der beste Bauer im Tal!$h",
   "InterModEvent.EastScarpe.Trinnie6Hearts.14": "Mein Vater sagt, du kümmert dich wirklich um das örtliche Ökosystem!$h",
   "InterModEvent.EastScarpe.Trinnie6Hearts.15": "Um...#$b#Meine Mutter hat gesagt, du bist gutaussehend.^Meine Mutter hat gesagt, du bist wunderschön.$h",
+  "InterModEvent.EastScarpe.Trinnie6Hearts.15.GN": "Ähm...#$b#Meine Mutter hat gesagt, du bist wunderschön.$h",
   "InterModEvent.EastScarpe.Trinnie6Hearts.16": "Was?",
   "InterModEvent.EastScarpe.Trinnie6Hearts.17": "Vincent!",
   "InterModEvent.EastScarpe.Trinnie6Hearts.18": "...$u",
   "InterModEvent.EastScarpe.Trinnie6Hearts.19": "Eine Biene braucht... Hände?$h^Ich nehme an, du bist BEE-autiful.$h",
+  "InterModEvent.EastScarpe.Trinnie6Hearts.19.GN": "Ich schätze, du bist BIENEN-schön.$h",
 
 		//Adds Eloise to Yuuma 4 Heart Event
   "InterModEvent.EastScarpe.Yuuma4Hearts.01": "Oh, hallo, @.#$b#Es tut mir leid... Ich sollte jetzt gehen.#$b#Ich muss die Medizin meines Bruders in der Klinik abholen.",
@@ -4352,6 +4379,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Festivals.FlowerDance.Philip_spouse": "Wir werden tanzen? #$e# Nun gut, dann werde ich mich wohl zum Narren machen. #$b# Denk daran, du hast dich entschieden, mich zu heiraten!$h",
   "Festivals.FlowerDance.Shiro": "Hey, @! Das Festival bringt mich immer in gute Stimmung.$h#$b# Es ist schwer, sich schlecht zu fühlen, wenn alle so glücklich sind, weißt du?$h",
   "Festivals.FlowerDance.Shiro_spouse": "Du siehst so gut aus^Du siehst so wunderschön aus.$l",
+  "Festivals.FlowerDance.Shiro_spouse.GN": "Du siehst so unglaublich aus.$l",
   "Festivals.FlowerDance.Ysabelle": "Der Tanz ist einfach, aber ich denke, das ist es, was ihn klassisch macht!$h",
   "Festivals.FlowerDance.Ysabelle_spouse": "Komm schon, Schatz. Genau wie wir es zu Hause geübt haben. #$b#Aber tritt mir dieses Mal nicht auf die Füße!$h",
 
@@ -4679,8 +4707,11 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "EmberNightDialogue.Gus": "Frohes Neues Jahr, @!$1#$e#Pika hat sicherlich einige ausgefallene Rezepte...$2#$b#Die Leute scheinen sie jedoch zu mögen.#$b#Vielleicht sollte ich sie auch in der Kneipe verkaufen?$1",
   "EmberNightDialogue.Harvey": "Frohes neues Jahr, @!$1#$e#Ein weiteres Jahr ist vergangen...#$b#Ich fange wirklich an, mich alt zu fühlen.$2#$b#Aber es hat keinen Sinn, sich darüber zu beschweren!$1",
   "EmberNightDialogue.Jas": "Frohes Neues Jahr, Herr @!^Frohes Neues Jahr, Frau @!$1#$e#Trinnie hat ihrem Holzscheit einen Namen gegeben.#$b#Ich frage mich, ob sie sich daran erinnert, dass wir sie später verbrennen müssen.$2",
+  "EmberNightDialogue.Jas.GN": "Frohes neues Jahr, {{Title}} @!$1#$e#Trinnie hat ihrem Holzscheit einen Namen gegeben.#$b#Ich frage mich, ob sie sich daran erinnert, dass wir die später verbrennen müssen.$2",
   "EmberNightDialogue.Vincent": "Frohes Neues Jahr, mein Herr!^Frohes Neues Jahr, meine Dame!$1#$e#Ich habe das Holz verloren, das ich mitgebracht habe!$3#$b#Jetzt werden meine Wünsche nicht wahr werden.$2",
+  "EmberNightDialogue.Vincent.GN": "Frohes neues Jahr, Bauer!$1#$e#Ich habe das Holzscheit verloren, das ich mitgebracht habe!$3#$b#Jetzt werden meine Wünsche nicht in Erfüllung gehen.$2",
   "EmberNightDialogue.Willy": "Frohes neues Jahr, Junge!^Frohes neues Jahr, Mädchen!$1#$e#Achte nicht auf den Geruch, ich war den ganzen Tag am Ridgeside-Teich angeln, bevor ich den Berg hinaufgegangen bin.$3",
+  "EmberNightDialogue.Willy.GN": "Frohes neues Jahr, Bauer!$1#$e#Stör dich nicht am Geruch, ich war den ganzen Tag am Ridgeside-Teich angeln, bevor ich den Berg hochgegangen bin.$3",
 
 //Ridgeside Gathering
 
@@ -4828,7 +4859,9 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Romance.Engagement.Jeric0": "Habe ich mich gerade verlobt?$h#$b#Sozusagen, mit einer absoluten Zehn, wie du!?$l",
   "Romance.Engagement.Jeric1": "Das ist erstaunlich! Ich kann es kaum erwarten, ein Leben mit dir zu beginnen!$h",
   "Romance.give.flowersA.Jeric": "Whoa!$u#$b#Ich... Ich bin sprachlos!$l#$b#Ich wollte dir gerade auch eins geben!$h#$b#Offensichtlich ist die Antwort ja!$l#$e#Ich habe jetzt einen gutaussehenden Freund!$l^Ich habe jetzt eine schöne Freundin!$l",
+  "Romance.give.flowersA.Jeric.GN": "Wow!$u#$b#Ich... Ich bin sprachlos!$l#$b#Ich war gerade dabei, dir auch eines zu geben!$h#$b#Natürlich ist die Antwort ja!$l#$e#Ich kann nicht glauben, dass ich jetzt mit der heißesten Person im Tal zusammen bin!$l",
   "Romance.give.flowersB.Jeric": "Whoa!$u#$b#Ich ... Ich bin sprachlos!$l#$b#Ich war gerade dabei, dir auch eins zu geben!$h#$b#Offensichtlich lautet die Antwort ja!$l#$e#Ich habe jetzt einen gutaussehenden Freund!$l^Ich habe jetzt eine wunderschöne Freundin!$l",
+  "Romance.give.flowersB.Jeric.GN": "Wow!$u#$b#Ich... Ich bin sprachlos!$l#$b#Ich war gerade dabei, dir auch eines zu geben!$h#$b#Natürlich ist die Antwort ja!$l#$e#Ich kann nicht glauben, dass ich jetzt mit der heißesten Person im Tal zusammen bin!",
   "Romance.stardrop.gift.Jeric": "Hey @... Du gewinnst. Du hast den erstaunlichsten Bauernhof.$l#$b#Ha ha! Ich meine es ernst!$h#$b#Es liegt daran, dass es unser Familienbauernhof ist, er hat uns drin.$l#$b#Entschuldigung, ich kann nicht wirklich erklären, wie sehr ich dich liebe, indem ich all diese Worte benutze...$l#$b#Also denke ich, dieses Geschenk wird es tun!$h",
   "Romance.rejectNPCA.Jeric": "Ich, ähm... Es tut mir leid, aber es ist ein Nein.$s#$b#Aber hey, ich fühle mich geschmeichelt! Sei kein Fremder.",
   "Romance.rejectNPCB.Jeric": "Ich, ähm... Es tut mir leid, aber es ist ein Nein.$s#$b#Aber hey, ich fühle mich geschmeichelt! Sei kein Fremder.",
@@ -4970,6 +5003,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Alissa.Dialogue.Wed8": "Guten Tag, @! Es ist schön, dich zu sehen.$h#$e#Manchmal sehe ich das alte Paar, das direkt nördlich von meiner Farm lebt, Zeit um den zweiten Wasserfall verbringen.#$b#Ich möchte eines Tages das haben, was sie haben.$u#$e#Und du, @? Möchtest du irgendwann eine Familie mit jemandem haben?",
   "Alissa.Dialogue.Thu8": "Hey, @! Bist du zu Besuch?#$b#HEY, TRINNIE! TRAU DICH JA NICHT!$u#$b#Dieses Mädchen wird noch Ärger bekommen.$u",
   "Alissa.Dialogue.Fri8": "%Alissa singt ein wunderschönes Lied.#$b#~Und er kommt zu mir nach Hause, sieht ganz abgearbeitet von der Arbeit aus. Ich wollte ihn schon immer festhalten...~^~Und sie kommt zu mir nach Hause, sieht ganz abgearbeitet von der Arbeit aus. Ich wollte sie schon immer festhalten...~$6#$b#Oh! Hey, @! Was habe ich gerade gesungen? Oh, nicht viel! Nur etwas, mit dem ich herumexperimentiert habe!$h",
+  "Alissa.Dialogue.Fri8.GN": "%Alissa singt ein wunderschönes Lied.#$b#~Und {{SubjectivePronoun}} kam bei mir vorbei, ganz erschöpft von der Arbeit. Ich hatte schon lange den Wunsch, {{ObjectivePronoun}} nahe zu sein...~$6#$b#Oh! Hey, @! Was habe ich gesungen? Oh, nichts Besonderes! Nur etwas, mit dem ich herumgespielt habe!$h",
   "Alissa.Dialogue.Sat8": "Hallo, @! Ich hoffe, es geht dir heute gut!#$e#Früher, als Tante müde von der Arbeit war, kam Onkel extra von zu Hause, um ihr Apfelsaft und eine Rückenmassage zu bringen.#$b#Sie sind einfach so süß!$h",
   "Alissa.Dialogue.Sun8": "Hallo, @! Wie geht es dir heute?#$b#Dein Unternehmen ist jederzeit willkommen! Ich genieße es wirklich, Zeit mit dir zu verbringen! Du bist ein großartiger Freund, @!$h",
 
@@ -4978,6 +5012,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Alissa.Dialogue.Wed8.dating": "Guten Tag, @! Es ist schön, dich zu sehen.$h#$e#Manchmal sehe ich das alte Paar, das direkt nördlich von meiner Farm lebt, Zeit um den zweiten Wasserfall verbringen.#$b#Ich möchte irgendwann das haben, was sie haben.$u#$e#EEP! Oh! Ich meine--! Entschuldigung! Das war nur ein kleines Lied von mir in Arbeit! Ja! Das ist es! Das war alles, was es war!$7",
   "Alissa.Dialogue.Thu8.dating": "Hey, @! Bist du zu Besuch?#$b#%Alissa flüstert dann zu sich selbst.#$e#Ich bin froh, dass du es getan hast.$l#$b#ICH MEINE, ÄHM, SCHAU MAL, DA IST TRINNIE, DIE WIEDER EINEN STREICH SPIELT!$l#$b#Bitte ignoriere, was ich vorher gesagt habe!$7",
   "Alissa.Dialogue.Fri8.dating": "%Alissa singt ein wunderschönes Lied.#$b#~Und er kommt zu mir nach Hause, sieht ganz abgearbeitet von der Arbeit aus. Ich wollte ihn schon immer festhalten...~^~Und sie kommt zu mir nach Hause, sieht ganz abgearbeitet von der Arbeit aus. Ich wollte sie schon immer festhalten...~$6#$b#Oh! Hey, @! Was habe ich gerade gesungen? Ach, nichts Besonderes! Nur etwas, mit dem ich herumexperimentiert habe!$l",
+  "Alissa.Dialogue.Fri8.dating.GN": "%Alissa singt ein wunderschönes Lied.#$b#~Und {{SubjectivePronoun}} kam bei mir vorbei, ganz erschöpft von der Arbeit. Ich hatte schon lange den Wunsch, {{ObjectivePronoun}} nahe zu sein...~$6#$b#Oh! Hey, @! Was habe ich gesungen? Oh, nichts Besonderes! Nur etwas, mit dem ich herumgespielt habe!$h",
   "Alissa.Dialogue.Sat8.dating": "Hallo, @! Ich hoffe, es geht dir heute gut!#$e#Früher, als Tante müde von der Arbeit war, kam Onkel extra von zu Hause, um ihr Apfelsaft und eine Rückenmassage zu bringen.#$b#Sie sind einfach so süß!$h",
   "Alissa.Dialogue.Sun8.dating": "Hallo, @! Wie geht es dir heute?#$b#Dein Unternehmen ist jederzeit willkommen! Ich genieße es wirklich, Zeit mit dir zu verbringen!$h",
 
@@ -5722,6 +5757,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Ian.Dialogue.Fri8.dating": "Ich habe Robin geholfen, deine Renovierung zu bauen.#$b#Da ich wusste, dass es für dich ist, habe ich mein Bestes gegeben!$h",
   "Ian.Dialogue.Sat8.dating": "Ich habe mir neulich ein Buch in der Bibliothek geholt, um alleine zu lesen.#$b#Es war schwierig.$s#$b#Aber ich habe es geschafft, bis zum Inhaltsverzeichnis zu lesen!$h",
   "Ian.Dialogue.Sun8.dating": "Hallo @!#$b#Du siehst heute noch attraktiver aus.$l^Du siehst heute noch schöner aus.$l#$b#Ah, w-warte!$u#$b#Es tut mir leid!$u#$b#W-war das komisch?$l#$b#Aber... ich meine es ernst!$l",
+  "Ian.Dialogue.Sun8.dating.GN": "Hi @!#$b#Du siehst heute noch {{Adjective}} aus.$l#$b#Ah, w-warte!$u#$b#Es tut mir leid!$u#$b#W-war das komisch?$l#$b#Aber... ich meine es ernst!$l",
 
 //10 Hearts
   "Ian.Dialogue.Mon10": "Hey, @!#$b#Wie läuft es auf der Farm?$h#$b#Sag einfach Bescheid, wenn du heute Hilfe brauchst.#$b#Ich werde dich immer an erste Stelle setzen.$l",
@@ -5836,6 +5872,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 
 //10 Hearts
   "Jeric.Dialogue.Mon10": "Hast du einen guten Tag, Hübscher?$6^Hast du einen guten Tag, Schöne?$6#$b#Dein Gesicht zu sehen, nimmt mir wirklich eine Last von den Schultern, das schwöre ich.$l",
+  "Jeric.Dialogue.Mon10.GN": "Hast du einen guten Tag, Süße?$6#$b#Dein Gesicht zu sehen, nimmt mir wirklich eine Last von den Schultern, das schwöre ich.$l",
   "Jeric.Dialogue.Tue10": "Du brauchst etwas??#$b#Etwas?#$e#Wenn es irgendeine Möglichkeit gibt, wie ich helfen kann, möchte ich, dass du es mir sagst, okay?$l",
   "Jeric.Dialogue.Wed10": "Ich habe Pläne für uns, das nächste Mal, wenn du einen freien Abend hast.$l#$b#Lass es mich einfach wissen - und achte darauf, etwas Bequemes anzuziehen.$7",
   "Jeric.Dialogue.Thu10": "Hey, heißer Kram. Geht's gut?$6",
@@ -6668,6 +6705,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 
 
   "Philip.Dialogue.Introduction": "Oh, hallo junger Mann. Ich habe dich noch nie zuvor gesehen...^Oh, hallo junge Dame. Ich habe dich noch nie zuvor gesehen...#$b#Freut mich, dich kennenzulernen! Ich bin Philip. Ich arbeite als Physiotherapeut für einige Personen in der Gegend. Wir sehen uns!$h",
+  "Philip.Dialogue.Introduction.GN": "Oh, hallo, mein Herr. Ich habe dich noch nie hier gesehen...#$b#Bist du der neue Bauer, der gerade ins Tal gezogen ist?#$b#Freut mich, dich kennenzulernen! Ich bin Philip. Ich arbeite als Physiotherapeut für einige Leute in der Gegend. Wir sehen uns!$h",
 
 //Spring
   "Philip.Dialogue.spring_1": "Ich liebe es, im Frühling zu laufen.#$b#Nicht zu heiß, nicht zu kalt, und man kann jeden Tag dabei zusehen, wie die Blumen sprießen.$h",
@@ -6697,12 +6735,18 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 
 //0 Hearts
   "Philip.Dialogue.Mon": "Hallo Sir.^Hallo Ma'am.#$e#Ich hoffe, Sie haben heute einen angenehmen Tag.$h",
+  "Philip.Dialogue.Mon.GN": "Hallo.#$e#Ich hoffe, Sie haben heute einen angenehmen Tag.$h",
   "Philip.Dialogue.Tue": "Guten Tag werter Herr.^Guten Tag werte Dame.#$e#Brauchen Sie etwas?",
+  "Philip.Dialogue.Tue.GN": "Hallo.#$e#Brauchen Sie etwas?",
   "Philip.Dialogue.Wed": "Hallo Sir. Wie war Ihre Woche bisher?^Hallo Ma'am. Wie war Ihre Woche bisher?",
+  "Philip.Dialogue.Wed.GN": "Hallo. Wie war Ihre Woche bisher?",
   "Philip.Dialogue.Thu": "Hallo Sir.^Hallo Ma'am.#$b#Geht es Ihnen gut?#$e# Denken Sie daran, regelmäßig zu dehnen. Das verringert die Wahrscheinlichkeit, sich etwas zu verrenken.",
-  "Philip.Dialogue.Fri": "Der Vastus Medialis Muskel entspringt vom proximalen medialen Teil des Oberschenkelknochens...#$e#%Philip spricht leise mit sich selbst. Besser ihn in Ruhe lassen.",
+  "Philip.Dialogue.Thu.GN": "Hallo.#$b#Geht es Ihnen gut?#$e# Denken Sie daran, sich regelmäßig zu dehnen. Das verringert die Chance, sich zu verletzen.",
+  "Philip.Dialogue.Fri": "Der Vastus Medialis Muskel entspringt vom proximalen medialen Teil des Oberschenkelknochens...#$e#%Philip spricht leise mit sich selbst. Ich lasse ihn besser in Ruhe.",
   "Philip.Dialogue.Sat": "Hallo.^Hallo.#$b#Wir haben endlich Wochenende!$h",
+  "Philip.Dialogue.Sat.GN": "Hallo.#$b#Wir haben endlich Wochenende!$h",
   "Philip.Dialogue.Sun": "Guten Tag mein Herr.^Guten Tag werte Dame.#$b# Ich hoffe, es geht Ihnen gut. Brauchen Sie etwas?",
+  "Philip.Dialogue.Sun.GN": "Guten Tag.#$b# Ich hoffe, es geht Ihnen gut. Brauchen Sie etwas?",
 
 //2 Hearts
   "Philip.Dialogue.Mon2": "Ich versuche wirklich sehr, nicht zu viel über Physiotherapie und Anatomie zu sprechen.$l#$b#Ich liebe wirklich, was ich tue, also lasse ich mich manchmal mitreißen.$h",
@@ -6724,6 +6768,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 
 //6 Hearts
   "Philip.Dialogue.Mon6": "Hallo @! Wie läuft die Arbeit auf der Farm?^Hallo @. Wie läuft die Arbeit auf der Farm?#$e#Ich habe neulich etwas von deiner Ernte bei Pierre gekauft, um einen Salat zu machen, und es war unglaublich. Wie machst du das?$h",
+  "Philip.Dialogue.Mon6.GN": "Hallo @! Wie läuft die Arbeit auf der Farm?#$e#Ich habe neulich bei Pierre ein paar deiner Erzeugnisse gekauft, um einen Salat zu machen, und er war fantastisch. Wie machst du das?$h",
   "Philip.Dialogue.Tue6": "Ich wohne vorübergehend im Log Cabin Hotel, da ich nur in der Gegend bin, bis Shiro seine Physiotherapie abschließt.#$b#Das wird jedoch eine Weile dauern und mir gefällt es hier, also habe ich es nicht gerade eilig!",
   "Philip.Dialogue.Wed6": "Harvey und ich haben uns tatsächlich an der Universität kennengelernt. Er ist älter als ich, aber wir haben einige Kurse in Sportphysiologie geteilt.#$b#Natürlich ist er dann auf die medizinische Fakultät gegangen und ich habe mich für Physiotherapie entschieden, aber es ist schön, sich mit alten Klassenkameraden wieder zu verbinden!$h",
   "Philip.Dialogue.Thu6": "Guten Tag -- Moment mal.#$b#Steh gerade für mich?$a#$b#%Philip betrachtet dich aufmerksam.#$b#Deine Schultern machen dir zu schaffen, nicht wahr? Denk daran, dich zu dehnen! Du kannst versuchen, es mit einem Tennisball zu lösen, aber sei sanft!",
@@ -6737,6 +6782,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Philip.Dialogue.Wed8": "Oh hallo, @! Du siehst heute gut aus.#$b#Ich meine es nicht komisch! Du hast einfach einen Frühling in deinem Schritt, nehme ich an.$h",
   "Philip.Dialogue.Thu8": "Wenn du jemals in der Mittagszeit frei bist, lass es mich wissen. Ich lade dich ein.#$b#Keine versteckten Absichten, versprochen!$h",
   "Philip.Dialogue.Fri8": "Guten Tag, mein Herr.^Guten Tag, meine Dame.#$b#Ich meine @! Entschuldigung! Es ist eine Gewohnheit!$h",
+  "Philip.Dialogue.Fri8.GN": "Einen schönen Tag wünsche ich dir, mei..#$b#Ich meine @! Entschuldigung! Die alte Angewohnheit!$h",
   "Philip.Dialogue.Sat8": "Wer ist dein Risorius-Muskel, @?#$b#Oh, ich meine nur, wer ist diese Person, die dir ein Lächeln ins Gesicht zaubert?$h#$e#Es ist okay, wenn du es nicht verstehst haha, es war wohl eine seltsame Fachsprache, nehme ich an.$6",
   "Philip.Dialogue.Sun8": "Ich war neulich in einem Forum für Physiotherapie, um eine Frage zu stellen, und jemand wollte wissen, worauf ich mich spezialisiere. #$b#Als ich ihnen sagte, dass ich keine Spezialisierung habe, beschuldigten sie mich, über das, was ich tue, zu lügen...$s",
 
@@ -6745,6 +6791,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Philip.Dialogue.Wed8.dating": "Oh hallo, @! Du siehst heute gut aus.#$b#Ich meine es nicht komisch! Du hast einfach einen Frühling in deinem Schritt, nehme ich an.$l",
   "Philip.Dialogue.Thu8.dating": "Wenn du jemals in der Mittagszeit frei bist, lass es mich wissen. Ich lade dich ein.#$b#Keine versteckten Absichten, versprochen!$h",
   "Philip.Dialogue.Fri8.dating": "Guten Tag, mein Herr.^Guten Tag, meine Dame.#$b#Ich meine @! Entschuldigung! Es ist eine Gewohnheit!$h#$e#Hey, möchtest du mal etwas zusammen unternehmen? Ich genieße deine Gesellschaft.$l",
+  "Philip.Dialogue.Fri8.dating.GN": "Einen schönen Tag wünsche ich dir, mei..#$b#Ich meine @! Entschuldigung! Die alte Angewohnheit!$h#$e#Hey, hast du Lust, mal abzuhängen? Ich genieße deine Gesellschaft.$l",
   "Philip.Dialogue.Sat8.dating": "Bist du ein Risorius-Muskel? Weil ich nicht kann ... uh. #$b#Entschuldigung. Ich wollte eine klischeehafte Zeile benutzen und habe dann gemerkt, dass es komische Fachsprache ist... ähm. Ignoriere das.$l#$b#Wie läuft dein Tag?",
   "Philip.Dialogue.Sun8.dating": "Ich war neulich auf einem Forum für Physiotherapie, um eine Frage zu stellen, und jemand wollte wissen, worauf ich mich spezialisiere. #$b#Als ich ihnen sagte, dass ich keine Spezialisierung habe, beschuldigten sie mich, über das, was ich tue, zu lügen...$s",
 
@@ -6920,6 +6967,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 //4 Hearts
   "Richard.Dialogue.Mon4": "Oh, hallo!$h#$b#Wie geht es dir? Ich hoffe, der Tag hat dir gut getan?$h",
   "Richard.Dialogue.Tue4": "Oh nein! Entschuldige mein Lieber.^Oh nein! Entschuldige meine Liebe.#$b#Ich muss zurück zum Hotel eilen. Ich habe vergessen, einige Unterlagen zu erledigen.",
+  "Richard.Dialogue.Tue4.GN": "Oh nein! Entschuldige, liebes Kind.#$b#Ich muss zurück ins Hotel eilen. Ich habe vergessen, einige Unterlagen zu erledigen.",
   "Richard.Dialogue.Wed4": "Ich denke darüber nach, hier im Hotel eine Veranstaltung zu organisieren, vielleicht einen Abend mit feinem Essen oder vielleicht einen Tanzwettbewerb?#$e#Hmmm... Was denkst du?#$b#Ich könnte sogar teilnehmen und mein Bestes geben.$h#$b#Diese alten Knochen haben immer noch ein paar Moves drauf!$4",
   "Richard.Dialogue.Thu4": "Ich überlege, wie ich die Attraktivität des Hotels verbessern könnte.#$e#Wenn Sie Ideen haben, lassen Sie es mich bitte wissen.#$b#Ich schätze das Feedback von all meinen Gästen.",
   "Richard.Dialogue.Fri4": "Hallo!#$b#Meine Enkelin übt jeden Samstag Ballett.#$e#Ballett ist sehr gut für Gleichgewicht und Kraft, weißt du.#$b#Wenn du Interesse hast, kann ich fragen, ob du mitmachen könntest.$h",
@@ -6946,6 +6994,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 
 //10 Hearts
   "Richard.Dialogue.Mon10": "Hoffe, du hast einen großartigen Tag vor dir, junger Mann.^ Hoffe, du hast einen großartigen Tag vor dir, junge Dame.#$e#Wenn du Interesse an der Hotelbranche hast, lass es mich wissen, okay?#$b#Ich wette, ich kann dir einiges zeigen.$h",
+  "Richard.Dialogue.Mon10.GN": "Ich hoffe, du hast einen tollen Tag vor dir, junger Mensch.#$e#Wenn du Interesse an der Hotelbranche hast, zögere nicht, mir Bescheid zu sagen, okay?#$b#Ich wette, ich kann dir ein oder zwei Dinge zeigen.$h",
   "Richard.Dialogue.Tue10": "%Richard scheint halb eingeschlafen zu sein.#$b#Huh? Oh, es tut mir so leid, @. Ich muss wohl eingenickt sein.",
   "Richard.Dialogue.Wed10": "Es tut mir leid, ich war gestern ein wenig müde.#$e#Ich habe tatsächlich von meiner Frau geträumt.$s#$b#Sie trug ein weißes Kleid, ähnlich wie das, das sie an unserem Hochzeitstag trug.#$b#Ich habe sie so fest umarmt, dass es weh tat.$s#$e#Aber nach einer Weile bin ich aufgewacht und zurück in die Realität gegangen...$s",
   "Richard.Dialogue.Thu10": "Manchmal frage ich mich, wie das Leben wäre, wenn meine geliebte Angelika hier wäre.$s#$e#Eines ist sicher, Ysa würde besser versorgt sein.#$b#Meine Frau war die stärkste und positivste Person, die ich je gekannt habe.$h#$e#Ich habe mich vorher nie wirklich mit Menschen abgegeben.#$b#Sie hat mir gezeigt, dass die Welt viel zu bieten hat und dass ich das nicht alleine überleben kann.#$e#Meine Hoffnung ist jetzt, dass meine Enkelin immer jemanden haben wird.#$b#Jemanden, der sich um sie kümmert, auch wenn ich nicht mehr da bin.$s",
@@ -6955,6 +7004,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 
 //Special Dialogue
   "Richard.Dialogue.MovieInvitation": "Oh! Ich wäre geehrt, junger Mann.^Oh! Ich wäre geehrt, junge Dame.#$b#Das würde mich von der ständigen Arbeit im Hotel ablenken.$4#$e#Ich bin sicher, Ysa kann sich um das Hotel kümmern, bis ich zurück bin.#$b#Immerhin wird sie es eines Tages leiten.$h",
+  "Richard.Dialogue.MovieInvitation.GN": "Oh! Das wäre mir eine Ehre, junger Bauer.#$b#Das würde mich von der ständigen Arbeit im Hotel ablenken.$4#$e#Ich bin sicher, Ysa kann sich um das Hotel kümmern, bis ich zurück bin.#$b#Immerhin wird sie es eines Tages leiten.$h",
 
 //Resort
   "Richard.Dialogue.Resort_Entering": "Ah, dieser Ort sieht perfekt für ein Hotel aus.#$b#Vielleicht eines Tages...$h",
@@ -7107,6 +7157,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Trinnie.Dialogue.Mon": "Hallo, @, möchtest du mitmachen?#$e#Wir spielen Fangen im Wald.$h",
   "Trinnie.Dialogue.Tue": "Hey, Keahi und ich sind beide gelangweilt.$s#$e#Können wir auf deiner Farm spielen?#$e#Versprechen, dass wir uns gut benehmen!$h#$b#Bitte?#$b#Ganz bitte?$h",
   "Trinnie.Dialogue.Wed": "Jas und ich lieben es, uns zu verkleiden!$h#$e#Als nächstes werde ich eine Cowgirl sein!$h#$e#Bist du ein Cowboy?^Bist du ein Cowgirl?",
+  "Trinnie.Dialogue.Wed.GN": "Jas und ich lieben es, uns zu verkleiden!$h#$e#Als Nächstes werde ich eine Cowgirl sein!$h#$e#Bist du ein Cowboy?",
   "Trinnie.Dialogue.Thu": "Was ist in letzter Zeit mit Yuuma los?#$b#Weißt du es?$u#$e#Er hat einfach aufgehört, mit uns zu reden, ohne Grund.$s#$b#Das ist so unhöflich!$a",
   "Trinnie.Dialogue.Fri": "Hallo, @! Wie geht es deinen Pflanzen?$h#$b#Meine Mutter sagt, ich habe einen grünen Daumen!$u#$b#Ich schaue ständig nach, aber ich kann es nicht sehen.$s#$e#Bin ich farbenblind?$u#$b#Papa sagt, ich könnte farbenblind sein, aber dann wurde Mama wütend und sagte ihm, er solle aufhören, mich zu ärgern.$s",
   "Trinnie.Dialogue.Sat": "Ich erledige meine Aufgaben schnell, damit ich rausgehen und spielen kann!$h",
@@ -7123,6 +7174,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 
 //4 Hearts
   "Trinnie.Dialogue.Mon4": "Hallo Mister! Wie geht es Ihnen?^Hallo Madame! Wie geht es Ihnen?#$b#Meine Mutter sagt mir immer, dass ich ein Nickerchen machen muss, damit ich groß und groß werde!$h#$e#Aber ich möchte klein bleiben.$s",
+  "Trinnie.Dialogue.Mon4.GN": "Hallo, {{Title}} Bauer! Wie geht es dir?#$b#Meine Mama hat mir gesagt, dass ich ein Nickerchen machen muss, damit ich groß und stark werde!$h#$e#Aber ich will klein bleiben.$s",
   "Trinnie.Dialogue.Tue4": "Keahi hat mich gestern Abend tatsächlich an der Hand gehalten!$u#$e#Während wir auf dem Heimweg waren, hat er meine Hand gehalten!$h#$e#Eeeeee!$4",
   "Trinnie.Dialogue.Wed4": "Ich habe gerade etwas so Gruseliges gesehen!$u#$b#Diese Statue sah aus, als ob sie uns anstarrte.#$e#Vincent hatte tatsächlich so viel Angst davor, dass er weinend nach Hause gegangen ist!#$b#Er ist ein Angsthase, ha ha.$h",
   "Trinnie.Dialogue.Thu4": "Können wir mit dir auf deiner Farm spielen?#$e#Können wir?$u#$b#Können wir?$h#$b#Ich verspreche, wir werden brav sein!$s#$e#Wir werden dir sogar helfen, deine Ernte einzufahren!",
@@ -7257,6 +7309,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Ysabelle.Dialogue.Wed8.dating": "Schön, dich zu sehen!$h#$b#Ja, ich weiß, dass wir uns vor kurzem gesehen haben, aber Abwesenheit erfordert keine Zeit, um das Herz wachsen zu lassen.$l",
   "Ysabelle.Dialogue.Thu8.dating": "Hallo @! Es ist ein schöner Tag, nicht wahr?$h#$b#Wenn du etwas Zeit übrig hast, möchtest du sie mit mir verbringen?$l",
   "Ysabelle.Dialogue.Fri8.dating": "Oh, hey na, Sonnenschein. Du siehst prächtiger aus als sonst!$l#$b#Als wärst du aus Stein gemeißelt!^Du strahlst wie die Sonne!$h",
+  "Ysabelle.Dialogue.Fri8.dating.GN": "Na, hallo, Sonnenschein. Du siehst heute noch prächtiger aus als sonst!$l#$b#Du strahlst wie die Sonne!$h",
   "Ysabelle.Dialogue.Sat8.dating": "Hey @, ich bin auf dem Weg ins Fitnessstudio, um mich für mein Training aufzuwärmen. Möchtest du mich begleiten?#$b#Lenny hat gesagt, sie wird versuchen vorbeizukommen, obwohl ich nicht weiß, ob dich das dazu ermutigen oder davon abhalten würde, mitzukommen.$l",
   "Ysabelle.Dialogue.Sun8.dating": "Hallo @, ich möchte nur sagen, dass ich dir wirklich dankbar bin.$l#$e#Besonders in den letzten Tagen. Sowohl dafür, dass du mir zugehört hast, als auch dafür, dass du einfach da warst.$l",
 
@@ -7636,6 +7689,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Corine.MarriageDialogue.Good_2": "Ich muss in meinem früheren Leben etwas Gutes getan haben, um jemanden wie dich in diesem Leben zu verdienen. $l",
   "Corine.MarriageDialogue.Good_3": "Ich glaube, das ist die beste Entscheidung, die ich je getroffen habe.$h#$b#Dich zu heiraten, meine ich.$l",
   "Corine.MarriageDialogue.Good_4": "Wow, du siehst heute wirklich gut aus!$h^Wow, du siehst heute wunderschön aus!$h",
+  "Corine.MarriageDialogue.Good_4.GN": "Wow, du siehst heute {{Adjective}} aus!$h",
   "Corine.MarriageDialogue.Good_5": "Du fühlst dich wie zu Hause. $l",
   "Corine.MarriageDialogue.Good_6": "Fühlst du dich glücklich, mich zu haben?#$b#Ich fühle mich auch glücklich, dich zu haben, Schatz.$l",
   "Corine.MarriageDialogue.Good_7": "Schatz, kannst du mir etwas versprechen?#$b#Versprich mir, dass du immer gut auf dich aufpasst, okay?#$b#Weißt du, wie schwer es ist, jemanden zu finden, den mein Vater mag?$h",
@@ -7883,6 +7937,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Ian.MarriageDialogue.Outdoor_1": "Schau dir deine Farm an!#$b#Deine Arbeitsethik ist erstaunlich.#$b#Ich bin wirklich stolz auf dich!$l",
   "Ian.MarriageDialogue.Outdoor_2": "Puh, ich mache gerade eine Pause.#$b#Ich habe einige Kisten vom Schmied zum Haus von Kenneth getragen.$h#$b#Ich möchte für den Rest der Woche nichts mehr heben, haha!$h",
   "Ian.MarriageDialogue.Outdoor_3": "Ich frage mich, wie du das alles alleine schaffst.$u#$b#Du hast den Ehrgeiz von zehn Männern!^Du hast den Ehrgeiz von zehn Frauen!#$b#Lass mich wissen, wenn ich helfen kann, okay?$h",
+  "Ian.MarriageDialogue.Outdoor_3.GN": "Ich frage mich, wie schaffst du das alles alleine?$u#$b#Du hast den Antrieb von zehn!#$b#Lass es mich wissen, wenn ich dir helfen kann, in Ordnung?$h",
   "Ian.MarriageDialogue.Outdoor_4": "Ich habe Tiere schon immer gemocht, aber ich hatte nie welche von mir selbst. #$b#Ich bin froh, dass ich jeden Tag mit deinen abhängen kann. $h",
 
 //Leaving
@@ -7903,6 +7958,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Ian.MarriageDialogue.OneKid_0": "Schatz!#$b#Jedes Mal, wenn %kid1 mich Papa nennt, schmelze ich ein bisschen dahin.$h#$b#Ich fühle genauso, jedes Mal wenn du mich deinen Ehemann nennst.$l",
   "Ian.MarriageDialogue.OneKid_1": "Ich frage mich, welche Spielzeuge %kid1 am liebsten mag.#$b#Pierre hat einen riesigen Spielzeugkatalog, also werde ich ihn später in dieser Woche durchsehen, wenn ich die Gelegenheit dazu habe.",
   "Ian.MarriageDialogue.OneKid_2": "Puh, egal wie müde ich bin, sobald ich unser Kind sehe, fühle ich mich sofort erfrischt!#$b#Ihr beide motiviert mich, der beste Vater überhaupt zu sein!$h#$b#Naja, nach dir natürlich, haha!^Zusammen mit der besten Mama überhaupt, haha!$l",
+  "Ian.MarriageDialogue.OneKid_2.GN": "Puh, egal wie müde ich bin, sobald ich unser Kind sehe, bin ich sofort wieder erfrischt!#$b#Ihr beide motiviert mich, der beste Vater zu sein, der ich sein kann!$h#$b#Lass uns beide die besten Eltern überhaupt sein, haha!$l",
   "Ian.MarriageDialogue.OneKid_3": "Ich denke, %kid1 hat dein Lächeln.#$b#Es ist so hübsch!$h#$b#Oh Junge, ich habe so viel Glück, diese Familie zu haben.$l",
 
 //Two kids
@@ -8017,6 +8073,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Jeric.MarriageDialogue.Indoor_Night_2": "Wie war dein Tag, Schatz?#$b#Du scheinst müde zu sein.$s#$b#Komm her, lass mich dir helfen, dich zu entspannen...$6",
   "Jeric.MarriageDialogue.Indoor_Night_3": "Puh! Ich hatte heute einen langen Tag!$u#$b#Morgen gibt es auch viel Arbeit zu erledigen.$s",
   "Jeric.MarriageDialogue.Indoor_Night_4": "Der König ist endlich zurück!^Die Königin ist endlich zurück!$h#$b#Gibt es etwas, das ich für Euch tun kann, Eure Hoheit?$6",
+  "Jeric.MarriageDialogue.Indoor_Night_4.GN": "Mein Lehnsherr ist endlich zurück!$h#$b#Gibt es etwas, das ich für Euch tun kann, Eure Hoheit?$6",
   "Jeric.MarriageDialogue.Indoor_Night_Jeric": "Ich bin froh, dass du wieder zu Hause bist, Schatz. Bist du hungrig?#$b#Ich habe etwas für dich, weil ich der beste Ehemann überhaupt bin.#$b#Hier! [224]$h",
 
 ///Outdoors
@@ -8203,6 +8260,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Kenneth.MarriageDialogue.Good_4": "Ich habe ständig Ideen, wie ich deine Arbeit erleichtern könnte.",
   "Kenneth.MarriageDialogue.Good_5": "Ich bin wirklich glücklich, dass ich dich getroffen habe, weißt du?#$b#Früher hatte ich nur Maschinen und jetzt habe ich so viel mehr.",
   "Kenneth.MarriageDialogue.Good_6": "Hallo mein Schatz.#$b#Du bist der attraktivste Ehemann.$l^Du bist die schönste Ehefrau.$l#$b#Ich liebe dich von ganzem Herzen.$h",
+  "Kenneth.MarriageDialogue.Good_6.GN": "Hallo, mein Liebling.#$b#Du bist der/die perfekteste {{SpouseNoun}}.$l#$b#Ich liebe dich von ganzem Herzen.$h", // TODO
   "Kenneth.MarriageDialogue.Good_7": "Ich überlege, eine alte Kaffeemühle zu reparieren, damit wir jeden Morgen frisch gemahlenen Kaffee haben können.#$b#Was denkst du?",
   "Kenneth.MarriageDialogue.Good_8": "Wie geht es dir? Du bedeutest mir die Welt. #$b#Ich möchte sicherstellen, dass du das weißt.",
   "Kenneth.MarriageDialogue.Good_9": "Hallo, @! Es ist ein toller Tag, nicht wahr?",
@@ -8340,6 +8398,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Maddie.MarriageDialogue.Good_1": "Hey Schatz, warst du in der Sonne? Du siehst strahlend aus! Ich liebe es!$h",
   "Maddie.MarriageDialogue.Good_2": "Sind wir wirklich verheiratet? Bin ich wirklich Frau @?? Es fühlt sich alles so unwirklich an!$9#$e#Ich hätte nie gedacht, dass ich nach dem, was passiert ist, noch einmal einen Altar sehen würde, aber schau uns jetzt an!$h",
   "Maddie.MarriageDialogue.Good_3": "Wow, du siehst heute wirklich gut aus! ^Wow, du siehst heute wirklich schön aus.$l#$b#Dich zu heiraten war so eine Überraschung. Ich kann nicht glauben, dass ich wieder Liebe gefunden habe!$9",
+  "Maddie.MarriageDialogue.Good_3.GN": "Wow, du siehst heute wirklich exquisit aus!$l#$b#Dich zu heiraten war eine solche Überraschung. Ich kann nicht glauben, dass ich noch einmal Liebe finden würde!$9",
   "Maddie.MarriageDialogue.Good_4": "Ich hätte mir nie vorgestellt, dass ich mit jemand anderem als mir selbst glücklich sein würde. $l#$b#Ich bin froh, dass es am Ende doch du bist, Schatz. $h",
   "Maddie.MarriageDialogue.Good_5": "Frau Lenny hat mich vorhin zu unserer Hochzeit beglückwünscht!$h#$e#Sie sagte, sie möchte die Patin sein und zwinkerte mir dabei sehr offensichtlich zu und gab mir einen Stoß... ziemlich lächerlich, oder?$u",
   "Maddie.MarriageDialogue.Good_6": "Hey Schatz! Oh, gehst du heute raus?#$b#Könntest du zum Abendessen etwas zum Mitnehmen mitbringen?",
@@ -8554,6 +8613,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Shiro.MarriageDialogue.Rainy_Day_0": "Hoppla, ich bin heute etwas spät aufgewacht. Der Regen macht mich schläfrig...",
   "Shiro.MarriageDialogue.Rainy_Day_1": "Ich hatte geplant, heute mit dir spazieren zu gehen, aber es regnet stark.$s#$b# Na ja, ich denke, wir können trotzdem drinnen etwas unternehmen, oder?$h",
   "Shiro.MarriageDialogue.Rainy_Day_2": "Guten Morgen, attraktiver Mann. Es regnet, also nimm es jetzt leicht, okay? Wir können drinnen Spaß haben.$h^Guten Morgen, schöne Frau. Es regnet, also nimm es jetzt leicht, okay? Wir können drinnen Spaß haben.$h#$b#Ich freue mich darauf, den Tag mit dir zu verbringen.$l",
+  "Shiro.MarriageDialogue.Rainy_Day_2.GN": "Guten Morgen, shin'ai. Es regnet, also mach es dir jetzt leicht, okay? Wir können drinnen Spaß haben.$h#$b#Ich freue mich darauf, den Tag mit dir zu verbringen.$l",
   "Shiro.MarriageDialogue.Rainy_Day_3": "Ich vermisse es, Sport zu treiben.$s#$b#Aber Philip und der Arzt sagten, dass ich immer näher daran bin, wieder zu meiner alten Routine zurückkehren zu können. Ich werde mein Bestes geben! Vielleicht können wir dann zusammen trainieren!$h",
   "Shiro.MarriageDialogue.Rainy_Day_4": "Der Regen prasselt stark nieder. Es ist irgendwie entspannend, obwohl. Ich hoffe, Yuuma geht es zu Hause gut. Ich weiß, dass Lenny nach ihm schaut, aber ich hasse es immer noch, dass er so oft alleine dort ist. Lass uns ihn bald mal besuchen, okay, @?",
   "Shiro.MarriageDialogue.Rainy_Day_Shiro": "Es ist ein bisschen kalt, nicht wahr, @?#$b#Vielleicht können wir den Tag drinnen verbringen und uns warmhalten.$h",
@@ -8628,6 +8688,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Shiro.MarriageDialogue.Good_7": "Ich habe heute so viel Energie, @! Ich fühle mich großartig! Und ich denke, das verdanke ich alles dir.",
   "Shiro.MarriageDialogue.Good_8": "Vielleicht lasse ich meine Pilotenlizenz erneuern und nehme dich mit auf einen Flug um das Tal.$l#$b# ...Was? Du wusstest nicht, dass ich meine Pilotenlizenz habe?$h",
   "Shiro.MarriageDialogue.Good_9": "Du bist so gutaussehend. Das hält mich am Leben... $1^Du bist so schön. Deine Schönheit hält mich am Leben... $l#$b#Okay, vielleicht muss ich noch an meinem Flirtverhalten arbeiten, ha ha. Entschuldigung.$8",
+  "Shiro.MarriageDialogue.Good_9.GN": "Du bist so unglaublich. Das hält mich am Leben... $1#$b#Okay, vielleicht muss ich noch an meinem Flirten arbeiten, ha ha. Entschuldigung.$8",
 
 ///Neutral
   "Shiro.MarriageDialogue.Neutral_0": "Ich habe versucht, etwas Dünger für die Farm herzustellen, aber der Saft ist irgendwie überall hingekommen, also habe ich eine Ewigkeit damit verbracht, ihn zu reinigen, damit du es nicht bemerkst.$s#$b#Ähm... Ich denke, dass ich es dir zu erzählen das Ganze zunichte macht, oder? Ha ha. Entschuldigung, @!$l",
@@ -8827,6 +8888,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 
   "Jeric.summit.1": "*kichert*$h",
   "Jeric.summit.2": "Oh, nichts. Ich habe nur über Sachen nachgedacht. $l#$b#Ich hätte es nicht überlebt ohne meinen besten Kerl! $l^Ich hätte es nicht überlebt ohne meine beste Freundin! $l",
+  "Jeric.summit.2.GN": "Ach, nichts. Ich habe nur über Sachen nachgedacht.$l#$b#Hätte es ohne meinen besten Freund/meine beste Freundin nicht überstanden!$l",
   "Jeric.summit.3": "Du weißt, du bist das Beste, was dieser Stadt passiert ist.$l#$b#Alles schien lebendiger zu werden, als du ankamst!$h#$b#Ich bin wirklich froh, dich mein Eigen nennen zu können!$l",
   "Jeric.summit.4": "Hier ist auf unser bestes Leben @!$h",
 
@@ -8881,6 +8943,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "InterModDialogue.EmberNightDialogue.Martin": "Brr! Ich hoffe, sie entzünden bald das Lagerfeuer. #$b#Oh, hey @! Frohes neues Jahr!",
   "InterModDialogue.EmberNightDialogue.Marlon": "Die Barriere des Gebirgskamms sieht wie immer robust aus. Man möchte nicht, dass Monster die Feierlichkeiten stören.",
   "InterModDialogue.EmberNightDialogue.Gunther": "Frohes Neues Jahr, Herr @.^Frohes Neues Jahr, Frau @.#$b#Wie ist dieses Jahr für dich gelaufen?",
+  "InterModDialogue.EmberNightDialogue.Gunther.GN": "Frohes neues Jahr, {{Title}} @.#$b#Wie ist dieses Jahr für dich gelaufen?",
   "InterModDialogue.EmberNightDialogue.Susan": "Der Weg von der Eisenbahn war lang, aber ich würde Gus' und Pikas Kürbiskuchen für nichts auf der Welt verpassen. Frohes neues Jahr, Schatz. Bleib warm.",
 
 //Wedding Reception Mail
@@ -9257,6 +9320,18 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 
   "Offering.Opal.1": "Ah, dieses Relikt ist interessant.#$b#Es ist mit einer Geschichte aus der Antike verbunden.#$b#Es geht so...#$b#'Einmal wurde ein Kind im Monat des Opalsteins geboren, ohne Sehkraft, mit goldenem Haar, blasser Haut und eingeschränkter Bewegung.'#$b#'Trotz solcher Missgeschicke wurde das Kind von seiner Familie innig geliebt, obwohl sie wussten, dass es nicht lange in dieser Welt bleiben würde.'#$b#'Aber sein ältester Geschwisterteil nahm dies als selbstverständlich hin und verbrachte nie Zeit mit dem Kind.'$s#$b#'Als die unerwünschte, aber erwartete Zeit gekommen war, traf die Familie die Trauer.'$s#$b#'Und zusammen mit der Trauer wuchs das Bedauern beim ältesten Geschwisterteil. Bedauern, nicht genug Zeit mit seinem verstorbenen Bruder verbracht zu haben.'$s#$b#'Von Emotionen getrieben, wurde dieses Relikt geschaffen, um an das Kind zu erinnern.'#$b#'Und seitdem trug der älteste Geschwisterteil es jeden Tag, bis zu seinem letzten Atemzug.'#$b#Die einfache Geschichte scheint von Bedauern zu sprechen, nicht genug Zeit mit einem geliebten Menschen verbracht zu haben.#$b#Ich hoffe wirklich, dass der Geist seine Wunden geheilt hat.$s#$b#Und das ist es! Ich werde dir das Relikt jetzt zurückgeben!$h#$b#Ich denke nicht, dass du es hier anbieten solltest, denn es ist viel zu wertvoll für diese Gewässer.",
 
+  "Offering.Candle.1": "Oh! Das gehörte tatsächlich einmal meinem Geliebten!$h#$b#Es ist ein besonderes Relikt, das verhindert, dass korrupte Geister denen erscheinen, die es nachts bei sich tragen.#$b#Du könntest das mehr brauchen als ich, oh Bauer.$h#$b#Trotzdem vielen Dank für die Absicht!$h",
+  "Offering.Frost.1": "Ah! Der legendäre Stein des Winters!$h#$b#Dieser gehörte einst dem Geist der Schneestürme und des Schnees.#$b#Aber seine Kraft wurde zu kalt und brachte Traurigkeit über die Menschen im Dorf, mit denen er eine Verbindung aufgebaut hatte.$s#$b#Es ist nur ein Stück eines einst mächtigen Artefakts, aber es ist immer noch kraftvoll.#$b#Seine kalte Aura verhindert, dass gefürchtete Wraiths sich dir nähern, also könnte er für dich nützlich sein.#$b#Also, hier hast du ihn!$h",
+  "Offering.Music.1": "Meladilas Kiste! Sie ist hier im Dorf!?$u#$b#Na das ist eine Überraschung!$h#$b#Dieses Relikt war eines der Lieblingsspielzeuge des Harmoniegeistes!$h#$b#Seine Musik scheint zu verhindern, dass diese abscheulichen Viperials jemals in deine Nähe kommen.#$b#Also werde ich dir das zurückgeben - ich hoffe, es kann von einigem Nutzen sein.$h",
+  "Offering.Hero.1": "Oh! Ist das nicht die Statue von Cyril?$h#$b#Er war einmal ein mutiger Abenteurer, der dieses Dorf vor einer Horde von Schlangenbestien gerettet hat.#$b#In seinen letzten Tagen war er auch derjenige, der deiner Großmutter das Kämpfen beigebracht hat.#$b#Diese Statue ehrt sein Andenken, obwohl irgendein mysteriöser Lichtblitz die Erinnerungen der Einheimischen daran ausgelöscht zu haben scheint.$s#$b#So sind seine Geschichten von Heldentum nun verloren.$s#$b#Ich bin überrascht, dass du dieses Relikt gefunden hast.$h#$b#Es hält jede Schlangenbestie im Wald fern.#$b#Also werde ich es dir zurückgeben.$h",
+  "Offering.OldFox.1": "Ist das nicht?$l#$b#Ja... Es ist ihres...$l#$b#Ein Bündel aus meinem Fell, ein Stück von dem Schal meiner Geliebten und ihr spezielles grünes Gummiband, um alles zusammenzubinden.$4#$b#Das war ihr Glücksbringer.$4#$b#Bitte kümmere dich darum, lieber Bauer.$4",
+  "Offering.OldFox.2": "Du hast jetzt den ganzen Tag maximales Glück!",
+  "Offering.mistbloom": "Oh! Diese Blumen sind wirklich wunderschön, nicht wahr? Und auch selten!$1#$b#Ich weiß, wie schwer sie zu finden sind, also werde ich dich segnen, damit du morgen wieder die Chance hast, welche zu bekommen.#$b#Danke, lieber Bauer/liebe Bäuerin.$1",
+  "Offering.amancay": "Ah, was für eine herrliche Blume! Ihre Blütenblätter reflektieren das Sonnenlicht so wunderschön.$4#$b#Du hast mich inspiriert, Bauer/Bäuerin! Morgen werden wir alle mit sonnigem Wetter gesegnet sein.$1#$b#Danke, danke!$1",
+  "Offering.loverPie": "Oh, ist das nicht süß!$1#$b#Weißt du, ich habe gehört, dass es in dem Dorf eine Tradition ist, dies jemandem zu geben, den man liebt... Vielleicht wird dieser Segen dir in dieser Hinsicht helfen?$4#$b#Nein, ich werde nicht erklären, was es ist! Vielleicht findest du es heute Nacht heraus, oh Bauer/Bäuerin.$4",
+  "Offering.fairyFish": "Oh! Ich dachte, ich hätte dich neulich hier beim Angeln gesehen!$1#$b#Die Meerjungfrauen sagen, diese Fische sehen unter Wasser aus wie Feen... Wenn das wahr ist, vielleicht wird diese Fee dich heute Nacht besuchen!$1#$b#Danke, lieber Bauer/liebe Bäuerin!$1",
+  "Offering.nightblack": "Oh, mein Gott! Du hast dich in der Dunkelheit durch diesen monsterbefallenen Wald gewagt, nur um mir das zu bringen? Danke, Bauer/Bäuerin!$1#$b#Dieser Stein stammt nicht von dieser Erde, weißt du. Vielleicht... Vielleicht kann ich dir seine ursprüngliche Form zeigen?#$b#Es wird schwierig sein, aber ich werde mein Bestes tun, um dir heute Nacht einen Segen zu bringen, oh Bauer/Bäuerin!$1",
+
   "MapString.rsv.summitgrave1": "'Möge der Geist des Berges deine Seele in Yobas Arme führen.'#'Ruh in Frieden, Rafael.'",
   "MapString.rsv.summitgrave2": "'Dieses wunderschöne Land wird für immer deine Liebe und Fürsorge in Erinnerung behalten, während du dich darum gekümmert hast.'#'Schlaf gut, Marese.'",
   "MapString.rsv.summitmail": "'Tillo Residenz' #Es gibt einen eingravierten Text...#'Du hast es geschafft...'",
@@ -9337,6 +9412,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Daia.Dialogue.random.romantic.21": "Wenn ich du wäre, würde ich nicht meine Zeit damit verschwenden, mich anzustarren. $7#$b#Du solltest mich mit nach Hause nehmen und dort behalten, bis die Morgendämmerung anbricht. $6#$b#Lass uns ein Date zu Hause haben, Baby! $h",
   "Daia.Dialogue.random.romantic.22": "Warum machen wir beim nächsten Mal nicht eine Pause von der Arbeit und gehen in die Höhlen?#$b#Ich wollte schon immer mal etwas unterirdisch machen.$7#$b#Natürlich meinte ich damit, nach Fossilien und so zu suchen!$h",
   "Daia.Dialogue.random.romantic.23": "Du siehst so gut aus in deiner Kleidung, Baby.^Du siehst so hübsch aus in deiner Kleidung, Baby.$h#$e#Aber ich denke, du würdest noch besser ohne sie aussehen.$h#$b#Einfach die nackte Schönheit.$7",
+  "Daia.Dialogue.random.romantic.23.GN": "Du siehst so gut aus in deinen Klamotten, Schatz.$h#$e#Aber ich denke, ohne sie würdest du noch besser aussehen.$h#$b#Einfach die nackte Schönheit.$7",
   "Daia.Dialogue.random.romantic.24": "Oh, Baby, du musst müde sein.$s#$b#Du hast die ganze Zeit in meinem Kopf herumgewirbelt, und glaub mir, das ist nicht das Einzige, was du dort tust.$6",
   "Daia.Dialogue.random.romantic.25": "%Daia seufzt.#$b#Ich habe mich heute ein bisschen komisch gefühlt.$s#$b#Aber guter Yoba, du bist der Einzige, der mich anmachen kann, Babe.$7",
   "Daia.Dialogue.random.romantic.26": "Warum gehen wir nicht später zum Abendessen, Schatz?#$b#Oder vielleicht möchtest du zuerst etwas Nachtisch haben?$6",
@@ -10354,6 +10430,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Blair.Dialogue.Thu10": "%Blair scheint zu träumen.#$e#Whoa! Mein Kopf war in den Wolken!$h#$b#Danke, dass du mich aufgeweckt hast, beste Freundin!",
   "Blair.Dialogue.Fri10": "Obwohl meine Mutter erklärt hat, warum sie meinen Vater nicht mochte, vermisse ich ihn immer noch.$s#$e#Vielen Dank fürs Trösten, beste Freundin!$h",
   "Blair.Dialogue.Sat10": "Ich bin wirklich froh, dass du hier geblieben bist, großer Kerl!^Ich bin wirklich froh, dass du hier geblieben bist, @.#$b#Du bist einer der besten Leute, die in die Stadt gekommen sind.$4",
+  "Blair.Dialogue.Sat10.GN": "Ich bin wirklich froh, dass du hiergeblieben bist, @!#$b#Du bist eine der besten Personen, die in die Stadt gekommen sind.$4",
   "Blair.Dialogue.Sun10": "Heya, @!#$b#Danke, dass du mir zuhörst.#$b#Ich habe manchmal das Gefühl, dass ich eine große Last für dich bin.$s",
 
 //BRYLE DIALOGUE
@@ -10417,12 +10494,14 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Carmen.Dialogue.Thu": "Willy hat Blair kürzlich gesagt, dass sie so gut ist.$h#$b#Er hat sogar gesagt, dass sie eine gute studentische Hilfskraft sein wird.#$e#Ich bin so stolz auf meine Tochter.$h#$b#Sie ist wirklich überhaupt nicht wie ihr Vater.$4",
   "Carmen.Dialogue.Fri": "Ay, diese Blair!$a#$b#Ich habe ihr gesagt, dass sie sich einen neuen Eimer besorgen soll, weil der, den sie jetzt hat, sehr rutschig ist.$a#$b#Fühlt sich an wie der Rücken eines Frosches. Ayayay.$u",
   "Carmen.Dialogue.Sat": "Oh hallo, Kleiner!$h^Oh hallo, Kleine!$h#$b#Weißt du was? Du erinnerst mich an meinen Cousin aus der Stadt.",
+  "Carmen.Dialogue.Sat.GN": "Oh hola, Liebling!$h#$b#Weißt du, du erinnerst mich an meinen Cousin aus der Stadt.",
   "Carmen.Dialogue.Sun": "Heute sollte ein guter Tag zum Angeln sein!$h",
 
 //2 Hearts
   "Carmen.Dialogue.Mon2": "Hallo, @!$h#$b#Ich hoffe, du hast einen wundervollen Tag.$h",
   "Carmen.Dialogue.Tue2": "Habe ich vergessen, die Fenster wieder zu schließen?$s#$b#Ay dios mio, ich werde vergesslich!$s",
   "Carmen.Dialogue.Wed2": "Kennst du gute Angelplätze?#$b#Ay hijo, vergiss nicht, es mir zu sagen, okay?$h^Ay hija, vergiss nicht, es mir zu sagen, okay?$h",
+  "Carmen.Dialogue.Wed2.GN": "Kennst du gute Angelplätze?#$b#Ay, Liebling, vergiss nicht, es mir zu sagen, okay?$h",
   "Carmen.Dialogue.Thu2": "Ich glaube, ich brauche ein oder zwei Bier. $h#$b#Ich möchte mich einfach entspannen!",
   "Carmen.Dialogue.Fri2": "Warum kombinieren Lenny und Lewis nicht einfach die beiden Städte und machen eine große, riesige Stadt?$h#$b#Dann müsste ich nicht so weit reisen, um am Strand zu angeln, oder?$h",
   "Carmen.Dialogue.Sat2": "Dieser süße junge Mann, der Therapeut, Philip, hat meinen Arm behandelt, als ich ihn mir nach einem intensiven Angeltag verletzt habe.#$b#Meine Tochter sollte einen Mann wie ihn finden!$h",
@@ -10430,7 +10509,9 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 
 //4 Hearts
   "Carmen.Dialogue.Mon4": "Ay Sohn, du darfst deinen Schweiß nicht so tropfen lassen.$u^Ay Tochter, du darfst deinen Schweiß nicht so tropfen lassen.$u#$b#Du musst ein Handtuch auf deinen Rücken legen!$u",
+  "Carmen.Dialogue.Mon4.GN": "Ay, Liebling, du darfst nicht so schwitzen.$u#$b#Du musst ein Handtuch auf deinen Rücken legen!$u",
   "Carmen.Dialogue.Tue4": "Dieser gute-für-nichts Ex-Mann von mir wusste nicht, wie man eine Frau richtig behandelt.$a#$b#Du musst es besser machen, hijo.^Du musst es besser machen, hija.#$e#Ich danke Yoba, Blair hat ihre Persönlichkeit nicht von ihrem Vater geerbt!$a",
+  "Carmen.Dialogue.Tue4.GN": "Dieser Taugenichts von Ex-Mann von mir wusste nicht, wie man eine Frau richtig behandelt.$a#$b#Du musst es besser machen, Liebling.#$e#Ich danke Yoba, Blair hat ihre Persönlichkeit nicht von ihrem Vater!$a",
   "Carmen.Dialogue.Wed4": "Die Fische in den Bergen sind ganz anders als die Fische im Meer.#$b#Du solltest wissen, wie man jeden einzelnen Fisch fängt, damit du mehr Geld bekommst!$h",
   "Carmen.Dialogue.Thu4": "Ich sollte nicht vergessen, viel Wasser zu trinken.$s#$b#Meine Tochter wurde neulich sauer auf mich, weil ich einen schlimmen Kopfschmerz hatte, nachdem ich zu lange in der Sonne war.$s",
   "Carmen.Dialogue.Fri4": "Olga und Shanice sind lustige Chicas, mit denen man reden kann.#$b#Das letzte Mal, als wir gesprochen haben, haben sie mir alle pikanten Details über die älteren Single-Männer in Pelikan Stadt erzählt!$h",
@@ -10448,7 +10529,9 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 
 //8 Hearts
   "Carmen.Dialogue.Mon8": "Wie läuft alles, Sohn?^Wie läuft alles, Tochter?#$b#Oh, ich hoffe, der Tag behandelt dich gut.$h",
+  "Carmen.Dialogue.Mon8.GN": "Wie läuft's, Liebling?#$b#Ay, ich hoffe, der Tag war gut zu dir.$h",
   "Carmen.Dialogue.Tue8": "Wie läuft deine Farm, hijo?^Wie läuft deine Farm, hija?#$b#Ich hoffe, dort läuft alles gut.$h#$b#Du bist wirklich talentiert, also weiß ich, dass du es schaffen kannst.",
+  "Carmen.Dialogue.Tue8.GN": "Wie geht es deiner Farm, Liebling?#$b#Ich hoffe, dort läuft alles gut.$h#$b#Du bist wirklich talentiert, also weiß ich, dass du es schaffen kannst.",
   "Carmen.Dialogue.Wed8": "Gibt es Fische auf deiner Farm, @?#$b#Aber nicht so viele im Vergleich zu den Bergen und dem Meer, oder?$h",
   "Carmen.Dialogue.Thu8": "Meine Tochter, Blair, gerät manchmal in Wutanfälle und wir streiten stundenlang.$s#$b#Ich mag diese Stunden wirklich nicht.$s",
   "Carmen.Dialogue.Fri8": "Ich wette, du hast viele Freunde, viele amigos und amigas, oder?$h#$b#Du bist ein guter Mensch, also müssen die Leute dich mögen.",
@@ -10458,11 +10541,13 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 //10 Hearts
   "Carmen.Dialogue.Mon10": "Ich bin wirklich dankbar für meine Eltern, weißt du?#$b#Sie haben mir geholfen, meine kleine Tochter aufzuziehen.#$e#Und ich weiß, dass ich das nicht so gut ausdrücken kann, aber...#$b#Sie ist wirklich das Beste von mir und ihrem Vater, dem Nichtsnutz.#$b#Ich bin stolz auf sie.",
   "Carmen.Dialogue.Tue10": "Hijo?^Hija?#$b#Wenn du jemals Hilfe brauchst oder eine lustige Tante brauchst, eine lustige Tante, ich bin hier, okay?$h#$b#Du bist ein guter Freund und ich möchte auch einer für dich sein.",
+  "Carmen.Dialogue.Tue10.GN": "Liebling?#$b#Wenn du jemals Hilfe brauchst oder eine lustige Tante, eine tita divertida, ich bin hier, okay?$h#$b#Du bist ein guter Freund, und ich möchte auch einer für dich sein.",
   "Carmen.Dialogue.Wed10": "Ich verstehe jetzt, warum Blair immer verärgert war, wenn ich über ihren Vater scherzte.#$b#Danke, dass du ihr zugehört hast, @.",
   "Carmen.Dialogue.Thu10": "Lenny ist eine gute Amiga. Sie war seit damals bis jetzt für mich da.#$b#Wenn sie jemals heiraten möchte, werde ich sicherstellen, dass ich die Brautjungfer werde, denn ich werde alles für diese Dame tun, sie ist meine chica!$h",
   "Carmen.Dialogue.Fri10": "Hast du von dem Geist des Berges gehört, el espiritu de la montana?#$b#Ich habe gehört, sie ist eine wunderschöne Person mit flauschigem rotem Fell und grünen Augen.$h#$b#Das klingt magisch, oder? $h",
   "Carmen.Dialogue.Sat10": "Fischteiche? Robin kann die bauen, oder?#$b#Ich denke, wir sollten auch einen im Dorf bauen.#$e#Ich werde die volle Verantwortung dafür übernehmen!$h",
   "Carmen.Dialogue.Sun10": "%Carmen gähnt.#$b#Sohn?^Tochter?#$b#Oh! Ich wäre fast eingeschlafen!$h#$e#Vielen Dank, dass du mich aufgeweckt hast.$h",
+  "Carmen.Dialogue.Sun10.GN": "%Carmen gähnt.#$b#Liebling?#$b#Oh! Ich bin fast eingeschlafen!$h#$e#Muchas gracias, dass du mich geweckt hast.$h",
 
 //FAYE DIALOGUE (tiakall is majestic)
   "keahiprank.Faye": "Bei Yoba, @! Geh nach Hause und wasche diese Kleidung JETZT SOFORT, sonst wirst du diesen Gestank nie los!$u",
@@ -11189,6 +11274,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Paula.Dialogue.Mon8": "Oh, hallo! Du hast sicherlich viel Zeit, diesen Ort zu besuchen.$h#$b#Ich nehme an, du magst die kühle Brise hier oben, nicht wahr?#$b#Oder vielleicht magst du den Aufstieg?#$b#Wie auch immer, ich glaube, es tut dir gut.$h",
   "Paula.Dialogue.Tue8": "Kiarra fragte, wie man einen verstauchten Knöchel verbindet.#$b#Anscheinend verstaucht sie ihren oft.$6#$e#Dieses Kind muss vorsichtiger sein.$a#$b#Oder hmm, vielleicht hat sie einen Plattfuß. Ah, ich muss sie untersuchen.",
   "Paula.Dialogue.Wed8": "Hallo, du lieber Junge!$h^Hallo, du liebes Mädchen!$h#$b#Ich hoffe, du findest den Tag wunderbar.#$b#Wenn du möchtest, könnten Anton und ich das nächste Mal ein Picknick machen und du könntest einen weiteren Freund mitbringen, um dich zu begleiten!$h",
+  "Paula.Dialogue.Wed8.GN": "Hallo, Liebling!$h#$b#Ich hoffe, du findest den Tag wunderbar.#$b#Wenn du möchtest, könnten Anton und ich das nächste Mal ein Picknick machen und du könntest einen weiteren Freund mitbringen, um dich zu begleiten!$h",
   "Paula.Dialogue.Thu8": "Es ist faszinierend zu sehen, wie Ihre Patienten krank oder beeinträchtigt hereinkommen und nach ein paar Sitzungen und Nachuntersuchungen mit Ihnen wieder gesund sind!$h#$e#Allerdings ist nicht jeder Patient so.$s#$b#Manchmal verliert man sie wirklich...$s#$b#Aber das ist das Leben, es passiert und man muss einen Weg finden, darüber hinwegzukommen.",
   "Paula.Dialogue.Fri8": "%Paula konzentriert sich intensiv auf etwas.",
   "Paula.Dialogue.Sat8": "Ich entschuldige mich, dass ich gestern nicht ganz bei der Sache war,#$b#Ich versuchte, einen komplexen Behandlungsplan für einen meiner Patienten zu vereinfachen.$6",
@@ -11416,22 +11502,28 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 
 //SONNY DIALOGUE (GAB YOU'RE AWESOME!!!)
   "keahiprank.Sonny": "Oh! Herr @!^Oh! Frau @!$u#$b#Es ist sehr offensichtlich, dass Herr Keahi in all dem involviert ist.$a#$b#Ich schlage ein gutes Bad vor, um es abzuwaschen.",
+  "keahiprank.Sonny.GN": "Oh! {{Title}} @!$u#$b#Es ist sehr offensichtlich, dass Mr. Keahi in all das verwickelt ist.$a#$b#Ich schlage ein gutes Bad vor, um es abzuwaschen.",
 
 //Introduction
   "Sonny.Dialogue.Introduction": "Hallo. Du musst Mr. @!^Hallo. Du musst Ms. @!#$b# sein. Willkommen im Tal! Mein Name ist Sonny, ich bin der Butler der Familie Amethyne. $h#$b# Es ist immer eine Freude, wenn ein neues Gesicht in die Region kommt. $h#$b# Ich habe jetzt Erledigungen zu machen. Möge Yoba deine Reise segnen, junger @.$h",
+  "Sonny.Dialogue.Introduction.GN": "Hallo. Du musst {{Title}} @ sein!#$b# Willkommen im Tal! Mein Name ist Sonny, ich bin der Butler der Familie Amethyne. $h#$b# Es ist immer ein Vergnügen, wenn ein neues Gesicht in die Region kommt.$h#$b#Ich muss jetzt ein paar Besorgungen machen. Möge Yoba deine Reise segnen, junger @.$h",
 
 //rain
 //"Sonny.Dialogue.Rain1": "Oh hello, Mr. @! Sorry, you startled me. $u#$b#^Oh hello, Ms. @! Sorry, you startled me. $u#$b# There is a magical thing about rain that always makes me lost in thought. #$b# It feels like Yoba's blessing is falling upon us all, and nature can continue its cycle. $4",
 
 //Spring
   "Sonny.Dialogue.spring_1": "Es liegt ein ganzes neues Jahr vor uns, Herr @!$h^Es liegt ein ganzes neues Jahr vor uns, Frau @!$h",
+  "Sonny.Dialogue.spring_1.GN": "Ein ganzes neues Jahr liegt vor uns, {{Title}} @!$h",
   "Sonny.Dialogue.spring_12": "Madame Amethyne hat darum gebeten, dass heute einige Besorgungen erledigt werden. #$b# Mit den Festlichkeiten morgen werden die örtlichen Geschäfte nicht geöffnet sein, also muss ich mich beeilen.",
   "Sonny.Dialogue.spring_23": "Das Blumentanzfest ist eine großartige Gelegenheit für mich, mir die Blumenarrangements von Pelikan Stadt anzusehen. $h",
 
 //Summer
   "Sonny.Dialogue.summer_1": "Eine weitere Jahreszeit ist angebrochen, Herr @!$h#$b#^Eine weitere Jahreszeit ist angebrochen, Frau @!$h#$b# Ich muss zugeben, dass ich die Hitze nicht mehr so gut vertrage wie früher. $s#$e#Danke Yoba, dass die Dame eine Klimaanlage im Purple Mansion hat.",
+  "Sonny.Dialogue.summer_1.GN": "Eine weitere Jahreszeit ist angekommen, {{Title}} @!$h#$b# Ich muss zugeben, dass ich die Hitze nicht mehr so gut vertrage wie früher. $s#$e#Dank sei Yoba, dass die Dame eine Klimaanlage in der Lila Villa bereitstellt.",
   "Sonny.Dialogue.summer_10": "Haben Sie die notwendigen Zutaten für das Luau morgen gesammelt, Herr @?$h^Haben Sie die notwendigen Materialien für das Luau morgen gesammelt, Frau @?$h",
+  "Sonny.Dialogue.summer_10.GN": "Hast du die notwendigen Zutaten für das Luau morgen gesammelt, {{Title}} @?$h",
   "Sonny.Dialogue.summer_27": "Hallo, Herr @. Ich freue mich auf das Festival morgen.^Hallo, Frau @. Ich freue mich auf das Festival morgen.#$b# Es ist wirklich ein beeindruckendes Naturschauspiel.$h",
+  "Sonny.Dialogue.summer_27.GN": "Hallo, {{Title}} @. Ich freue mich auf das Fest morgen.#$b#Es ist wirklich ein natürliches Spektakel.$h",
 
 //Fall
   "Sonny.Dialogue.fall_1": "Wenn ich eine Lieblingsjahreszeit wählen müsste, wäre es der Herbst. Ich kann nicht wirklich erklären, warum.$h#$b#Eines weiß ich jedoch sicher: Ich fühle eine stärkere Verbindung zu den Geistern.$4",
@@ -11447,20 +11539,28 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 
 //0 Hearts
   "Sonny.Dialogue.Mon": "Haben Sie eine schöne Woche, Herr @.$h^Haben Sie eine schöne Woche, Frau @.$h",
+  "Sonny.Dialogue.Mon.GN": "Hab eine tolle Woche, {{Title}} @.$h",
   "Sonny.Dialogue.Tue": "Die Landwirtschaft muss sehr anspruchsvoll sein. Überarbeiten Sie sich nicht, Herr @.^Die Landwirtschaft muss sehr anspruchsvoll sein. Überarbeiten Sie sich nicht, Frau @.",
+  "Sonny.Dialogue.Tue.GN": "Die Landwirtschaft muss sehr anspruchsvoll sein. Überanstrenge dich nicht, {{Title}} @.",
   "Sonny.Dialogue.Wed": "Hallo, Herr @.^Hallo, Frau @.",
+  "Sonny.Dialogue.Wed.GN": "Hallo, {{Title}} @.",
   "Sonny.Dialogue.Thu": "Ich frage mich, was das heutige Spezialgericht bei Pika's ist.",
   "Sonny.Dialogue.Fri": "Ms. Irene arbeitet als Köchin für die Familie Amethyne. Diese junge Dame zaubert die köstlichsten Mahlzeiten.$h",
   "Sonny.Dialogue.Sat": "Möge der Berggeist Wachstum auf deinem Land bringen, Mr. @.$h^Möge der Berggeist Wachstum auf deinem Land bringen, Ms. @.$h",
+  "Sonny.Dialogue.Sat.GN": "Möge der Berggeist deinem Land Wachstum bescheren, {{Title}} @.$h",
   "Sonny.Dialogue.Sun": "Hast du den jungen Herrn Amethyne getroffen? Er kann ziemlich schwierig sein, aber nimm seine Worte nicht zu ernst. Immerhin ist er ein Kind.",
 
 //2 Hearts
   "Sonny.Dialogue.Mon2": "Herr Amethyne lebt nicht hier in der Villa mit dem Rest der Familie. Er ist ein sehr beschäftigter Mann und verwaltet einen Teil des Familienunternehmens. #$e#Madame Amethyne ist sehr zufrieden mit allem, was er erreicht hat.$h",
   "Sonny.Dialogue.Tue2": "Die Madame hat diese Woche viele Dinge von mir verlangt und erwartet nichts als Perfektion.",
   "Sonny.Dialogue.Wed2": "Wie haben Sie sich an das Leben im Tal angepasst, Herr @?$h^Wie haben Sie sich an das Leben im Tal angepasst, Frau @?$h#$b# Gut? Das ist fantastisch! Keine Großstadt kann die Lebensqualität hier übertreffen.",
+  "Sonny.Dialogue.Wed2.GN": "Wie hast du dich an das Leben im Tal angepasst, {{Title}} @?$h#$b#Gut? Das ist fantastisch! Keine Großstadt kann die Lebensqualität hier übertreffen.",
   "Sonny.Dialogue.Thu2": "Hallo, Herr @.^Hallo, Frau @.#$b# Ich fürchte, ich habe heute keine Zeit zum Plaudern. Viele Besorgungen zu erledigen.",
+  "Sonny.Dialogue.Thu2.GN": "Hallo, {{Title}} @. #$b#Ich fürchte, ich habe heute keine Zeit zum Plaudern. Viele Besorgungen zu erledigen.",
   "Sonny.Dialogue.Fri2": "Haben Sie darüber nachgedacht, Blumen auf Ihrer Farm anzupflanzen, Herr @?^Haben Sie darüber nachgedacht, Blumen auf Ihrer Farm anzupflanzen, Frau @?#$b# Ich liebe den Duft, die Farben und die Schönheit von ihnen. Deshalb habe ich meinen eigenen privaten Garten.$h",
+  "Sonny.Dialogue.Fri2.GN": "Hast du darüber nachgedacht, Blumen auf deiner Farm zu pflanzen, {{Title}} @?#$b#Ich liebe den Geruch, die Farben und die Schönheit von ihnen. Deshalb habe ich meinen eigenen privaten Garten.$h",
   "Sonny.Dialogue.Sat2": "Da Sie neu in der Landwirtschaft sind, Herr @, lassen Sie mich Ihnen einen Tipp geben.$h^Da Sie neu in der Landwirtschaft sind, Frau @, lassen Sie mich Ihnen einen Tipp geben.$h#$b#Wenn Sie Dünger mit bearbeitetem Boden mischen, werden Ihre Pflanzen hochwertigere Produkte hervorbringen. Nehmen Sie dies, damit Sie es ausprobieren können.[368 369]",
+  "Sonny.Dialogue.Sat2.GN": "Da du neu in der Landwirtschaft bist, {{Title}} @, erlaube mir, dir einen Tipp zu geben.$h#$b#Wenn du Dünger mit umgegrabener Erde mischst, werden deine Pflanzen Produkte von höherer Qualität hervorbringen. Nimm diese, damit du es ausprobieren kannst. [368 369]$4",
   "Sonny.Dialogue.Sun2": "Im hinteren Teil von Herrn Pierre's Laden gibt es einen Altar für Yoba.$h#$b#Wenn es mein Zeitplan erlaubt, verbringe ich dort gerne etwas qualitativ hochwertige Freizeit oder gehe zum Berggeistaltar am Ridge.$h",
 
 //4 Hearts
@@ -11470,10 +11570,13 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Sonny.Dialogue.Thu4": "Gelegentlich, wenn Herr Amethyne zu Besuch ist, trifft Miss Irene alle Vorbereitungen, um einige seiner Lieblingsgerichte zu kochen.$h#$b# Beim letzten Mal hat sie einen Honigglasierter Salat zum Abendessen gemacht; es war köstlich.$h#$b# Sie hat das Rezept von Herrn Pika gelernt.",
   "Sonny.Dialogue.Fri4": "Viele der Bewohner von Pelikan Stadt und Ridgeside Dorf versammeln sich heute Abend in der Kneipe. #$b# Ich fürchte, ich bin zu alt dafür. $u",
   "Sonny.Dialogue.Sat4": "Haben Sie zufällig die private Bibliothek der Amethynes durchstöbert, Herr @?$h^Haben Sie zufällig die private Bibliothek der Amethynes durchstöbert, Frau @?$h#$b#Madame Amethyne hat über die Jahre eine beachtliche Sammlung zusammengetragen -- viele verschiedene Genres, Nationalitäten und Sprachen. Ich habe persönlich darum gebeten, für die Bibliothek verantwortlich zu sein; es ist sehr beruhigend, die Romane zu organisieren. Ich verliere mich oft in Gedanken, wenn ich das tue.$4",
+  "Sonny.Dialogue.Sat4.GN": "Hast du zufällig in der privaten Bibliothek von Amethyne gestöbert, {{Title}} @?$h#$b#Madame Amethyne hat im Laufe der Jahre eine ziemlich umfangreiche Sammlung zusammengetragen -- viele verschiedene Genres, Nationalitäten und Sprachen. Ich habe persönlich darum gebeten, für die Bibliothek verantwortlich zu sein; es ist sehr beruhigend, die Romane zu organisieren. Oft finde ich mich in Gedanken verloren, wenn ich das mache.$4",
   "Sonny.Dialogue.Sun4": "Ich fühle mich heute ziemlich ängstlich, Herr @. Entschuldigen Sie, wenn ich gerade nicht die beste Person für ein Gespräch bin. $s^Ich fühle mich heute ziemlich ängstlich, Frau @. Entschuldigen Sie, wenn ich gerade nicht die beste Person für ein Gespräch bin. $s",
+  "Sonny.Dialogue.Sun4.GN": "Ich fühle mich heute ziemlich ängstlich, {{Title}} @. Entschuldige, wenn ich gerade nicht die beste Person für ein Gespräch bin.$s",
 
 //6 Hearts
   "Sonny.Dialogue.Mon6": "Hallo, Herr @. Möge Yoba Sie führen und Ihre Woche mit einer ertragreichen Ernte segnen.$h^Hallo, Frau @. Möge Yoba Sie führen und Ihre Woche mit einer ertragreichen Ernte segnen.$h",
+  "Sonny.Dialogue.Mon6.GN": "Hallo, {{Title}} @. Möge Yoba dich leiten und deine Woche mit einer ertragreichen Ernte segnen.$h",
   "Sonny.Dialogue.Tue6": "Wenn Sie Madame Amethyne zufriedenstellen möchten, wäre eine gute Flasche Wein eine ausgezeichnete Geschenkidee.$h",
   "Sonny.Dialogue.Wed6": "Ich habe heute Morgen den jungen Herrn Amethyne in meinem Garten entdeckt. $a#$b# Er hat viele Töpfe zerbrochen und überall Erde verschüttet. Madame Amethyne war mit der Situation nicht zufrieden. $u",
   "Sonny.Dialogue.Thu6": "Frau Lenny war gestern Abend im Herrenhaus. Sie hat letzte Woche ein Treffen mit Madame Amethyne angefordert. $u#$b#Das Thema hatte etwas mit der finanziellen Situation des Dorfes zu tun, und die Madame war nach dem Treffen nicht gut gelaunt. Ich musste ihr etwas Tee machen, um sie zu beruhigen.",
@@ -11485,7 +11588,9 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Sonny.Dialogue.Mon8": "Der junge Herr Amethyne kann manchmal sehr schwierig sein. $s#$b#Nachdem man so viele Jahre mit dieser Familie gelebt hat, ist es möglich zu verstehen, woher es kommt.",
   "Sonny.Dialogue.Tue8": "Nimm dir die Zeit, die Schönheit jeder kleinen Sache um dich herum zu schätzen. $h#$b#Manchmal sind wir zu sehr von unseren eigenen Gedanken und Sorgen abgelenkt, dass wir vergessen zu atmen.",
   "Sonny.Dialogue.Wed8": "Ich spüre heute die Anwesenheit des Berggeistes. $h#$b# Gute Dinge könnten unseren Weg kreuzen, Herr @, solange wir die Natur selbst respektieren.$4^Gute Dinge könnten unseren Weg kreuzen, Frau @, solange wir die Natur selbst respektieren.",
+  "Sonny.Dialogue.Wed8.GN": "Ich spüre heute die Anwesenheit des Berggeistes. $h#$b# Gute Dinge könnten uns zuteilwerden, {{Title}} @, solange wir die Natur selbst respektieren.$4",
   "Sonny.Dialogue.Thu8": "Oh, hallo, Herr @!$h^Oh, hallo, Frau @!$h#$b#Es scheint, dass Sie etwas Erfrischung brauchen. Nehmen Sie diese und haben Sie einen schönen Tag![223]",
+  "Sonny.Dialogue.Thu8.GN": "Oh, hallo, {{Title}} @!$h#$b# Es scheint, als bräuchtest du etwas Erfrischung. Nimm diese und hab einen guten Tag! [223]$4",
   "Sonny.Dialogue.Fri8": "Ich reserviere normalerweise Zeit für meine Gartenarbeit früh am Morgen oder gegen Ende des Tages. #$b# Die makellose Erscheinung, die Madame Amethyne von ihrem Personal erwartet, ist schon problematisch genug. Ich möchte keinen Schmutz hinzufügen. $u",
   "Sonny.Dialogue.Sat8": "Haben Sie sich die Zeit genommen, um einige der Abenteuer von Frau Lola und Herrn Freddie anzuhören? #$b# Sie haben in ihren Jahren viele großartige Taten vollbracht. $h",
   "Sonny.Dialogue.Sun8": "Ich wünschte, Herr Amethyne würde für eine längere Zeit im Tal bleiben. Die Atmosphäre im Amethyne-Anwesen ist immer besser, wenn er da ist.",
@@ -11493,18 +11598,25 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 //10 Hearts
   "Sonny.Dialogue.Mon10": "Die meisten Leute sehen Madame Amethyne als eine sehr distanzierte Person. Ich habe ihrer Familie viele Jahre gedient; sie ist sehr streng und erwartet viel von denen, die ihr sehr am Herzen liegen.",
   "Sonny.Dialogue.Tue10": "Es ist unglaublich zu sehen, wie Ihre Farm gewachsen ist, seit Sie Teil dieser Gemeinschaft geworden sind, Herr @.$h^Es ist unglaublich zu sehen, wie Ihre Farm gewachsen ist, seit Sie Teil dieser Gemeinschaft geworden sind, Frau @.$h#$b#Ihre starke Verbindung zur Natur hat Ihnen geholfen. Diejenigen, die im Respekt vor dem leben, was die Erde bieten kann, werden von Yoba selbst gesegnet.$4#$b#Zumindest ist das, was ich glaube.$h",
+  "Sonny.Dialogue.Tue10.GN": "Es ist unglaublich zu sehen, wie deine Farm gewachsen ist, seitdem du Teil dieser Gemeinschaft geworden bist, {{Title}} @.$h#$b#Deine starke Verbindung zur Natur hat dir geholfen. Diejenigen, die im Einklang mit dem leben, was die Erde bieten kann, werden von Yoba selbst gesegnet.$4#$b#Zumindest glaube ich das.$h",
   "Sonny.Dialogue.Wed10": "Du nimmst dir immer Zeit, diesem alten Mann beim Schwafeln zuzuhören. Ich schätze deine Freundschaft, Herr @.$h^Du nimmst dir immer Zeit, diesem alten Mann beim Schwafeln zuzuhören. Ich schätze deine Freundschaft, Frau @.$h",
+  "Sonny.Dialogue.Wed10.GN": "Du nimmst dir immer Zeit, diesem alten Mann beim Reden zuzuhören. Ich schätze deine Freundschaft, {{Title}} @.$h",
   "Sonny.Dialogue.Thu10": "Sie sollten öfter vorbeikommen, Herr @.$h^Sie sollten öfter vorbeikommen, Frau @.$h#$b#Madame Amethyne ist eine beschäftigte Dame, aber sie ist immer für etwas Tee und Kekse verfügbar.$h",
+  "Sonny.Dialogue.Thu10.GN": "Du solltest öfter vorbeikommen, {{Title}} @.$h#$b#Madame Amethyne ist eine beschäftigte Dame, aber sie hat immer Zeit für etwas Tee und Kekse.$h",
   "Sonny.Dialogue.Fri10": "Gestern Abend habe ich ein Buch über einen tropischen Archipel namens Fern Islands gelesen. #$b#Wie du weißt, ist heißes Wetter nicht meine bevorzugte Wahl, aber es wäre eine interessante Umgebung, um einen Urlaub zu buchen, stimmen Sie nicht zu, Herr @?$h^Wie du weißt, ist heißes Wetter nicht meine bevorzugte Wahl, aber es wäre eine interessante Umgebung, um einen Urlaub zu buchen, stimmen Sie nicht zu, Frau @?$h",
+  "Sonny.Dialogue.Fri10.GN": "Letzte Nacht habe ich ein Buch über ein tropisches Archipel gelesen, das als die Fern-Insel bekannt ist.#$b#Wie du weißt, ist heißes Wetter nicht meine bevorzugte Wahl, aber es wäre eine interessante Umgebung, um dort Urlaub zu buchen. Findest du nicht auch, {{Title}} @?$h",
   "Sonny.Dialogue.Sat10": "Blue Jazz, Knoblauch, Tulpe, Mohn, Sonnenblume und Feenrose, und einige zusätzliche Kisten Dünger.$h#$b#Oh Herr @! Sie haben mich erwischt, als ich gerade meine Garten-Einkaufsliste dreifach überprüfte!$h^Oh Frau @! Sie haben mich erwischt, als ich gerade meine Garten-Einkaufsliste dreifach überprüfte!$h#$b# Ich muss sicherstellen, dass ich nichts vergesse und sie noch in der Saison bei Herrn Pierre oder Herrn Jeric kaufe.$4",
+  "Sonny.Dialogue.Sat10.GN": "Blaue Jazz, Knoblauch, Tulpe, Mohn, Sonnenblume und Feenrose, und einige zusätzliche Kisten Dünger.$h#$b#Oh, {{Title}} @! Du hast mich erwischt, wie ich gerade meine Garten-Einkaufsliste zum dritten Mal überprüfe!$h#$b# Ich muss sicherstellen, dass ich nichts vergesse und sie bei Mr. Pierre oder Mr. Jeric's Laden kaufe, solange sie noch Saison haben.$4",
   "Sonny.Dialogue.Sun10": "Ich wünschte, der junge Herr Amethyne würde irgendwann seine Wache senken können.$s#$b#Bei diesem Tempo werden die anderen Kinder in der Stadt aufhören, ihn anzufreunden, und es würde mir leid tun, wenn er hier keine Freunde hätte.$s",
 
 //ZAYNE DIALOGUE (MAMAESH HEHE YOU'RE FABULOUS)
   "keahiprank.Zayne": "Mein Gott, was ist das für ein Geruch?$u#$b#Ich fürchte, das muss von Ihnen kommen, Herr.$s^Ich fürchte, das muss von Ihnen kommen, Fräulein.$s#$e#Bitte, nehmen Sie mein Taschentuch.",
+  "keahiprank.Zayne.GN": "Meine Güte, was ist das für ein Geruch?$u#$b#Ich fürchte, der muss von dir kommen, Bauer.$s#$e#Bitte, nimm mein Taschentuch.",
 
 //Randomized
   "Zayne.Dialogue.random.1": "Ich habe keinen geeigneten Investor für die Wohltätigkeitsstiftung für Kinder mit Spina bifida finden können.$s#$b#Ich nehme an, du hast keine Vorschläge?",
   "Zayne.Dialogue.random.2": "Guten Tag, Mister.^Guten Tag, Miss.#$b#Ich hoffe, Sie haben einen tollen Aufenthalt in der Stadt?",
+  "Zayne.Dialogue.random.2.GN": "Guten Tag, Bauer.#$b#Ich hoffe, du hast einen tollen Aufenthalt in der Stadt?",
   "Zayne.Dialogue.random.3": "Familie kommt vor allem anderen.#$b#Das ist es, was Großmutter uns seit unserer Kindheit beigebracht hat.#$b#Wir leben nach diesen Worten.",
   "Zayne.Dialogue.random.4": "In zwei Tagen werde ich in die große Smaragdstadt reisen.#$b#Großmutter hat mir gesagt, ich solle unsere Bestände überprüfen.",
   "Zayne.Dialogue.random.5": "Ich vermisse meine Familie schrecklich...$s#$b#Aber ich muss meine Reisen fortsetzen.#$b#Ich kann meine Pflichten nicht alleine lassen.",
@@ -11515,13 +11627,16 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Zayne.Dialogue.random.10": "Ich glaube, es ist eine Ehre, den Namen Amethyne in der ganzen Welt zu repräsentieren.#$b#Es kann ziemlich viel Druck sein.$s#$b#Aber der Stolz, den ich der Familie, meiner Großmutter, gebe, macht es alles wert.$4",
   "Zayne.Dialogue.random.11": "Großmutter erzählt mir, dass Louie in seinen Studien gut abschneidet und ein ausgezeichneter Meister der Fechtkunst ist.$h#$b#Wenn ich nur die Zeit hätte, ihn selbst zu unterrichten.$s",
   "Zayne.Dialogue.random.12": "Ich muss sagen, Sie sehen heute ziemlich gut aus, mein Herr.^Ich muss sagen, Sie sehen heute ziemlich gut aus, meine Dame.#$e#Darf ich Ihnen beim nächsten Mal, wenn ich zurückkomme, einen kurzen Spaziergang vorschlagen?#$b#Sie müssen mir von Ihrem Leben in der Stadt erzählen.",
+  "Zayne.Dialogue.random.12.GN": "Ich muss sagen, du siehst heute ziemlich gut aus, Bauer.#$e#Darf ich dich beim nächsten Mal zu einem kurzen Spaziergang einladen?#$b#Du musst mir von deinem Leben in der Stadt erzählen.",
   "Zayne.Dialogue.random.13": "Ich hoffe, mein Bruder hat dir keine Schwierigkeiten bereitet.#$b#Er mag verwöhnt erscheinen, aber er hat ein gutes Herz.$4",
   "Zayne.Dialogue.random.14": "Jeder scheint heutzutage eine ziemlich starke Meinung zu allem zu haben.#$b#Ich habe viele Leute gesehen, die ihr Leben nur verändert haben, um der Gesellschaft zu gefallen.#$b#Glaub mir, wenn ich sage, das endet nicht gut.$s",
   "Zayne.Dialogue.random.15": "Ich werde bald wieder gehen, mein Geschäft hier ist bereits abgeschlossen.",
   "Zayne.Dialogue.random.16": "Wenn du einen Unterschied in dieser Welt machen möchtest, musst du immer daran denken, Mut zu haben und freundlich zu sein.#$e#Ich traf eine unglaubliche junge Dame, die nach diesen Worten lebte.#$b#Ihre Geschichte war ziemlich unglaublich.",
   "Zayne.Dialogue.random.17": "Grüße, Herr!$h^Grüße, Fräulein!$h#$b#Ich bin sehr daran interessiert, wie das Landleben tatsächlich funktioniert.#$b#Einer unserer Investoren ist in solch ein Geschäft verwickelt.#$e#Ich würde Ihre Expertenanleitung schätzen, wenn Sie sich mir zu einem kleinen Gespräch anschließen möchten?$h",
+  "Zayne.Dialogue.random.17.GN": "Grüße, Bauer!$h#$b#Ich bin ziemlich interessiert daran, wie das Leben auf dem Bauernhof tatsächlich funktioniert.#$b#Einer unserer Investoren ist von solch einem Geschäft fasziniert.#$e#Ich würde deine fachkundige Anleitung sehr schätzen, wenn du Lust hast, dich zu einem kleinen Gespräch zu mir zu gesellen?$h",
   "Zayne.Dialogue.random.18": "Ich bin sehr stolz auf das, was Ariah erreicht hat. #$b#Sie ist das Sinnbild von Eleganz und Exzellenz.",
   "Zayne.Dialogue.random.19": "Es ist schon ziemlich lange her, seitdem wir uns das letzte Mal gesehen haben, Herr.^Es ist schon ziemlich lange her, seitdem wir uns das letzte Mal gesehen haben, Fräulein.#$b#Ich hoffe, dass es dir im Leben gut geht.",
+  "Zayne.Dialogue.random.19.GN": "Es ist schon eine ganze Weile her, seit wir uns das letzte Mal gesehen haben, Bauer.#$b#Ich hoffe wirklich, das Leben ist gut zu dir.",
   "Zayne.Dialogue.random.20": "Es ist sicherlich anstrengend, die Aktivitäten der Auslandsdienste zu koordinieren, während man sich um die Familienstiftungen kümmert.$s#$b#Jedoch möchte ich weder das eine noch das andere aufgeben.#$e#Es ist nur eine Frage der Zeit, bis Ariah sich mir auf meinen Reisen anschließt. Dann kann ich mich von meinen Verpflichtungen ausruhen.",
 
 //SPECIAL THANKS TO LANI!!!! They grammar checked and edited almost everyone new coming to 2.0! You rock Lani!
@@ -11601,6 +11716,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Festivals.Jellies.Louie": "Sind sie hübsch? Ja. Aber was ist der Sinn, dieses Ereignis jedes Jahr abzuhalten? Es ist immer dasselbe.",
   "Festivals.Jellies.Irene": "Ich freue mich darauf, heute Abend die Quallen schwimmen zu sehen.$h#$b#Aber ich wünschte, ich hätte jemanden, mit dem ich dieses Erlebnis teilen könnte.$u",
   "Festivals.Jellies.Sonny": "Die Natur zu beobachten ist doch wunderschön, nicht wahr, Herr @? Jedes Jahr kommen die Qualen und es ist immer großartig.$4^Die Natur zu beobachten ist doch wunderschön, nicht wahr, Frau @? Jedes Jahr kommen die Qualen und es ist immer großartig.$4",
+  "Festivals.Jellies.Sonny.GN": "Die Natur ist etwas Wunderschönes, nicht wahr, {{Title}} @? Jedes Jahr kommen die Quallen und es ist immer wieder herrlich.$4",
   "Festivals.Jellies.Paula": "Ich liebe diesen Tag. $h#$b#Ich habe immer das Gefühl, dass meine Ängste und Sorgen jedes Mal, wenn ich diese wunderschöne Landschaft und Atmosphäre sehe, für die Nacht verschwinden.",
   "Festivals.Jellies.Carmen": "Diese Nacht bringt mir bittersüße Erinnerungen.$s#$b#Nun ja, ich bin einfach glücklich, dass ich solch schöne Tiere mit meiner Tochter sehen kann.$h",
   "Festivals.Jellies.Blair": "Mama schien immer unsicher zu sein, ob sie an diesem Festival teilnehmen sollte. $s#$b#Ich glaube, ich weiß warum, aber ich möchte einfach nur eine so schöne Nacht mit ihr verbringen. $s",
@@ -11623,6 +11739,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Festivals.StardewFair.Louie": "Schau dir diese Bauern an, die wild um die Pferde herumrennen!$4#$b#Meine Reitkünste sind für ein so ungepflegtes Pferd nicht geeignet. Also lasse ich die Bauern ihren Spaß haben.",
   "Festivals.StardewFair.Irene": "Bist du bereit, deine besten Erzeugnisse zu präsentieren?#$b#Die Konkurrenz ist dieses Jahr ziemlich stark.#$b#Ich wünsche dir viel Glück!#$e#Kiarra und ich haben gerade über unsere Lieblingsherbstgerichte geplaudert!$h",
   "Festivals.StardewFair.Sonny": "Ich hoffe, dein Auftritt läuft gut, @. Es tut mir leid, dass ich nicht lange bleiben und mich unterhalten kann, da ich als Bodyguard im Dienst bin. $h#$b#Die Madame mag lästige betrunkene Fremde nicht besonders gern.",
+  "Festivals.StardewFair.Sonny.GN": "Ich hoffe, deine Ausstellung schneidet gut ab, {{Title}} @. Es tut mir leid, dass ich nicht lange bleiben und plaudern kann - ich spüre, dass der junge Herr Amethyne etwas im Schilde führt.$u",
   "Festivals.StardewFair.Paula": "Es ist so ein schöner Tag für eine Messe und ein Getränk, nicht wahr?$h#$b#*Rülp* Ups! Entschuldigung!$u",
   "Festivals.StardewFair.Carmen": "Ich habe viel über Geschäftsangelegenheiten von vielen Leuten gelernt!$h#$b#Es lohnt sich, mehr über die Wirtschaft zu lernen, oder?$h#$b#Nun zurück zum Wettbewerb!",
   "Festivals.StardewFair.Blair": "Ich habe Sean herausgefordert, vor allen hier im Brunnen zu schwimmen!$h#$e#Hey! Er hat unsere kleine Wette verloren! Also ist es fair!#$b#Aber... Nachdem ich diesen Brunnen betrachtet habe, ist er ein bisschen schmutzig, oder nicht?$u",
@@ -11645,6 +11762,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Festivals.SpiritEve.Louie": "Siehe die Exzellenz vor dir, @. Heute verkleide ich mich als meinen Lieblingshelden - Louie Amethyne!$4",
   "Festivals.SpiritEve.Irene": "Ich glaube, ich drehe durch!!$4#$b#Herr Pika hat gerade meine Spirit's Eve Leckereien gelobt!$h#$e#Oh, ich habe leider keine dabei.$4#$h#Ariah und Louie haben die restlichen Süßigkeiten schon gegessen.$h",
   "Festivals.SpiritEve.Sonny": "Planen Sie, sich in das Labyrinth zu wagen, Herr @? Viel Glück bei der Schatzsuche!$h^Planen Sie, sich in das Labyrinth zu wagen, Frau @? Viel Glück bei der Schatzsuche!$h",
+  "Festivals.SpiritEve.Sonny.GN": "Hast du vor, dich in das Labyrinth zu wagen, {{Title}} @? Viel Glück bei der Schatzsuche!$h",
   "Festivals.SpiritEve.Paula": "Diese Kekse sind einfach zu gut!$h#$b#Ich bin bereit, später in den daraus resultierenden Nahrungskoma zu verfallen. Ich habe sowieso heute Morgen meine Arbeit erledigt.$h",
   "Festivals.SpiritEve.Carmen": "Ich habe diesen Fisch dort gekocht!$h#$b#Aber niemand rührt ihn an.#$b#Vielleicht heben sie sich ihn für später auf?$h",
   "Festivals.SpiritEve.Blair": "Ay! Ich möchte in das Labyrinth gehen und alle versteckten Schätze finden!$h#$b#Nur um sicher zu gehen... Gibt es versteckte Schätze drinnen, richtig?#$b#Ich möchte nicht umsonst erschreckt werden!$u",
@@ -11689,6 +11807,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Festivals.WinterStar.Louie": "Was möchtest du als Geschenk, @?#$b#Oh wirklich? Ich hätte erwartet, dass du nach mehr strebst.",
   "Festivals.WinterStar.Irene": "Die Ausbreitung sieht göttlich aus! $h#$b#Gus und Pika sind ein dynamisches Duo! $h",
   "Festivals.WinterStar.Sonny": "Frohe Wintersternzeit! Ich wünsche Ihnen großes Glück, Herr @. Möge Yoba Ihre Reise segnen.$4^Frohe Wintersternzeit! Ich wünsche Ihnen großes Glück, Frau @. Möge Yoba Ihre Reise segnen.$4",
+  "Festivals.WinterStar.Sonny.GN": "Frohes Wintersternfest! Ich wünsche dir großes Glück, {{Title}} @. Möge Yoba deine Reise segnen.$4",
   "Festivals.WinterStar.Paula": "Viel Spaß, @$h#$b#Ich hoffe, du hast ein frohes und wundervolles Wintersternfest!$h#$e#Wenn du dich jemals unwohl fühlst und zufällig in Ridgeside Dorf bist, zögere nicht, in die Klinik zu kommen, okay?$h",
   "Festivals.WinterStar.Carmen": "Ich bin glücklich, dass ich heute mit meiner Tochter verbringen kann. $h#$b#Mögen deine Wünsche in Erfüllung gehen! $h",
   "Festivals.WinterStar.Blair": "Wofür bist du dankbar, @?#$b#Ich bin definitiv dankbar für all die schönen Fangs, die ich dieses Jahr gemacht habe.$h",
@@ -11713,6 +11832,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Festivals.Gathering.Sonny": "Ich hoffe, dass alle im Dorf Spaß an den Aktivitäten haben. Wettbewerb in einer gesunden Umgebung ist sehr vorteilhaft. $h",
   "Festivals.Gathering.Paula": "Harvey und ich haben gerade über eine Fallstudie gesprochen.#$b#Achte nicht auf uns, genieße einfach das Fest.$h#$e#Jetzt, da wir fertig sind, werde ich eine Weile an den Ständen stöbern.$h",
   "Festivals.Gathering.Carmen": "Sohn!$h^Tochter!$h#$b#Du solltest früh losgehen, um Essen nach der Party mit nach Hause zu bringen, damit du nichts verpasst.$h",
+  "Festivals.Gathering.Carmen.GN": "Cielo!$h#$b#Du solltest früh Essen holen, um es nach der Party mit nach Hause zu nehmen, damit du nichts verpasst.$h",
   "Festivals.Gathering.Blair": "Maru! Was macht diese Flasche?$h#$b#Kann ich sie trinken?#$b#%Blair nimmt die Flasche und hält sie nah an ihre Nase.#$b#Ay dios mio! Das ist eklig!$u#$b#Besser verstecke das vor Keahi! Er könnte es gegen uns verwenden!$h",
   "Festivals.Gathering.Lorenzo": "Puh! Ich bin froh, dass Pierre keinen Stand aufgestellt hat.$u#$b#Ich würde wirklich nicht wissen, wie ich mit einem Freund konkurrieren könnte, ohne emotional zu werden.$h",
   "Festivals.Gathering.Shanice": "Es ist eine Überraschung, dass Pierre heute keinen Stand aufgebaut hat.#$b#Wir hätten auch einen eigenen Stand aufgebaut, um zu konkurrieren, aber wir haben beschlossen, dass die Kinder dieses Mal Spaß haben sollten.$h",
@@ -12109,6 +12229,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "event-75160249.04": "Danke, Richard.#$b#Es ist schon so lange her, seit ich meine Jungs gesehen habe.$s#$b#Ich hoffe, es geht ihnen gut...$s",
   "event-75160249.05": "Oh, @!$h#$b#Komm her, wir haben jemanden, den wir gerne vorstellen möchten.$h",
   "event-75160249.06": "Guten Tag, junger Mann.^Guten Tag, junge Dame.#$b#Und wer bist du?",
+  "event-75160249.06.GN": "Guten Tag. Und wer bist du?",
   "event-75160249.07": "Ah, das ist @, der neue Bauer, der auf den %farm Bauernhof gezogen ist.$h",
   "event-75160249.08": "Ah, schön, dich kennenzulernen.$h#$b#Entschuldige mein Aussehen.#$b#Die Person neben mir im Bus hat ihr Getränk über meinen Anzug verschüttet.$a#$b#Die Leute sollten wirklich vorsichtiger sein.$a",
   "event-75160249.09": "Wie auch immer, mein Name ist Naomi. Ich komme gerade aus einer weit entfernten Stadt in der Nähe der nördlichen Grenze dieser Republik zurück. #$b#Mein Mann und ich haben dort gearbeitet, um die Familie zu unterstützen und Geld an unsere Kinder zu schicken. #$b#Ich glaube, du hast meine Jungs, Shiro und Yuuma, kennengelernt? $h",
@@ -12163,6 +12284,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "event-75160251.05": "Okay, wir sind verloren.",
   "event-75160251.06": "Ich hoffe, dass jemand vorbeikommt, damit wir nach dem Weg fragen können...$s",
   "event-75160251.07": "Oh! Junger Mann!$h^Oh! Junge Dame!$h#$b#Wären Sie so nett und helfen uns, den Weg zur Seilbahn zu finden?#$b#Wir scheinen unseren Weg verloren zu haben.$s",
+  "event-75160251.07.GN": "Oh! Könntest du so lieb sein und uns helfen, den Weg zur Seilbahn zu finden?#$b#Wir scheinen uns verlaufen zu haben.$s",
   "event-75160251.08": "Ah, etwas Hilfe! Danke.$h",
   "event-75160251.09": "Oh, nein, wir sind keine Touristen.$h#$b#Wir sind nur schon lange nicht zurückgekehrt.$s",
   "event-75160251.10": "Wir sind um die Welt gereist.#$b#Aus... Gründen...$s",
@@ -13036,13 +13158,6 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "event-afterEggHunt.04": "Und jetzt, der Gewinner der diesjährigen Eiersuche...",
   "event-afterEggHunt.05": "Hier ist dein Preis! Viel Spaß.",
   "event-afterEggHunt.06": "Nun, das war es für das diesjährige Eierfest. Danke, dass ihr alle gekommen seid!",
-
-// Raeriyala relic offering responses
-  "Offering.Candle.1": "Oh! Das gehörte tatsächlich einmal meinem Geliebten!$h#$b#Es ist ein besonderes Relikt, das verhindert, dass korrupte Geister denen erscheinen, die es nachts bei sich tragen.#$b#Du könntest das mehr brauchen als ich, oh Bauer.$h#$b#Trotzdem vielen Dank für die Absicht!$h",
-  "Offering.Frost.1": "Ah! Der legendäre Stein des Winters!$h#$b#Dieser gehörte einst dem Geist der Schneestürme und des Schnees.#$b#Aber seine Kraft wurde zu kalt und brachte Traurigkeit über die Menschen im Dorf, mit denen er eine Verbindung aufgebaut hatte.$s#$b#Es ist nur ein Stück eines einst mächtigen Artefakts, aber es ist immer noch kraftvoll.#$b#Seine kalte Aura verhindert, dass gefürchtete Wraiths sich dir nähern, also könnte er für dich nützlich sein.#$b#Also, hier hast du ihn!$h",
-  "Offering.Music.1": "Meladilas Kiste! Sie ist hier im Dorf!?$u#$b#Na das ist eine Überraschung!$h#$b#Dieses Relikt war eines der Lieblingsspielzeuge des Harmoniegeistes!$h#$b#Seine Musik scheint zu verhindern, dass diese abscheulichen Viperials jemals in deine Nähe kommen.#$b#Also werde ich dir das zurückgeben - ich hoffe, es kann von einigem Nutzen sein.$h",
-  "Offering.Hero.1": "Oh! Ist das nicht die Statue von Cyril?$h#$b#Er war einmal ein mutiger Abenteurer, der dieses Dorf vor einer Horde von Schlangenbestien gerettet hat.#$b#In seinen letzten Tagen war er auch derjenige, der deiner Großmutter das Kämpfen beigebracht hat.#$b#Diese Statue ehrt sein Andenken, obwohl irgendein mysteriöser Lichtblitz die Erinnerungen der Einheimischen daran ausgelöscht zu haben scheint.$s#$b#So sind seine Geschichten von Heldentum nun verloren.$s#$b#Ich bin überrascht, dass du dieses Relikt gefunden hast.$h#$b#Es hält jede Schlangenbestie im Wald fern.#$b#Also werde ich es dir zurückgeben.$h",
-  "Offering.OldFox.1": "Ist das nicht?$l#$b#Ja... Es ist ihres...$l#$b#Ein Bündel aus meinem Fell, ein Stück von dem Schal meiner Geliebten und ihr spezielles grünes Gummiband, um alles zusammenzubinden.$4#$b#Das war ihr Glücksbringer.$4#$b#Bitte kümmere dich darum, lieber Bauer.$4",
 
 //Island dialogue for 2.0 NPCs
   "Anton.Dialogue.Resort_Entering": "Schön!$h#$b#Ich werde direkt zur Bar gehen, bevor ich mich im Liegestuhl erschöpft mache.$h",
@@ -14217,6 +14332,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 
   //Torts 0 heart event
   "event-75160280.01": "Hallo mein Herr!^Hallo gnädige Frau!",
+  "event-75160280.01.GN": "Hallo da, mein Herr!",
   "event-75160280.02": "Oh, hallo, @! Schöner Tag, oder?$1#$b#Wenn du nicht zu beschäftigt bist, möchtest du uns ein bisschen Gesellschaft leisten?$1",
   "event-75160280.03": "Sicher!",
   "event-75160280.04": "Entschuldigung, ich habe wirklich keine Zeit.",
@@ -14238,6 +14354,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 
   //Torts 2 heart event
   "event-75160281.01": "Hallo, Herr @!^Hallo, Fräulein @!#$b#Es tut mir leid, Sie zu stören, aber können Sie uns bei etwas helfen?",
+  "event-75160281.01.GN": "Hallo, Bauer @!#$b#Entschuldige die Störung, aber kannst du uns bei etwas helfen?",
   "event-75160281.02": "Ja! Kannst du uns einige Ernten von deiner Farm geben?",
   "event-75160281.03": "Wir werden Torts eine schöne leckere Leckerei geben!$1",
   "event-75160281.04": "Ja! Hast du etwas, das du uns geben kannst?",
@@ -14250,7 +14367,9 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "event-75160281.11": "...",
   "event-75160281.12": "Torts nimmt widerwillig einen einzigen Bissen, lässt den Rest jedoch unberührt.",
   "event-75160281.13": "Uh oh, Herr @, es sieht so aus, als wären Ihre Gemüse schlecht.^Uh oh, Fräulein @, es sieht so aus, als wären Ihre Gemüse schlecht.$u",
+  "event-75160281.13.GN": "Uh oh, @, es sieht so aus, als wären deine Gemüse schlecht.",
   "event-75160281.14": "Keahi!! Das ist nicht wahr!!! Große Schwester Alissa sagt, dass Mister @'s Gemüse das Beste im Tal ist!$5^Keahi!! Das ist nicht wahr!!! Große Schwester Alissa sagt, dass Miss @'s Gemüse das Beste im Tal ist!$5",
+  "event-75160281.14.GN": "Keahi!! Das ist nicht wahr!!! Große Schwester Alissa sagt, @'s Gemüse ist das beste im Tal!$5",
   "event-75160281.15": "Hmm, mein Vater kocht auch gerne mit Sachen vom %farm Bauernhof... Ich denke, das ist es nicht.",
   "event-75160281.16": "Vielleicht mag Torts einfach kein Gemüse?",
   "event-75160281.17": "Ich auch, Torts, ich auch.$4",
@@ -14296,6 +14415,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "event-75160281.TortsTomKha.05": "Haha, alles für dich, du verrückte Bande.$1",
   "event-75160281.TortsTomKha.06": "*Glückliche Schildkrötenlaute*$1",
   "torts2_1": "Vielen Dank, Herr!$1^Vielen Dank, Frau!$1",
+  "torts2_1.GN": "Vielen Dank, Bauer!$1",
   "torts2_2": "Oh, okay... Nun gut, dann tschüss!",
   "torts2_3": "In Ordnung, ich werde es schnell zubereiten!",
 
@@ -15235,6 +15355,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   //Sonny visits the fox statue (Sonny 2 hearts)
   "event-75160361.01": "Danke für deinen Segen...",
   "event-75160361.02": "Guten Morgen, Herr @.$h^Guten Morgen, Frau @.$h#$b#Sind Sie auch hier, um den Schrein des Berggeistes zu besuchen?",
+  "event-75160361.02.GN": "Guten Morgen, {{Title}} @.$h#$b#Bist du auch hier, um den Schrein des Berggeistes zu besuchen?",
   "event-75160361.03": "(Was soll ich sagen?)",
   "event-75160361.04": "Ja, ich bin hier, um Dank auszusprechen.",
   "event-75160361.05": "Ich weiß nicht wirklich viel darüber.",
@@ -15381,6 +15502,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "event-75160380.02": "Alles erledigt! Komm jetzt mit nach draußen, damit ich dir das zeigen kann, worüber ich gesprochen habe.$1",
   "event-75160380.03": "Sie wissen, mein Ex-Mann und ich sind hierher gezogen, nur wenige Jahre bevor Blair geboren wurde, aber die Fischerei ist seit vielen Jahrzehnten das Familiengewerbe.#$b#Als Fischer kennen Sie auch die Schwierigkeiten, von ihr zu leben.#$b#Das Geld war schon knapp und dann ging meine Mann weg und jetzt musste ich mich alleine um meinen kleinen hija kümmern.$s",
   "event-75160380.04": "Aber! Ich bin nicht einfach irgendeine Frau, weißt du. Ich bin eine Rivera! Also bin ich aufgestanden, habe mich abgeklopft und härter gearbeitet als je zuvor, um für uns beide zu sorgen.$1#$b#Und nachdem ich so lange in diesem Dorf gefischt habe, habe ich gelernt, wo sich die größten Fische verstecken - und die großen bringen gutes Geld ein!$1#$b#Ich habe mein Geheimnis nur mit Blair geteilt, aber du bist ein guter niño - ich denke, du verdienst es auch, es zu wissen.$1^Ich habe mein Geheimnis nur mit Blair geteilt, aber du bist eine gute niña - ich denke, du verdienst es auch, es zu wissen.$1",
+  "event-75160380.04.GN": "Aber! Ich bin nicht irgendeine Frau, weißt du. Ich bin eine Rivera! Also stand ich auf, klopfte mir den Staub ab und arbeitete härter denn je, um für uns beide zu sorgen.$1#$b#Und nachdem ich so lange in diesem Dorf gefischt habe, habe ich gelernt, wo die größten Fische sich verstecken - und diese großen bringen gutes Geld ein!$1#$b#Ich habe meinen Trick nur mit Blair geteilt, aber du bist buena gente - ich denke, du verdienst es auch zu wissen.$1",
   "event-75160380.05": "Also, hier ist, was du tust...",
   "event-75160380.06": "Du hast das Rivera Familiengeheimnis gelernt! Alle Fische aus Ridgeside Dorf werden jetzt zum doppelten Preis verkauft.",
 
@@ -18933,7 +19055,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "June.marriedA": "Bist du ernst? Das ist ziemlich unhöflich gegenüber deinem Ehepartner, weißt du.$5",
   "June.marriedB": "Denkst du, ich würde jemanden heiraten wollen, der seinen Ehepartner betrügt? $5",
   "June.refusal_no_heartsA": "...Entschuldigung, wer bist du? $6",
-  "June.refusal_no_heartsB": "...Ähm, kenne ich dich?$6",
+  "June.refusal_no_heartsB": "Wow, was für eine schöne Halskette! Die Glasarbeit auf dieser Muschel ist exquisit.$1",
   "June.refusal_knownA": "Es tut mir leid, @, aber ich bin noch nicht ganz bereit dafür.$7",
   "June.refusal_knownB": "Ich möchte dich nicht enttäuschen, aber ich sehe uns einfach nicht so.$7",
   "June.refusal_botherA": "Bitte hör einfach auf. Ich habe keine Zeit dafür. $5",
@@ -19629,7 +19751,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "MovieData.Bryle.WinterMovie1.Dislike.AfterMovie": "Es war... interessant? Trotzdem danke für die Einladung.$s",
 
 //New Faye and Bryle events
-  // Faye 6 heart
+  // Faye 8 heart pt 1
   "event-75160319.01": "Grüße, Fräulein Faye!",
   "event-75160319.02": "Was zum Teufel-!?!?$3",
   "event-75160319.03": "Hallo Liebling!",
@@ -19774,7 +19896,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "event-75160319.75160319NOOptions.40": "Ooooh! Ich sollte sofort mit der Planung beginnen!$h#$b#Oh ja! Und auch dafür sparen.$h",
   "event-75160319.75160319NOOptions.41": "Aber zuerst! Ein Besuch bei Pika's!$h#$b#All diese Emotionen, Dramatik und Inspiration haben mich absolut hungrig gemacht!$u#$b#Warum kommst du nicht mit, @?$h",
   "event-75160319.75160319NOOptions.42": "*burp* Ah! Jetzt habe ich das Gefühl, dass ich eine fabelhafte Modenschau planen könnte!$h",
-  // Faye 8 hearts pt 2
+  // Faye 8 hearts pt 3
   "event-75160449.01": "@! Du bist gekommen! Wunderbar! $h#$b#Einen Moment bitte.",
   "event-75160449.02": "Pst! Faye! Weiß @ von unserem kleinen Geheimnis?$4",
   "event-75160449.03": "Psst! Ja! Es ist ein so lustiges kleines Geheimnis! $h#$b#Jeder denkt, ich helfe nur diesem anonymen Designer. #$b#Auch meine Eltern! $h",
@@ -19952,7 +20074,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "event-75160449.75160449Brayle.99": "Die Veranstaltung war spaßig! #Faye und Bryle scheinen glücklich damit zu sein, wie alles gelaufen ist.",
   "event-75160449.75160449Brayle.100": "Neue Kleidung im Laden von Faye freigeschaltet!",
   "event-75160449.75160449Brayle.101": "*Gähn* Ich glaube, ich brauche eine Schönheitsschlaf...$6",
-  // Faye 8 hearts pt 1
+  // Faye 8 hearts pt 2
   "event-75160320.01": "@! Ich. Habe. Fabelhafte Neuigkeiten!$h#$b#Ich habe es geschafft!!!$h#$b#Es hat eine Weile gedauert, aber es ist alles bereit!$h",
   "event-75160320.02": "Meine Modenschau, albern!$h#$b#Eine Reihe von schlaflosen Nächten und schläfrigen Arbeitstagen, aber ich bin wirklich bereit, meine Kollektion zu präsentieren!$h#$b#Ich nenne sie die \"Traummärchen-Kollektion\"!$h",
   "event-75160320.03": "Es wird fantastisch fabelhaft sein, @!$h#$b#Alles wird in 3 Tagen bereit sein.#$b#Als wundervoller Freund von mir wollte ich dich persönlich einladen.$h#$b#Du warst immer ein guter Freund für mich, auch als ich super beschäftigt war, mich auf all das vorzubereiten.$l#$b#Also möchte ich, dass du dabei bist, okay?$h",
@@ -20716,6 +20838,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "stage.Trinnie": "Schau dir diesen speziellen Zug an, den ich gemacht habe! Er heißt der Funkelnde Ballerina-Dreh der Zerstörung!$h#$e#...Hast du ihn gesehen?$h",
   "stage.Trinnie-withYuuma": "Keahi!! Ich habe dich in die Brust getroffen und du weißt es.$a#$b#Los, Yuuma! Du bist der Schiedsrichter, du hast es gesehen! Sag ihm, er ist draußen!$a",
   "aqualab.Trinnie": "Herr @!! Herr @!!$2^Frau @!! Frau @!!$2#$b#Keahi sagt, es gibt einen Gototo-- Goroto-- ...gruseligen blutigen giftigen Fisch im Fluss!$2#$b#Aber das ist nicht echt, oder? Er lügt, oder??$2",
+  "aqualab.Trinnie.GN": "{{Title}} @!! {{Title}} @!!$2#$b#Keahi sagt, es gibt einen Gototo-- Goroto-- ...einen gruseligen blutigen giftigen Fisch im Fluss!$2#$b#Aber das ist nicht echt, oder? Er lügt, oder??$2",
   "stage.Louie": "Eigentlich, Keahi, muss ich nicht springen, weil ich in einer Schwerkraftblase bin, also bin ich immer in der Luft.#$b#Ich gebe dir auch eine, wenn du mich gegen dich gewinnen lässt.",
   "aqualab.Louie": "Ich weiß alles, was es über Gotoroanische blutsaugende Giftfische zu wissen gibt. Meine Familie hat sogar zwölf davon in unserem Aquarium!#$b#Chef Irene macht sie manchmal sogar zum Abendessen. Wenn ihr mal vorbeikommt, lasse ich euch vielleicht einen probieren.",
   "afterplaying.Louie": "Ich spiele gerne mit allen anderen Kindern!$h#$b#...Ich hoffe, sie laden mich auch das nächste Mal zum Spielen ein.$s",
@@ -21491,16 +21614,29 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "AguarSOLetter.text": "@,^Ausgezeichnete Arbeit bei den Geoden. Das sind eindeutig sehr hochwertige Exemplare. Falls ich deine Hilfe wieder benötige, denke ich, dass es am besten ist, wenn du einen schnelleren Weg ins Dorf hast. Vielleicht wird dir das nützlich sein.^^- Aguar^P.S. Du hast das nicht von mir gelernt...",
 
         // June
+  "Mail.JuneLetter": "@,^Nun, nach der letzten Nacht, schulde ich dir wohl eine Erklärung... Oder vielleicht ist sie dir sogar egal, aber trotzdem -- das hat mich die ganze Nacht beschäftigt, also würde ich es schätzen, wenn du mir zuhören würdest. Wenn es in Ordnung ist, würdest du mich am Strand treffen, damit wir reden können? Ich werde dort von Mittag bis zum Sonnenuntergang sein oder so... Ich hoffe, dich dort zu sehen.^^Beste Grüße,^June",
   "June.PlatonicArrival.title": "Hinweis vom Hotel",
   "June.PlatonicArrival.text": "Liebe/r @,^^Das Log Cabin Hotel freut sich bekanntzugeben, dass unser hauseigener Musiker morgen für die Herbst- und Wintersaison dieses Jahres zurückkehrt. Vorstellungen finden jeweils donnerstags bis samstags von 17:00 Uhr bis 21:00 Uhr und samstags sowie sonntags von 12:00 Uhr bis 15:00 Uhr statt. Wir freuen uns auf Ihre Anwesenheit.^^Hotelverwaltung Credit:Translatereating",
   "June.PlatonicDeparture.title": "Abschiedsbrief von June",
   "June.PlatonicDeparture.text": "Liebe @,^^Leider ist mein Aufenthalt im Holzhütten-Hotel für dieses Jahr vorüber, daher habe ich das Dorf heute Morgen früh verlassen, bevor Du diesen Brief liest. Ich wünsche Dir ein gutes neues Jahr, und ich freue mich darauf, Dich bei meiner Rückkehr im Herbst wiederzusehen.^^Mit besten Grüßen,^June",
-  "June.RomanticArrival.title": "Junes Überraschung",
-  "June.RomanticArrival.text": "Liebe/r @,^^ich habe diesen Brief im Bus geschrieben und ihn in deinen Briefkasten geschmuggelt, sobald ich ausgestiegen bin. Wenn du das hier liest, bedeutet es, dass ich wieder im Hotel bin - es bedeutet auch, dass du Zeit damit verschwendest, diesen Brief zu lesen, anstatt Zeit mit mir zu verbringen!! Also komm rüber und lassen uns die verlorene Zeit nachholen - wir beide haben viel nachzuholen...^^Ich warte,^June",
   "June.RomanticDeparture.title": "Junes Abschied",
   "June.RomanticDeparture.text": "Liebe/r @,^^Ich schreibe dir diesen Brief gerade in der tiefsten Nacht um 3 Uhr morgens, oben auf dem Briefkasten neben der Seilbahnstation am Kliff. Bald werde ich meine letzte Fahrt den Berg hinunter für das Jahr antreten. Ich werde das Dach deiner Farm ein letztes Mal sehen, und das wird mein letzter Blick auf dich sein, bis zum nächsten Herbst... Während du in deinem gemütlichen kleinen Bauernhaus schläfst, frage ich mich, ob du von mir träumst, genauso wie ich jede Nacht von dir träumen werde für die nächsten sechs Monate? Glücklicherweise sind die Erinnerungen, die wir gemacht haben, mehr als genug, um mich in diesen Wolken zu halten, bis ich dich wiedersehen kann. Vergiss mich nicht, und ich verspreche dasselbe zu tun.^^Mit all meiner Liebe,^June",
+  "June.Week1.title": "",
+  "June.Week1.text": "Liebe,r @,^^Ich hatte vor, während dieser Busfahrt zum Flughafen zu schlafen, aber es scheint, als wäre mein Körper nicht daran interessiert, ohne dich an meiner Seite zu schlafen. Also sitze ich hier und schreibe dir wieder, keine zwei Stunden, nachdem ich dir das letzte Mal geschrieben habe. Natürlich werde ich diesen Brief frühestens morgen absenden können, und dann wird es wer weiß wie lang dauern, bis er dich erreicht... Ich kann nicht anders, als mich zu fragen, was du bis zu dem Zeitpunkt, wenn du das hier liest, gemacht haben wirst. Dich kennend, @, bin ich mir sicher, dass du ununterbrochen herumgelaufen bist, wie du es immer tust. Ich erinnere mich daran, wie du mir erzählt hast, dass der Frühling besonders geschäftig für Bauern ist, stimmt's? Ich weiß, du musst arbeiten und so, aber... wenn ich weg bin, wer wird dann darauf achten, dass du die Ruhe bekommst, die du brauchst? Dass du daran denkst, genug Wasser zu trinken und keine Mahlzeiten aus Versehen auszulassen? Bleib wann immer möglich aus der Sonne und benutze Sonnencreme, wenn es nicht geht? (Und trage sie regelmäßig wieder auf, natürlich! Mein Baby darf absolut keinen Hautkrebs bekommen, während ich weg bin!) Ugh, das ist jetzt schon doof... Versprich mir, dass du auf dich aufpassen wirst, ja? Ich weiß, ich weiß, ich mache mir unnötig Sorgen, aber ich vermisse dich so, so sehr, und dir zu schreiben, scheint das Einzige zu sein, das meine Nerven beruhigt. Das, und natürlich die Erinnerung an unsere gemeinsame Zeit... Vielleicht lege ich jetzt den Stift nieder und stelle mir dein strahlendes Lächeln vor, und dann findet mich vielleicht der Schlaf.^^Hoffentlich träume ich innerhalb einer Stunde von dir,^June",
+  "June.Week2.title": "",
+  "June.Week2.text": "Liebe,r @,^^Erinnerst du dich, wie ich meinen letzten Brief damit beendet habe, in der Hoffnung, dass ich von dir träumen würde? Nun, das habe ich, und seitdem sehe ich dich jede Nacht in meinen Träumen. Tatsächlich habe ich dich erst letzte Nacht wieder gesehen -- und das nicht zu knapp. So sehr, dass das Schreiben dieses Briefes das Zweite war, was ich nach dem Aufwachen getan habe. (Ich kann mir praktisch das Gesicht vorstellen, das du jetzt machst, und ich möchte, dass du weißt, dass ich keine Wahl hatte! Sonst wären meine Finger den ganzen Tag von den Tasten abgedriftet.) Meine Konzentration ist natürlich immer noch dahin, aber das lässt sich nicht ändern -- Meine Gedanken sind ständig bei dir, egal was ist, und ich muss sagen, es ist ein ziemlich vertrautes Gefühl geworden. Es ist warm und gemütlich, genau wie wenn ich meinen Mantel um dich lege und dich in meine Arme nehme, um dich in der Kälte aufzuwärmen. Ah, wo wir gerade davon sprechen, vielleicht würde eine kalte Dusche mich aus diesem Bann reißen, den du von einem anderen Kontinent aus auf mich geworfen hast? Wir werden sehen.^^Gerade überhaupt nicht kalt, nicht mal ein bisschen,^June",
+  "June.Week3.title": "",
+  "June.Week3.text": "Liebe,r @,^^Heute ist der dreizehnte, was bedeutet, dass in Pelican Town der Blumentanz ist. Und so froh ich auch bin, weit, weit weg von all dem Pollen und der Heteronormativität zu sein, muss ich zugeben, dass ein kleiner Teil von mir (okay, gut, ein großer Teil) wünscht, ich wäre dort, um es mit dir zu teilen. Allein der Gedanke, dich nah zu halten, dich in meinen Armen zu drehen, dich zu neigen und dein brillantes Lachen als Antwort zu hören, heller als jeder sonnige Frühlingstag... Ehrlich gesagt, würde ich eine ganze Flasche Antihistaminika runterschlucken, um dabei sein zu können, saisonale Allergien verdammt. Vielleicht habe ich eines Tages einen Grund zu bleiben und es mit dir zu verbringen... Bis dahin werde ich einfach hier allein in diesem winzigen Hotelzimmer sein, grün vor Neid, während ich mich frage, wer genau mit meiner Liebe unter den Blumen tanzen durfte. Mach dir keine Sorgen, ich werde ihnen keinen Groll hegen -- solange sie nicht für selbstverständlich nehmen, wie verdammt glücklich sie sind.^^Liebeskrank,^June",
   "June.RomanticSummer.title": "Liebesbrief von June",
   "June.RomanticSummer.text": "Lieber @,^^Es ist schwer zu glauben, dass es erst ein Monat her ist, seit ich dich das letzte Mal gesehen habe, wenn es sich wie ein ganzes Leben anfühlt. Ich möchte, dass du weißt, dass keine Stunde vergeht, in der ich nicht an dich denke. Das mag sich anhören, als würde ich trauern, aber was ich eigentlich sagen will ist - ich schätze unsere gemeinsamen Erinnerungen wirklich sehr. Du erhellst meine Welt so sehr, selbst wenn du physisch nicht darin bist.^^Vermisse dich immer,^June",
+  "June.Week5.title": "",
+  "June.Week5.text": "Liebe,r @,^^In letzter Zeit habe ich viel über Widrigkeiten nachgedacht. Mit anderen Worten, ja, ich habe getrübt... aber nicht mehr als ich es normalerweise tue, das verspreche ich! Wie auch immer, was ich sagen wollte, ist - manchmal beschließt das Leben, dir einen Curveball zu werfen, um dein Metall zu testen, sei es, dein Leben von Grund auf in einer wörtlichen Ein-Pferd-Stadt neu zu beginnen, oder den Liebsten deines Lebens ein halbes Jahr lang nicht sehen zu können. Es hat keinen Sinn, wütend oder verärgert zu sein, da es wirklich keinen Weg darum gibt, und der Versuch, einen zu finden, wird nur in Frustration enden. Also habe ich beschlossen, diese Gelegenheit zu nutzen, um das Blatt gegenüber dem Schicksal zu wenden und ihnen zu zeigen, dass sie mich egal, was sie versuchen, nicht unterkriegen können. Ich werde daraus hervorgehen mit einem tieferen Herzen, einer weiteren Weltsicht und noch stärkeren Verbindungen zu denen, die ich liebe. Ich hoffe, du kannst das Gleiche tun.^^Gemeinsam mit dir,^June",
+  "June.Week6.title": "",
+  "June.Week6.text": "",
+  "June.Week7.title": "",
+  "June.Week7.text": "",
+  "June.RomanticArrival.title": "Junes Überraschung",
+  "June.RomanticArrival.text": "Liebe/r @,^^ich habe diesen Brief im Bus geschrieben und ihn in deinen Briefkasten geschmuggelt, sobald ich ausgestiegen bin. Wenn du das hier liest, bedeutet es, dass ich wieder im Hotel bin - es bedeutet auch, dass du Zeit damit verschwendest, diesen Brief zu lesen, anstatt Zeit mit mir zu verbringen!! Also komm rüber und lassen uns die verlorene Zeit nachholen - wir beide haben viel nachzuholen...^^Ich warte,^June",
 
 //Shops
   "RSVJericShop": "Hey! Wie kann ich dir helfen?",
@@ -21711,7 +21847,26 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "RSV.cjbwarps.forest": "Ridge Wald",
   "RSV.cjbwarps.falls": "Ridge Wasserfälle",
   "RSV.cjbwarps.spiritrealm": "Geisterreich",
-  "RSV.cjbwarps.summitfarm": "Gipfelhof"
+  "RSV.cjbwarps.summitfarm": "Gipfelhof",
 
+//Faye 6 heart
+  "event-75160416.01": "Hi, @!$h#$b#Warte mal kurz. Ich warte auf Keahi.",
+  "event-75160416.02": "Fast fertig, Faye!$h",
+  "event-75160416.03": "Hey, mach es hübscher, Keahi.",
+  "event-75160416.04": "Dieses fabelhafte Vater-und-Sohn-Duo wollte, dass ich Keahis Version eines Omeletts probiere!$h#$b#Ist das nicht fabelhaft?!$h",
+  "event-75160416.05": "Fertig!$h#$b#Auf geht's! Woop woop!$h",
+  "event-75160416.06": "OMY Es ist da!$h",
+  "event-75160416.07": "Probier es! Probier es!$h",
+  "event-75160416.08": "Danke nochmal, dass du seiner Bitte nachgekommen bist, Faye.#$b#Keine Sorge! Dieser kleine Mann hat einige anständige Kochkünste.$h",
+  "event-75160416.09": "Du weißt, ich bin immer willkommen für eine Mahlzeit!$h#$b#Es sieht fabelhaft aus!$h",
+  "event-75160416.10": "Hau rein! Hau rein!$h",
+  "event-75160416.11": "Fabelhaft lecker!$h",
+  "event-75160416.12": "Juhu! Faye hat gesagt, es war lecker, Papa!$h",
+  "event-75160416.13": "Gute Arbeit, Kleines!$h",
+  "event-75160416.14": "Hey @! Komm und iss etwas mit mir.$h#$b#Warte. Noch ein großer Bissen, dann gehört es ganz dir.",
+  "event-75160416.15": "*mampf mampf* Warte! Der letzte Bissen! Ich schwöre!$8",
+  "event-75160416.16": "*mampf* Warte, ich schwöre, das ist der letzte Bissen!$8",
+  "event-75160416.17": "Faye hat dir letztendlich nur einen Löffel vom Omelett übrig gelassen.#Es war aber wirklich lecker!",
+  "event-75160416.18": "*Rülpser* Es tut mir so leid, ich habe mich hinreißen lassen! Es war einfach so lecker!$h"
 
 }

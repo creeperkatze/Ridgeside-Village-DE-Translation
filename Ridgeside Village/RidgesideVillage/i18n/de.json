@@ -255,6 +255,12 @@
   "EnableTouristNPCs.Description": "Schaltet die Touristen NPCs im Hotel ein",
   "ShowRSVCustomMap": "ZeigeRSVCustomMap",
   "ShowRSVCustomMap.Description": "Zeige einen Button auf der Weltkarte, um die RSV Karte anzuzeigen.",
+  "OddJobsWateringPrice": "Bewässerungskosten",
+  "OddJobsWateringPrice.Description": "Lege den Preis fest, den der Gelegenheitsjob-Bewässerungsdienst pro Pflanze kostet.",
+  "OddJobsFencePrice": "Zaunpreis",
+  "OddJobsFencePrice.Description": "Lege den Preis fest, den der Gelegenheitsjob-Zaunreparaturdienst pro Zaun kostet.",
+  "OddJobsPetPrice": "Streichelpreis",
+  "OddJobsPetPrice.Description": "Lege den Preis fest, den der Gelegenheitsjob-Streicheldienst pro Tier kostet.",
 
   "ErrorMessage": "Ridgeside Village scheint nicht korrekt installiert zu sein. Überprüfe die Logs für weitere Details."
 }
